@@ -24,14 +24,14 @@
 </header>
 
 <!-- SIDEBAR -->
-<aside id="sidebar" class="sidebar hidden">
-    <h2 class="sb-title">Lernfelder</h2>
+<aside id="sidebar" class="sidebar">
+    <h2>Lernfelder</h2>
     <div id="lfContainer"></div>
 </aside>
 
 <main id="content">
 
-    <!-- START -->
+    <!-- STARTSCREEN -->
     <section id="startScreen" class="screen">
         <div class="welcome-card">
             <h2>Willkommen!</h2>
@@ -43,31 +43,28 @@
     <section id="quiz" class="screen hidden">
         <div class="quiz-card">
             <h2 id="frage"></h2>
-            <p id="frageCounter" class="counter"></p>
-
-            <!-- Fortschritt -->
-            <div id="lfProgress" class="lf-progress">
-                <div class="lf-progress-bar"><div></div></div>
-                <span id="lfProgressText"></span>
-            </div>
+            <p id="frageCounter"></p>
 
             <div id="antworten"></div>
 
-            <!-- Fragen Navigation -->
+            <button id="weiterBtn" class="next-btn hidden">Weiter →</button>
+
             <div id="fragenNav" class="fragen-nav"></div>
 
-            <button id="weiterBtn" class="primary-btn hidden">Weiter →</button>
+            <div class="lf-progress">
+                <div class="lf-progress-bar"><div></div></div>
+                <span id="lfProgressText">0%</span>
+            </div>
         </div>
     </section>
 
     <!-- STATISTIK -->
     <section id="statistik" class="screen hidden">
         <div class="stats-card">
-            <h2>Lernstand</h2>
-
+            <h2>Gesamt-Lernstand</h2>
             <div id="kapitelStatList"></div>
 
-            <button onclick="closeStats()" class="primary-btn">Zurück</button>
+            <button class="blue-btn" onclick="closeStats()">⬅ Zurück</button>
         </div>
     </section>
 
