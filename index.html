@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Lernkarten — Alex</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+<header class="header">
+    <div class="menu-area">
+        <button id="menuBtn" class="menu-btn">☰</button>
+        <span class="menu-text">Menü</span>
+    </div>
+
+    <h1 class="title">Lernkarten — Alex</h1>
+
+    <div class="right">
+        <button id="statBtn" class="icon-btn">📊</button>
+        <span class="stat-text">Lernstand</span>
+    </div>
+</header>
+
+<!-- SIDEBAR -->
+<aside id="sidebar" class="sidebar hidden">
+    <h2 class="sb-title">Lernfelder</h2>
+    <div id="lfContainer"></div>
+</aside>
+
+<main id="content">
+
+    <!-- START -->
+    <section id="startScreen" class="screen">
+        <div class="welcome-card">
+            <h2>Willkommen!</h2>
+            <p>Wähle ein Lernfeld aus dem Menü aus</p>
+        </div>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="quiz" class="screen hidden">
+        <div class="quiz-card">
+            <h2 id="frage"></h2>
+            <p id="frageCounter" class="counter"></p>
+
+            <!-- Fortschritt -->
+            <div id="lfProgress" class="lf-progress">
+                <div class="lf-progress-bar"><div></div></div>
+                <span id="lfProgressText"></span>
+            </div>
+
+            <div id="antworten"></div>
+
+            <!-- Fragen Navigation -->
+            <div id="fragenNav" class="fragen-nav"></div>
+
+            <button id="weiterBtn" class="primary-btn hidden">Weiter →</button>
+        </div>
+    </section>
+
+    <!-- STATISTIK -->
+    <section id="statistik" class="screen hidden">
+        <div class="stats-card">
+            <h2>Lernstand</h2>
+
+            <div id="kapitelStatList"></div>
+
+            <button onclick="closeStats()" class="primary-btn">Zurück</button>
+        </div>
+    </section>
+
+</main>
+
+</body>
+</html>
