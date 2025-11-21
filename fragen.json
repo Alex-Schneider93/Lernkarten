@@ -2,731 +2,271 @@
   "Lernfälder": {
    "LF01V2 Das Unternehmen und die eigene Rolle im Betrieb":[
         {
-          "frage": "Welches Element ist rechtlich zwingender Bestandteil des dualen Ausbildungssystems?",
+          "frage": "Welcher Vertragstyp verpflichtet zur Herstellung eines konkreten Erfolgs?",
           "antworten": [
-            "Die Kombination aus betrieblicher Ausbildung und Berufsschulunterricht mit gemeinsamer Prüfungsverantwortung durch die IHK.",
-            "Der ausschließlich praxisorientierte Unterricht im Unternehmen ohne schulische Inhalte.",
-            "Eine vollständig schulische Ausbildung mit optionalen Betriebspraktika."
+            "Werkvertrag",
+            "Dienstvertrag",
+            "Kaufvertrag"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Instanz erlässt die Ausbildungsordnung für staatlich anerkannte Ausbildungsberufe?",
+          "frage": "Welches Gesetz bildet die rechtliche Grundlage für den Ausbildungsvertrag?",
           "antworten": [
-            "Das Bundesministerium für Bildung und Forschung (BMBF) nach Abstimmung mit den Sozialpartnern.",
-            "Die jeweils zuständige Berufsschule im Bundesland.",
-            "Der einzelne Ausbildungsbetrieb auf Basis interner Vorgaben."
+            "Berufsbildungsgesetz (BBiG)",
+            "Handelsgesetzbuch (HGB)",
+            "Allgemeines Gleichbehandlungsgesetz (AGG)"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Aussage beschreibt den Zweck des Ausbildungsrahmenplans?",
+          "frage": "Welche Aussage zur Kündigung nach der Probezeit ist korrekt?",
           "antworten": [
-            "Er definiert die bundesweit verbindliche sachliche und zeitliche Gliederung aller zu vermittelnden Ausbildungsinhalte.",
-            "Er regelt ausschließlich die Vergütung und den Urlaub eines Auszubildenden.",
-            "Er ersetzt den schulischen Rahmenlehrplan vollständig."
+            "Der Auszubildende kann nur aus wichtigem Grund fristlos kündigen.",
+            "Der Auszubildende darf jederzeit ohne Grund kündigen.",
+            "Der Ausbildende darf ohne Begründung kündigen."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Unterlage muss ein Auszubildender zwingend zur IHK-Abschlussprüfung vorlegen?",
+          "frage": "Welche Formulierung in einer Stellenausschreibung verstößt gegen das AGG?",
           "antworten": [
-            "Den ordnungsgemäß geführten Ausbildungsnachweis bzw. Tätigkeitsnachweis.",
-            "Eine Kopie des gültigen Personalausweises.",
-            "Eine Bestätigung der Berufsschulnoten durch den Klassenlehrer."
+            "Wir suchen junge, dynamische Mitarbeiter.",
+            "Wir suchen Mitarbeitende mit IT-Grundkenntnissen.",
+            "Wir erwarten Reisebereitschaft für Kundenprojekte."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Aussage zur Umschulung ist korrekt?",
+          "frage": "Welche Pflicht hat der Ausbildende laut BBiG?",
           "antworten": [
-            "Die Umschulung basiert rechtlich ebenfalls auf dem Berufsbildungsgesetz und folgt einer verkürzten, verdichteten Struktur.",
-            "Umschulungen sind rein schulische Maßnahmen ohne betriebliche Praxisanteile.",
-            "Der Unterricht ersetzt vollständig den Rahmenlehrplan der Berufsschule."
+            "Bereitstellung aller für die Ausbildung erforderlichen Mittel.",
+            "Kostenlose Bereitstellung eines Dienstwagens.",
+            "Übernahme der privaten Haftpflichtversicherung."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wer gilt in einer Umschulung formal als Ausbilder im Sinne des BBiG?",
+          "frage": "Was ist ein wesentliches Merkmal einer OHG?",
           "antworten": [
-            "Fachlich und pädagogisch geeignete Dozenten mit AEVO-Nachweis.",
-            "Der Praktikumsbetrieb alleine, unabhängig von der Qualifikation.",
-            "Der Kostenträger, unabhängig vom Fachwissen."
+            "Gesellschafter haften unbeschränkt mit Privatvermögen.",
+            "Es ist ein Mindestkapital von 25.000€ erforderlich.",
+            "Gewinne dürfen nur ausgeschüttet werden, wenn Rücklagen vorhanden sind."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Aufgabe übernimmt die IHK im dualen System?",
+          "frage": "Welche Aussage zur GmbH ist korrekt?",
           "antworten": [
-            "Sie führt Zwischen- und Abschlussprüfungen durch und überwacht die Ausbildungsqualität.",
-            "Sie organisiert den kompletten Berufsschulunterricht.",
-            "Sie stellt für jeden Betrieb den individuellen Ausbildungsplan zusammen."
+            "Die Haftung ist auf das Gesellschaftsvermögen beschränkt.",
+            "Die Gesellschafter haften zwingend persönlich.",
+            "Die GmbH darf keine Geschäftsanteile übertragen."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Aussage zur gestreckten Abschlussprüfung ist korrekt?",
+          "frage": "Was kennzeichnet die Kommanditgesellschaft (KG)?",
           "antworten": [
-            "Die Abschlussprüfung besteht aus Teil 1 und Teil 2, wobei beide Teile in die Gesamtnote einfließen.",
-            "Die Abschlussprüfung besteht nur aus einer einmaligen Prüfung am Ende der Ausbildung.",
-            "Die Zwischenprüfung ersetzt Teil 1 vollständig."
+            "Sie hat mindestens einen Vollhafter und einen Teilhafter.",
+            "Alle Gesellschafter haften unbeschränkt.",
+            "Eine natürliche Person darf nicht Gesellschafter sein."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Was ist die zentrale Funktion des Ausbildungsplans im Betrieb?",
+          "frage": "Wer darf eine Prokura erteilen?",
           "antworten": [
-            "Er leitet aus dem Ausbildungsrahmenplan einen konkreten, betriebsspezifischen Zeit- und Einsatzplan ab.",
-            "Er dient ausschließlich zur Erfassung der Urlaubsplanung.",
-            "Er ist ein freiwilliges Dokument ohne Bezug zur Ausbildungsordnung."
+            "Nur der Geschäftsinhaber bzw. gesetzliche Vertreter",
+            "Jeder Angestellte mit Handlungsvollmacht",
+            "Ein Prokurist darf weitere Prokura erteilen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Kompetenz zählt zu den Sozialkompetenzen?",
+          "frage": "Welche Aussage zur Gesamtprokura ist korrekt?",
           "antworten": [
-            "Team- und Konfliktfähigkeit im Umgang mit Kollegen und Kunden.",
-            "Sichere Programmierung objektorientierter Anwendungen.",
-            "Analytische Modellierung komplexer IT-Architekturen."
+            "Mindestens zwei Prokuristen müssen gemeinsam handeln.",
+            "Ein Prokurist darf allein für das Unternehmen unterschreiben.",
+            "Die Gesamtprokura gilt nur für eine einzelne Filiale."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Zu welchem Zweck dient der Rahmenlehrplan?",
+          "frage": "Was regelt ein Tarifvertrag hauptsächlich?",
           "antworten": [
-            "Er regelt landesweit die schulische Vermittlung der Lernfelder in der Berufsschule.",
-            "Er dient zur Berechnung der Vergütung.",
-            "Er ersetzt den Ausbildungsrahmenplan vollständig."
+            "Arbeitsentgelte und Arbeitsbedingungen",
+            "Individuelle Urlaubsanträge",
+            "Die interne Aufgabenverteilung in Unternehmen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Aussage beschreibt die Rolle des Ausbildungsvertrags korrekt?",
+          "frage": "Welche Aufgabe hat der Betriebsrat?",
           "antworten": [
-            "Er regelt Beginn, Dauer, Inhalte, Pflichten, Vergütung und Urlaub einer Ausbildung verbindlich.",
-            "Er dient ausschließlich der Dokumentation des Arbeitsverhältnisses ohne Bezug zur Ausbildung.",
-            "Er ersetzt alle gesetzlichen Vorschriften des BBiG."
+            "Mitbestimmung bei Personal- und Sozialangelegenheiten",
+            "Direkte Anweisung von Mitarbeitern",
+            "Festlegung der Geschäftsstrategie"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Fortbildungswege gehören zur IHK-Weiterbildungsstruktur?",
+          "frage": "Was passiert bei stark steigendem Angebot bei gleichbleibender Nachfrage?",
           "antworten": [
-            "Operative und strategische IT-Weiterbildungen wie IT-Spezialist oder IT-Projektleiter.",
-            "Ausnahmslos akademische Studiengänge.",
-            "Fortbildungen ausschließlich innerhalb eines Betriebs."
+            "Es entsteht ein Käufermarkt.",
+            "Es entsteht ein Verkäufermarkt.",
+            "Die Preise steigen automatisch."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Kompetenz gehört zur Methodenkompetenz?",
+          "frage": "Welche Güter zählen zu den immateriellen Gütern?",
           "antworten": [
-            "Systematisches Anwenden von Problemlösungs- und Lernstrategien.",
-            "Fundierte Kenntnisse in Netzwerktechnik.",
-            "Hohe Programmierkenntnisse."
+            "Patente und Lizenzen",
+            "Maschinen",
+            "Lebensmittel"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Was ist ein Ziel der beruflichen Handlungskompetenz?",
+          "frage": "Was beschreibt die Produktivität?",
           "antworten": [
-            "Berufliche Aufgaben selbstständig planen, durchführen und bewerten zu können.",
-            "Ausschließlich technische Vorgaben auszuführen.",
-            "Nur theoretische Inhalte zu beherrschen."
+            "Mengenmäßiges Verhältnis zwischen Output und Input",
+            "Das Verhältnis von Gewinn zum eingesetzten Kapital",
+            "Das Verhältnis von Kosten zu Umsatzerlösen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Gruppe zählt zu den Umschulungsbeteiligten?",
+          "frage": "Wie berechnet sich die Eigenkapitalrentabilität?",
           "antworten": [
-            "Umschüler, Ausbildender und Ausbilder.",
-            "Nur der Umschüler und der Kostenträger.",
-            "Nur der Betrieb."
+            "Gewinn / Eigenkapital * 100",
+            "Gewinn / Gesamtkapital * 100",
+            "Umsatz / Eigenkapital * 100"
           ],
           "richtige_antwort": 0
         },
-
         {
-          "frage": "Welche Pflicht gehört zu den Pflichten des Auszubildenden?",
+          "frage": "Welche Rolle haben Banken im erweiterten Wirtschaftskreislauf?",
           "antworten": [
-            "Lernpflicht und sorgfältige Ausführung übertragener Aufgaben.",
-            "Bereitstellung der Ausbildungsmittel.",
-            "Durchführung von Gefährdungsbeurteilungen."
+            "Sie vermitteln Kapital zwischen Sparern und Investoren.",
+            "Sie setzen gesetzliche Krankenkassenbeiträge fest.",
+            "Sie steuern die staatliche Wirtschaftspolitik."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Pflicht gehört zu den Pflichten des Ausbildenden?",
+          "frage": "Wodurch sind homogene Güter gekennzeichnet?",
           "antworten": [
-            "Bereitstellung notwendiger Ausbildungsmittel und Freistellung für Berufsschule.",
-            "Unbeschränkte Weisungsfreiheit gegenüber Auszubildenden.",
-            "Bereitstellung privater Geräte der Azubis."
+            "Sie sind gleichartig und vollständig austauschbar.",
+            "Sie unterscheiden sich stark in Qualität.",
+            "Sie können nur regional genutzt werden."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie lange dauert die Probezeit laut BBiG?",
+          "frage": "Welche Streikform ist rechtlich zulässig?",
           "antworten": [
-            "Mindestens 1 Monat, maximal 4 Monate.",
-            "1–6 Monate.",
-            "3–12 Monate."
+            "Warnstreik",
+            "Blitzstreik ohne Ankündigung während Friedenspflicht",
+            "Politischer Generalstreik"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Kündigungsregel gilt nach der Probezeit für Azubis?",
+          "frage": "Welche Aussage zur Sozialversicherung ist korrekt?",
           "antworten": [
-            "Vier Wochen Kündigungsfrist, wenn die Berufsausbildung aufgegeben oder gewechselt wird.",
-            "Azubis dürfen gar nicht kündigen.",
-            "Eine Kündigung ist nur mit Zustimmung der Berufsschule möglich."
+            "Die Beiträge zur Krankenversicherung werden grundsätzlich paritätisch finanziert.",
+            "Nur Arbeitnehmer zahlen Beiträge zur Rentenversicherung.",
+            "Die Unfallversicherung wird je zur Hälfte geteilt."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Versicherung zahlt der Arbeitgeber zu 100 %?",
+          "frage": "Ein Arbeitnehmer verdient 3.000€ brutto. KV-Beitragssatz: 14,6 %. Wie hoch ist der Arbeitnehmeranteil?",
           "antworten": [
-            "Unfallversicherung.",
-            "Krankenkasse.",
-            "Rentenversicherung."
+            "219 €",
+            "438 €",
+            "146 €"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Leistung gehört zur Rentenversicherung?",
+          "frage": "Welches Ziel gehört zu den wirtschaftlichen Unternehmenszielen?",
           "antworten": [
-            "Altersrenten und Erwerbsminderungsrenten.",
-            "Leistungen bei Arbeitsunfall.",
-            "Krankengeldzahlung."
+            "Erhöhung der Rentabilität",
+            "Förderung von Mitarbeiterfreundschaften",
+            "Gestaltung des Betriebsklimas"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welches Gesetz regelt Kündigungsfristen?",
+          "frage": "Was ist ein typisches Merkmal der sozialen Marktwirtschaft?",
           "antworten": [
-            "§ 622 BGB.",
-            "Arbeitszeitgesetz.",
-            "Mutterschutzgesetz."
+            "Freie Märkte mit staatlichen Eingriffen zur sozialen Sicherung",
+            "Zentral geplante Produktion durch den Staat",
+            "Vollständig unregulierter Wettbewerb"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie viele Arbeitnehmer braucht ein Betrieb für eine Betriebsratswahl?",
+          "frage": "Was versteht man unter einem Käufermarkt?",
           "antworten": [
-            "Mindestens 5 wahlberechtigte Arbeitnehmer, davon 3 wählbar.",
-            "Mindestens 20 Arbeitnehmer.",
-            "Mindestens 50 Arbeitnehmer."
+            "Das Angebot ist größer als die Nachfrage.",
+            "Die Nachfrage ist größer als das Angebot.",
+            "Preise steigen automatisch."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wer darf Betriebsrat wählen?",
+          "frage": "Wann liegt ein Werkmangel im rechtlichen Sinne vor?",
           "antworten": [
-            "Alle Arbeitnehmer über 16.",
-            "Nur Vollzeitkräfte.",
-            "Nur Mitarbeiter mit mehr als 6 Monaten Betriebszugehörigkeit."
+            "Wenn das Werk nicht die vereinbarte Beschaffenheit hat.",
+            "Wenn der Kunde die Farbe nicht schön findet.",
+            "Wenn das Werk früher fertig ist als geplant."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wer ist an einen Tarifvertrag gebunden?",
+          "frage": "Welche Aussage zur AG ist korrekt?",
           "antworten": [
-            "Mitglieder von Arbeitgeberverband und Gewerkschaft.",
-            "Nur Arbeitgeber.",
-            "Nur Arbeitnehmer."
+            "Die Aktionäre haften nicht persönlich.",
+            "Der Vorstand haftet privat für Unternehmensschulden.",
+            "Die AG darf keine Anteile veräußern."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Was bedeutet Friedenspflicht?",
+          "frage": "Was beschreibt der Wirtschaftskreislauf?",
           "antworten": [
-            "Während der Tariflaufzeit sind Streiks und Aussperrungen verboten.",
-            "Der Arbeitgeber darf keine Einstellungen vornehmen.",
-            "Der Arbeitnehmer darf keinen Urlaub nehmen."
+            "Den Austausch von Gütern und Geld zwischen Wirtschaftssubjekten.",
+            "Die Aufteilung politischer Macht im Staat.",
+            "Die Entwicklung des globalen Handels."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wer kann Tarifverträge allgemeinverbindlich erklären?",
+          "frage": "Welche Aufgabe hat der Ausbildungsnachweis?",
           "antworten": [
-            "Der Bundesminister für Arbeit und Soziales.",
-            "Der Arbeitgeberverband.",
-            "Der Betriebsrat."
+            "Er dokumentiert den Lernfortschritt und ist Prüfungszulassung.",
+            "Er dient der Überwachung der Arbeitszeit.",
+            "Er ersetzt das Berichtsheft bei dualen Studiengängen."
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wobei hat der Betriebsrat Mitbestimmung nach §87 BetrVG?",
+          "frage": "Welche Aussage zu Unternehmenszusammenschlüssen ist korrekt?",
           "antworten": [
-            "Arbeitszeit, Pausen, betriebliche Ordnung.",
-            "Einstellung von Führungskräften.",
-            "Unternehmensfusionen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was macht die JAV?",
-          "antworten": [
-            "Sie vertritt die Interessen aller Jugendlichen und Azubis unter 25.",
-            "Sie führt Tarifverhandlungen.",
-            "Sie steuert die Personalplanung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was enthält eine Entgeltabrechnung?",
-          "antworten": [
-            "Brutto-/Nettoentgelt, Abzüge, Arbeitgeberanteile.",
-            "Nur Urlaubstage.",
-            "Nur Fehlzeiten."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was regelt ein Manteltarifvertrag?",
-          "antworten": [
-            "Arbeitszeit, Urlaub, Zuschläge.",
-            "Nur Lohnhöhe.",
-            "Nur Arbeitszeiten im öffentlichen Dienst."
-          ],
-          "richtige_antwort": 0
-        },
-
-        {
-          "frage": "Welche Aussage zur Globalisierung ist korrekt?",
-          "antworten": [
-            "Globalisierung führt zu weltweiter Marktöffnung und internationalem Wettbewerb.",
-            "Globalisierung bedeutet regionale Abschottung.",
-            "Globalisierung betrifft nur große Industrien."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist eine Fusion?",
-          "antworten": [
-            "Verschmelzung zweier Unternehmen zu einer Einheit.",
-            "Temporäre Zusammenarbeit zweier Unternehmen.",
-            "Informelle Preisabsprache."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Konzern?",
-          "antworten": [
-            "Ein Zusammenschluss rechtlich selbstständiger Unternehmen unter einer Leitung.",
-            "Ein Betrieb mit vielen Standorten.",
-            "Eine Unternehmensform des öffentlichen Dienstes."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Kartell?",
-          "antworten": [
-            "Eine unzulässige Absprache über Preise oder Mengen.",
-            "Eine Form der Maschinenkooperation.",
-            "Eine staatliche Kontrollstelle."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Unternehmen?",
-          "antworten": [
-            "Eine rechtlich selbstständige wirtschaftliche Einheit mit Gewinnerzielungsabsicht.",
-            "Ein Standort einer Firma.",
-            "Der Handelsname eines Betriebs."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welches Ziel gehört zu den Formalzielen?",
-          "antworten": [
-            "Rentabilität, Produktivität, Wirtschaftlichkeit.",
-            "Produktqualität.",
-            "Umweltschutz."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Leitbild?",
-          "antworten": [
-            "Grundlegende Orientierung für Mitarbeiter und Unternehmenskultur.",
-            "Reines Werbedokument.",
-            "Gesetzliche Pflichtbeschreibung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt Zielharmonie?",
-          "antworten": [
-            "Ziele unterstützen sich gegenseitig.",
-            "Ziele behindern sich.",
-            "Ziele gelten als bedeutungslos."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt Zielkonflikt?",
-          "antworten": [
-            "Erhöhung der Qualität vs. Senkung der Kosten.",
-            "Steigerung der Motivation vs. Weiterbildung.",
-            "Steigerung des Umsatzes vs. Wachstum."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welches Ziel ist ein soziales Ziel?",
-          "antworten": [
-            "Mitarbeiterzufriedenheit.",
-            "Gewinnsteigerung.",
-            "Marktanteilserhöhung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welches Ziel ist ein ökologisches Ziel?",
-          "antworten": [
-            "Ressourcenschonung.",
-            "Rentabilität.",
-            "Wirtschaftlichkeit."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt das SMART-Modell?",
-          "antworten": [
-            "Spezifisch, messbar, akzeptiert, realistisch, terminiert.",
-            "Schnell, messbar, aktuell, real, technisch.",
-            "Strategisch, modern, aktiv, rentabel, technisch."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt betriebliche Arbeitsteilung?",
-          "antworten": [
-            "Aufteilung der Gesamtaufgabe in Teilaufgaben.",
-            "Verteilung der Gewinne.",
-            "Aufteilung der Arbeitszeit."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Sektor umfasst Dienstleistungen?",
-          "antworten": [
-            "Der tertiäre Sektor.",
-            "Der primäre Sektor.",
-            "Der sekundäre Sektor."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist typisch für Eigentümerinteressen?",
-          "antworten": [
-            "Rendite und Kapitalerfolg.",
-            "Umweltschutz.",
-            "Arbeitsmotivation."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie berechnet sich die Umsatzrentabilität?",
-          "antworten": [
-            "Gewinn geteilt durch Umsatz.",
-            "Output geteilt durch Input.",
-            "Ertrag geteilt durch Aufwand."
-          ],
-          "richtige_antwort": 0
-        },
-
-        {
-          "frage": "Was beschreibt die Aufbauorganisation?",
-          "antworten": [
-            "Die hierarchische Struktur eines Unternehmens.",
-            "Die Produktionsplanung.",
-            "Die Personalentwicklung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist eine Instanz?",
-          "antworten": [
-            "Eine Stelle mit Weisungsbefugnis.",
-            "Eine reine Ausführungsstelle.",
-            "Eine externe Beratungsstelle."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist eine Stabstelle?",
-          "antworten": [
-            "Eine beratende Stelle ohne Weisungsbefugnis.",
-            "Eine Stelle mit voller Weisungsbefugnis.",
-            "Eine ausführende Stelle."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Einliniensystem?",
-          "antworten": [
-            "Eine Organisationsstruktur mit einem einzigen Vorgesetzten pro Mitarbeiter.",
-            "Eine Struktur mit mehreren gleichzeitigen Vorgesetzten.",
-            "Eine Projektstruktur."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein Mehrliniensystem?",
-          "antworten": [
-            "Mitarbeiter erhalten Weisungen von mehreren übergeordneten Stellen.",
-            "Jeder Mitarbeiter hat nur einen Vorgesetzten.",
-            "Nur Projekte werden organisiert."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist eine Matrixorganisation?",
-          "antworten": [
-            "Mitarbeiter haben einen fachlichen und einen projektbezogenen Vorgesetzten.",
-            "Alle Mitarbeiter sind gleichgestellt.",
-            "Es gibt keine Hierarchien."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Management by Objectives?",
-          "antworten": [
-            "Führung durch Zielvereinbarungen.",
-            "Führung durch absolute Kontrolle.",
-            "Führung ohne Vorgaben."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Management by Exception?",
-          "antworten": [
-            "Führungskraft greift nur bei Abweichungen ein.",
-            "Führungskraft entscheidet alles.",
-            "Mitarbeiter arbeiten ohne Rahmenbedingungen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Management by Delegation?",
-          "antworten": [
-            "Delegation klar abgegrenzter Aufgabenbereiche.",
-            "Keine Delegation.",
-            "Delegation aller Führungsaufgaben an Stabstellen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Funktion hat ein Organigramm?",
-          "antworten": [
-            "Darstellung der Aufbauorganisation.",
-            "Darstellung der Bilanzstruktur.",
-            "Darstellung des Informationsflusses."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Stelle besitzt keine Weisungsbefugnis?",
-          "antworten": [
-            "Stabstelle.",
-            "Instanz.",
-            "Bereichsleiter."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist die Aufgabe einer Instanz?",
-          "antworten": [
-            "Planen, Entscheiden und Kontrollieren.",
-            "Nur Ausführen.",
-            "Nur Beraten."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist typisch für das Stabliniensystem?",
-          "antworten": [
-            "Linienstellen werden von Stäben beraten.",
-            "Stäbe entscheiden alles.",
-            "Stäbe haben volle Weisungskompetenz."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Struktur birgt die größte Gefahr von Kompetenzüberschneidungen?",
-          "antworten": [
-            "Mehrliniensystem.",
-            "Einliniensystem.",
-            "Stabliniensystem."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Struktur eignet sich besonders für Projekte?",
-          "antworten": [
-            "Matrixorganisation.",
-            "Einliniensystem.",
-            "Stabliniensystem."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Struktur verursacht die längsten Informationswege?",
-          "antworten": [
-            "Einliniensystem.",
-            "Mehrliniensystem.",
-            "Matrixorganisation."
-          ],
-          "richtige_antwort": 0
-        },
-
-        {
-          "frage": "Was beschreibt das Maximalprinzip?",
-          "antworten": [
-            "Mit festem Input maximalen Output erzielen.",
-            "Mit festem Output minimalen Input erzielen.",
-            "Input und Output beliebig einsetzen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt das Minimalprinzip?",
-          "antworten": [
-            "Mit minimalem Input einen festgelegten Output erreichen.",
-            "Mit maximalem Input minimalen Output.",
-            "Mit beliebigem Input beliebigen Output."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Produktionsfaktoren gelten betriebswirtschaftlich?",
-          "antworten": [
-            "Werkstoffe, Betriebsmittel, Arbeit.",
-            "Boden, Kapital, Bildung.",
-            "Maschinen, Kapitalmärkte."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Produktivität?",
-          "antworten": [
-            "Output/Input.",
-            "Ertrag/Aufwand.",
-            "Gewinn/Kapital."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Wirtschaftlichkeit?",
-          "antworten": [
-            "Ertrag/Aufwand.",
-            "Gewinn/Kapital.",
-            "Output/Input."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist Rentabilität?",
-          "antworten": [
-            "Gewinn/Kapital.",
-            "Output/Input.",
-            "Kosten/Umsatz."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Faktor gehört volkswirtschaftlich zum Kapital?",
-          "antworten": [
-            "Sach- und Geldkapital.",
-            "Unqualifizierte Arbeit.",
-            "Natürliche Ressourcen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was ist ein wirtschaftliches Gut?",
-          "antworten": [
-            "Ein knappes Gut mit Preis.",
-            "Ein kostenloses Gut.",
-            "Ein ausschließlich staatlich produziertes Gut."
-          ],
-          "richtige_antwort": 0
-        },
-
-        {
-          "frage": "Was ist ein Markt?",
-          "antworten": [
-            "Treffpunkt von Angebot und Nachfrage.",
-            "Ein staatlicher Handelsplatz.",
-            "Ein Verkaufsraum für Sachgüter."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welches Merkmal beschreibt einen vollkommenen Markt?",
-          "antworten": [
-            "Homogene Güter und vollständige Transparenz.",
-            "Starke persönliche Präferenzen.",
-            "Langsame Marktreaktionen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt ein Polypol?",
-          "antworten": [
-            "Viele Anbieter und viele Nachfrager.",
-            "Ein Anbieter und viele Nachfrager.",
-            "Viele Anbieter und ein Nachfrager."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt ein Monopol?",
-          "antworten": [
-            "Ein Anbieter und viele Nachfrager.",
-            "Viele Anbieter und ein Nachfrager.",
-            "Viele Anbieter und viele Nachfrager."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was entsteht bei Angebotsüberhang?",
-          "antworten": [
-            "Ein Käufermarkt.",
-            "Ein Verkäufermarkt.",
-            "Ein Monopol."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was entsteht bei Nachfrageüberhang?",
-          "antworten": [
-            "Ein Verkäufermarkt.",
-            "Ein Käufermarkt.",
-            "Ein Polypol."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was kennzeichnet die Hochkonjunktur?",
-          "antworten": [
-            "Hohe Auslastung, hohe Beschäftigung, starke Nachfrage.",
-            "Sinkende Produktion.",
-            "Sinkende Nachfrage."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Was beschreibt eine Rezession?",
-          "antworten": [
-            "Rückgang der Wirtschaftsleistung.",
-            "Starke Expansion.",
-            "Wirtschaftlicher Stillstand."
+            "Ein Joint Venture ist die Gründung eines gemeinsamen Unternehmens.",
+            "Ein Kartell bedeutet die vollständige Verschmelzung von Unternehmen.",
+            "Eine Fusion darf nur zwischen zwei AGs stattfinden."
           ],
           "richtige_antwort": 0
         }
       ],
+
+       
+
+      
     "LF02V2 -Arbeitsplatz nach Kundenwunsch ausstatten":[
         {
           "frage": "Welches Ziel beschreibt am präzisesten den betriebswirtschaftlichen Kern der Datenverarbeitung in Unternehmen?",
@@ -1716,6 +1256,8 @@
 
 
 
+
+
     
    }
     
@@ -1724,3 +1266,10 @@
     
   }
 
+
+
+
+
+
+
+ 
