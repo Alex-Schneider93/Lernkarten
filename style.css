@@ -25,7 +25,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .title {
@@ -35,28 +34,18 @@ body {
 }
 
 /* BUTTONS */
-.menu-btn{
+.menu-btn,
+.icon-btn {
     background: #2e2e2e;
     border: 1px solid #555;
     padding: 14px 40px;
     border-radius: 12px;
-    font-size: 35px;
+    font-size: 32px;
     color: #ddd;
     cursor: pointer;
 }
-.icon-btn{
-    background: #2e2e2e;
-    border: 1px solid #555;
-    padding: 14px 15px;
-    border-radius: 12px;
-    font-size: 35px;
-    color: #ddd;
-    cursor: pointer;
-    
 
-}
-
-/* SIDEBAR SHARED STYLE */
+/* SIDEBAR RIGHT */
 .sidebar {
     width: 380px;
     background: #323232;
@@ -64,37 +53,24 @@ body {
     top: 180px;
     bottom: 0;
     padding: 30px;
-    border-right: 1px solid #3b3b3b;
     overflow-y: auto;
-    box-shadow: 3px 0 18px rgba(0, 0, 0, 0.4);
     transition: 0.3s ease;
     z-index: 1000;
     border-radius: 14px;
     border: 1px solid white;
 }
 
-
-/* LEFT SIDEBAR */
-.sidebar.left {
-    left: -500px;
-}
-.sidebar.left.show {
-    left: 0;
-}
-
-
-/* RIGHT SIDEBAR */
+/* RIGHT  
+   Jetzt deine Menü-Sidebar */
 .sidebar.right {
     right: -500px;
-    font-size: 40px;
 }
 .sidebar.right.show {
     right: 0;
 }
 
-/* SIDEBAR ELEMENTS */
 .sidebar h2 {
-    font-size: 80px;
+    font-size: 60px;
     margin-bottom: 20px;
 }
 
@@ -104,14 +80,13 @@ body {
     margin-bottom: 10px;
     background: #636363;
     border-radius: 12px;
-    font-size: 24px;
+    font-size: 30px;
     border: 1px solid #555;
     cursor: pointer;
-    font-size: xx-large;
     color: white;
 }
 
-/* BACKDROP WHEN SIDEBAR OPEN */
+/* OVERLAY */
 .overlay {
     position: fixed;
     top: 0;
@@ -145,26 +120,19 @@ body {
     font-size: 30px;
     max-width: 740px;
     width: 100%;
-
-    
 }
 
 .antwort.richtig { background: #1c7c32; }
 .antwort.falsch { background: #9c1c1c; }
 
 /* NEXT BUTTON */
-.quiz-card {
-    display: flex;
-    flex-direction: column;
-}
-
 .next-btn {
     align-self:flex-end;
     margin-right: 40px;
     background: #4ea8ff;
     border: none;
     padding: 14px 20px;
-    font-size: 18px;
+    font-size: 22px;
     border-radius: 10px;
     color: white;
     cursor: pointer;
