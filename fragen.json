@@ -1531,445 +1531,184 @@
         }
       ],
       
-    "LF06V2 - Serviceanfragen bearbeiten": [
+    "LF06V2 - Serviceanfragen bearbeiten":[
         {
-          "frage": "Welcher IT-Servicebegriff beschreibt am genauesten eine strukturierte Sammlung häufig gestellter Fragen und ihrer Lösungen auf einer Website eines IT-Dienstleisters?",
+          "frage": "Welcher Vertragstyp verpflichtet zur Herstellung eines konkreten Erfolgs?",
           "antworten": [
-            "FAQ-Bereich als Teil der Service- und Supportdokumentation, der wiederkehrende Kundenanfragen in standardisierter Form bündelt.",
-            "Servicekatalog, der alle buchbaren IT-Services inklusive SLAs und Preisen auflistet.",
-            "Wissensdatenbank, in der ausschließlich interne technische Workarounds für Administratoren dokumentiert werden."
+            "Werkvertrag",
+            "Dienstvertrag",
+            "Kaufvertrag"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie wird im IT-Vertrieb der strukturierte Überblick über alle angebotenen Hardware- und Softwareprodukte fachlich korrekt bezeichnet?",
+          "frage": "Welche Kennzahl beschreibt die mittlere Zeit zwischen zwei Ausfällen eines Systems?",
           "antworten": [
-            "Produktkatalog bzw. IT-Service-Portfolio des Vertriebsbereichs.",
-            "Konfigurationsmanagement-Datenbank (CMDB) der IT-Abteilung.",
-            "Service-Request-Fulfilment-Register des Helpdesks."
+            "MTBF",
+            "MTTR",
+            "RTO"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Bezeichnung trifft am besten auf Dienstleistungen eines Netzwerkanbieters wie Internetzugang, MPLS oder VPN zu?",
+          "frage": "Welche IMAC/R/D-Phase umfasst u.a. Recycling und Entsorgung?",
           "antworten": [
-            "Network Services des Providers (z. B. WAN-, LAN- oder VPN-Services).",
-            "Application Management Services für Fachanwendungen.",
-            "Desktop-as-a-Service-Leistungen für Endanwender."
+            "Dispose",
+            "Remove",
+            "Move"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie bezeichnet man den zeitlich befristeten, im Kaufpreis enthaltenen Instandhaltungs- und Reparaturservice für IT-Produkte nach dem Kauf?",
+          "frage": "Welche Zuordnungstechnik analysiert Verantwortlichkeiten in Matrixform?",
           "antworten": [
-            "Garantieservice des Herstellers gemäß Gewährleistungsbestimmungen.",
-            "Kulanzservice, der ohne Rechtsanspruch außerhalb der Garantie gewährt wird.",
-            "Managed Service, der individuell vertraglich als SLA vereinbart ist."
+            "RACI-Matrix",
+            "SPOC-System",
+            "ACD-System"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie nennt man einen freiwilligen, rechtlich nicht einklagbaren Unterstützungsservice, den ein Anbieter über die gesetzlichen Pflichten hinaus erbringt?",
+          "frage": "Welches ITIL-4-Prinzip ergänzt die Grundprinzipien und fokussiert auf Automatisierung?",
           "antworten": [
-            "Kulanzleistung des Serviceanbieters.",
-            "Onsite-Wartungsvertrag mit Reaktionszeitgarantie.",
-            "Break/Fix-Support im Rahmen eines Incident-Management-Prozesses."
+            "Optimize and automate",
+            "Start where you are",
+            "Focus on value"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Serviceart beschreibt am zutreffendsten die Erbringung von Installations-, Wartungs- oder Entstörungsleistungen direkt beim Kunden vor Ort?",
+          "frage": "Welche Service-Lifecycle-Phase aus ITIL 3 wurde in ITIL 4 durch die Service Value Chain ersetzt?",
           "antworten": [
-            "Vor-Ort-Service bzw. Field-Service des Dienstleisters.",
-            "Remote-Service über ausschließlich fernadministrierte Wartungszugriffe.",
-            "Self-Service-Portal, in dem der Kunde selbst alle Aufgaben ausführt."
+            "Service-Lifecycle",
+            "Service-Warranty",
+            "Service-Feedback-Loop"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie bezeichnet man zusammenfassend Online-Leistungen wie Monitoring, Remote-Wartung und Fernadministration von Kundensystemen?",
+          "frage": "Welche ITIL-4-Ebene sorgt für Regeln, Richtlinien und Überwachung?",
           "antworten": [
-            "Managed Services, die als kontinuierliche, vertraglich geregelte Online-Services erbracht werden.",
-            "Projektservices, die einmalig im Rahmen eines Rollout-Projekts erbracht werden.",
-            "Field-Services, die ausschließlich physische Einsätze vor Ort umfassen."
+            "Governance",
+            "Service Operation",
+            "Value Stream"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie heißt der Service, bei dem ein Dienstleister auf Basis pauschaler Sätze IT-Systeme turnusmäßig prüft und in einem funktionsfähigen Zustand hält?",
+          "frage": "Was ist der erste Schritt im Service-Request-Prozess?",
           "antworten": [
-            "Wartungsservice mit regelmäßig eingeplanten Instandhaltungsarbeiten.",
-            "Reiner Break/Fix-Support, der nur bei akuten Störungen reagiert.",
-            "On-Demand-Consulting ohne vertraglich vereinbarte Regeltermine."
+            "Serviceanfrage analysieren",
+            "Reaktionszeit ermitteln",
+            "Serviceticket erstellen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Bezeichnung trifft am besten auf den Service zu, bei dem defekte Komponenten durch neue ersetzt und Systeme beim Kunden wieder funktionsfähig gemacht werden?",
+          "frage": "Welcher Schritt im Service-Request-Prozess beinhaltet rechtliche Rahmenbedingungen?",
           "antworten": [
-            "Reparatur- und Swap-Service im Rahmen des technischen Supports.",
-            "Capacity-Management-Service zur Performanceoptimierung.",
-            "Change-Advisory-Service zur Bewertung geplanter Änderungen."
+            "Vertragsbedingungen prüfen",
+            "Status dokumentieren",
+            "Service beauftragen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie nennt man die strukturierte Erklärung auf einer Website oder in einem Dokument, die Endanwendern die Bedienung eines neuen IT-Systems vermittelt?",
+          "frage": "Welche Methode dient der Priorisierung von Aufgaben nach Wichtigkeit und Dringlichkeit?",
           "antworten": [
-            "Benutzerhandbuch bzw. Online-Hilfe als Teil der User-Dokumentation.",
-            "Service-Level-Agreement zur Festlegung von Verfügbarkeiten.",
-            "Konfigurationsrichtlinie für Administratoren im Rechenzentrum."
+            "Eisenhower-Prinzip",
+            "Benchmark-Analyse",
+            "Stakeholder-Analyse"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Fachbezeichnung beschreibt die bewusste Auslagerung bisher interner IT-Aufgaben, etwa Betrieb von Servern oder Anwendungen, an einen externen Dienstleister?",
+          "frage": "Welche Analyse priorisiert nach A-, B- und C-Kategorien?",
           "antworten": [
-            "IT-Outsourcing bzw. Sourcing an einen externen Provider.",
-            "Insourcing von ausgelagerten Aufgaben zurück ins eigene Rechenzentrum.",
-            "Offshoring von Entwicklungsleistungen in ein anderes Land ohne Providervertrag."
+            "ABC-Analyse",
+            "Pareto-Prinzip",
+            "Umfeld-Analyse"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie heißt das Beschaffungsmodell, bei dem ein externer Dienstleister im Auftrag des Kunden IT-Systeme auswählt, beschafft und teilweise auch betreibt?",
+          "frage": "Was beschreibt der Begriff Selbstoffenbarung nach Schulz von Thun?",
           "antworten": [
-            "IT-Sourcing durch einen externen Provider oder Systemintegrator.",
-            "Reines Lizenzleasing ohne operative Betriebsverantwortung.",
-            "Hardware-Mietvertrag ohne Einfluss auf Auswahl und Betrieb."
+            "Preisgabe eigener Absichten, Gefühle und Bedürfnisse",
+            "Eigene Haltung zum Empfänger",
+            "Einflussnahme durch Ratschläge oder Anweisungen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie wird der zentrale Arbeitsplatz bezeichnet, an dem Mitarbeiter systematisch Störungen und Serviceanfragen der Endanwender entgegennehmen und bearbeiten?",
+          "frage": "Welche IMAC/R/D-Phase beschreibt das Hinzufügen zusätzlicher Komponenten?",
           "antworten": [
-            "Helpdesk bzw. Servicedesk als Single Point of Contact.",
-            "Network Operations Center (NOC) ausschließlich für Backbone-Monitoring.",
-            "Project Management Office (PMO) für Projektportfoliosteuerung."
+            "Add",
+            "Change",
+            "Dispose"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welcher Begriff beschreibt ein IT-Service-Management-Framework, das Prozesse, Rollen, Begriffe und Best Practices für Services standardisiert?",
+          "frage": "Was bezeichnet die zeitlich exakt abgestimmte Kommunikation zwischen zwei Personen?",
           "antworten": [
-            "ITSM-Framework wie ITIL oder FitSM zur Vereinheitlichung des Service-Managements.",
-            "FSM-Framework zur ausschließlichen Steuerung von Feldtechnikereinsätzen ohne Prozesssicht.",
-            "DevOps-Toolchain, die sich ausschließlich auf Build- und Deployment-Pipelines konzentriert."
+            "Synchron",
+            "Asynchron",
+            "Passiv"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welches ITIL-nahes Managementgebiet ist primär dafür verantwortlich, die organisatorische und technische Verfügbarkeit von IT-Systemen sicherzustellen?",
+          "frage": "Was ist ein formeller Antrag zur Durchführung eines Changes?",
           "antworten": [
-            "Availability Management mit Fokus auf Verfügbarkeitszielen und -maßnahmen.",
-            "Capacity Management mit ausschließlichem Fokus auf CPU- und Speicherauslastung.",
-            "Financial Management, das nur Budget- und Kostenplanung für IT-Services betreut."
+            "Request for Change",
+            "Standard Change",
+            "Emergency Patch"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Managementdisziplin verwaltet Services mit ihren Kriterien, Leistungsmerkmalen und vertraglichen Bedingungen gegenüber dem Kunden?",
+          "frage": "Wo werden dokumentierte Lösungsverfahren für Tickets gespeichert?",
           "antworten": [
-            "Service Level Management mit Schwerpunkt auf Aushandlung und Überwachung von SLAs.",
-            "Problem Management, das ausschließlich wiederkehrende Störungsursachen analysiert.",
-            "Change Management, das ausschließlich Änderungen an der Infrastruktur freigibt."
+            "Knowledge Database",
+            "Configuration Database",
+            "Contract Database"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welches Managementgebiet strukturiert die Gesamtheit der angebotenen Services nach aktiven, geplanten und auslaufenden Services?",
+          "frage": "Welche Aussage beschreibt TCP-Latenz korrekt?",
           "antworten": [
-            "Service-Portfolio-Management mit Lifecycle-Sicht auf alle Services.",
-            "Incident Management mit Fokus auf die Abarbeitung einzelner Störfälle.",
-            "Request-Fulfilment, das nur Standard-Serviceanfragen operativ bedient."
+            "Zeit für Hin- und Rückweg eines Datenpakets zwischen Quelle und Ziel",
+            "Maximale Anzahl verlorener Pakete pro Minute",
+            "Zeit wie lange ein Paket zwischengespeichert bleibt"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Wie heißt das Managementgebiet, das Maßnahmen plant, um trotz Risiken und Störungen die Geschäftsfähigkeit des Kundenunternehmens aufrechtzuerhalten?",
+          "frage": "Was beschreibt Governance im IT-Service-Management?",
           "antworten": [
-            "IT-Service-Continuity-Management (ITSCM) mit Notfall- und Wiederanlaufkonzepten.",
-            "Reines Capacity-Management ohne Bezug zu Notfallstrategien.",
-            "Project-Portfolio-Management mit Fokus auf Investitionspriorisierung."
+            "Ordnungsrahmen, um Organisationen zu leiten und zu überwachen",
+            "Verpflichtung zur Einhaltung aller SLAs",
+            "Planung der Infrastrukturkosten"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welches Managementgebiet fokussiert sich darauf, die Beziehungen zu Geschäftspartnern, Kunden und internen Stakeholdern systematisch zu pflegen?",
+          "frage": "Zu welchem Bereich gehört der PDCA-Zyklus?",
           "antworten": [
-            "Business-Relationship-Management zur strategischen Betreuung von Kunden- und Partnerbeziehungen.",
-            "Supplier-Management, das ausschließlich Lieferantenverträge überwacht.",
-            "Configuration-Management, das nur technische Konfigurationen dokumentiert."
+            "Kontinuierliche Verbesserungsprozesse",
+            "Monitoring",
+            "IT-Lebenszyklen"
           ],
           "richtige_antwort": 0
         },
         {
-          "frage": "Welche Disziplin stellt sicher, dass Hard-, Soft- und Personalkapazitäten in ausreichender Menge und Qualität zur Erbringung der Services bereitstehen?",
+          "frage": "Wie wird Service gemäß ITIL 4 verstanden?",
           "antworten": [
-            "Capacity Management mit Fokus auf Ressourcenplanung und -prognose.",
-            "Release Management, das lediglich neue Softwarestände in Betrieb bringt.",
-            "Incident Management, das nur auf akute Störungsbeseitigung ausgerichtet ist."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißt das Managementsystem, dessen Zweck es ist, Sicherheitsvorfälle systematisch zu vermeiden und angemessen darauf zu reagieren?",
-          "antworten": [
-            "Information Security Management System (ISMS) nach anerkannten Standards.",
-            "Quality Management System (QMS) zur ISO-9001-konformen Prozessdokumentation.",
-            "Environmental Management System (EMS) für Umwelt- und Nachhaltigkeitsthemen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Rolle ist primär dafür verantwortlich, dass Servicedaten und Konfigurationen logisch korrekt dokumentiert und gepflegt werden?",
-          "antworten": [
-            "Configuration Manager bzw. Verantwortlicher für Service Asset & Configuration Management.",
-            "Change Manager, der ausschließlich über Änderungsfreigaben entscheidet.",
-            "Service Owner, der nur geschäftliche Gesamtverantwortung für einen Service trägt."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißt die zentrale Datenbasis, in der alle Services und Servicekomponenten einschließlich ihrer Beziehungen erfasst und verwaltet werden?",
-          "antworten": [
-            "Configuration Management Database (CMDB) bzw. Configuration Management System (CMS).",
-            "Service-Katalog, in dem ausschließlich geschäftlich sichtbare Services aufgeführt werden.",
-            "Ticketdatenbank, in der nur Incident- und Request-Datensätze gespeichert werden."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Bezeichnung trifft am besten auf eine zentrale Anlaufstelle zu, über die sämtliche Kundenanfragen in das IT-Service-System gelangen?",
-          "antworten": [
-            "Single Point of Contact (SPOC), typischerweise als Servicedesk implementiert.",
-            "Automatic Call Distribution (ACD) als reines Telefonvermittlungsmodul.",
-            "Shared Mailbox, die nur als allgemeines Postfach ohne Prozesslogik dient."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißt das System, das eingehende Anrufe automatisch entgegennimmt, in Warteschlangen verteilt und nach definierten Regeln weiterleitet?",
-          "antworten": [
-            "Automatic Call Distribution (ACD) des Servicecenters.",
-            "Interactive Voice Response (IVR) als reines Sprachmenü ohne Routingfunktion.",
-            "Network Access Server (NAS) zur Einwahl in das Unternehmensnetz."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Begriff steht im Kontext von FitSM und IT-Service-Management für das übergeordnete Managementsystem aller Serviceprozesse?",
-          "antworten": [
-            "Service Management System (SMS) als Gesamtheit von Prozessen, Rollen und Richtlinien.",
-            "Security Management System als rein sicherheitsfokussiertes Subsystem.",
-            "Enterprise Resource Planning (ERP) als betriebswirtschaftliches Anwendungssystem."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie wird der Datensatz bezeichnet, mit dem ein einzelner Servicefall im Ticketsystem angelegt, verfolgt und dokumentiert wird?",
-          "antworten": [
-            "Ticket als Bearbeitungsauftrag mit eindeutiger ID und Historie.",
-            "Event als reines Monitoring-Ereignis ohne Kundenbezug.",
-            "Job als generischer Batch-Lauf auf einem Server."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche generische Rolle nach FitSM beschreibt den fachlich und prozessual verantwortlichen Bearbeiter eines konkreten Servicefalls?",
-          "antworten": [
-            "Case Owner mit Ende-zu-Ende-Verantwortung für das Ticket.",
-            "Service Owner mit strategischer Gesamtverantwortung für einen Service.",
-            "Process Owner, der ausschließlich für die korrekte Definition eines Prozesses zuständig ist."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißt das Hilfsmittel, mit dem Tätigkeiten einer Zeile den beteiligten Rollen in Spalten mit Responsible, Accountable, Consulted und Informed zugeordnet werden?",
-          "antworten": [
-            "RACI-Matrix zur systematischen Zuordnung von Verantwortlichkeiten.",
-            "Stakeholder-Mapping-Canvas ausschließlich für Interessengruppen.",
-            "Gantt-Diagramm, das nur zeitliche Abläufe, nicht aber Rollenbezüge zeigt."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Vertragstyp regelt typischerweise Verfügbarkeiten, Reaktionszeiten und Leistungskennzahlen zwischen einem IT-Provider und seinem Kunden?",
-          "antworten": [
-            "Service Level Agreement (SLA) als leistungsorientierter Kundenvertrag.",
-            "Operational Level Agreement (OLA) als interner Vertrag zwischen IT-Abteilungen.",
-            "Underpinning Contract (UC) als Vertrag zwischen Provider und Subdienstleister."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißt der interne Vertrag, der Leistung und Qualität der Zusammenarbeit zwischen IT-Abteilung und anderer Fachabteilung im selben Unternehmen regelt?",
-          "antworten": [
-            "Operational Level Agreement (OLA) mit internen Leistungszusagen.",
-            "Service Level Agreement (SLA) mit externen Kunden.",
-            "Auftragsverarbeitungsvertrag (AV-Vertrag) nach DSGVO."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Vertrag wird typischerweise zwischen einem IT-Dienstleister und einem Subdienstleister geschlossen, damit externe Leistungen zur Einhaltung des Kunden-SLAs beitragen?",
-          "antworten": [
-            "Underpinning Contract (UC) zur vertraglichen Absicherung von Zulieferleistungen.",
-            "Data-Processing-Agreement (DPA) ausschließlich zur personenbezogenen Datenverarbeitung.",
-            "Non-Disclosure-Agreement (NDA) lediglich zum Schutz vertraulicher Informationen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie lautet die korrekte Bezeichnung für einen Vertrag, der die Verarbeitung personenbezogener Daten eines Kunden durch einen Provider nach DSGVO regelt?",
-          "antworten": [
-            "Auftragsverarbeitungsvertrag (AV-Vertrag) gemäß Art. 28 DSGVO.",
-            "Service Level Agreement, das nur technische Kennzahlen festlegt.",
-            "Rahmenliefervertrag für Hardwarebeschaffung ohne Datenschutzbezug."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Fachbegriff beschreibt die maximal unterstützte Datenrate einer Netzwerkverbindung, also die nutzbare Übertragungskapazität pro Zeiteinheit?",
-          "antworten": [
-            "Bandbreite bzw. Datendurchsatz der Verbindung.",
-            "TCP-Latenz als reine Verzögerungszeit eines Pakets.",
-            "Paketverlustquote, also Anteil verlorener Frames."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Begriff bezeichnet die Zeitspanne, die ein Datenpaket von der Quelle bis zum Ziel in einem TCP/IP-Netzwerk benötigt?",
-          "antworten": [
-            "TCP-Latenz als Laufzeit eines Pakets zwischen Sender und Empfänger.",
-            "Bandbreite als maximale Datenmenge pro Sekunde.",
-            "TCP-Verlust als Anzahl der nicht ankommenden Pakete."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie nennt man die durchschnittliche Anzahl der pro 1.000 gesendeten Pakete, die im TCP-Verkehr nicht erfolgreich beim Empfänger ankommen?",
-          "antworten": [
-            "TCP-Verlustrate als Kennzahl für Übertragungsfehler.",
-            "SYN-Fehlerquote als Maß für Verbindungsaufbauprobleme.",
-            "FIN-Fehlerquote als Maß für Verbindungsabbauprobleme."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie heißen Dateien, die Ereignisse und Meldungen eines Betriebssystems oder einer Anwendung fortlaufend protokollieren und für Analysen genutzt werden?",
-          "antworten": [
-            "Log-Dateien bzw. Ereignisprotokolle des Systems.",
-            "Swap-Dateien zur Auslagerung von Speicherseiten.",
-            "Snapshot-Dateien virtueller Maschinen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welcher Fachbegriff beschreibt Fehler beim Aufbau einer TCP-Verbindung, etwa wenn ein Verbindungsversuch nicht ordnungsgemäß bestätigt wird?",
-          "antworten": [
-            "SYN-Fehler im Drei-Wege-Handshake des TCP-Protokolls.",
-            "FIN-Fehler beim ordnungsgemäßen Abbau einer Verbindung.",
-            "ICMP-Destination-Unreachable-Meldung in der Netzwerkschicht."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Wie bezeichnet man Fehler beim ordnungsgemäßen Abbau einer bestehenden TCP-Verbindung, wenn der Verbindungsabschluss nicht korrekt durchgeführt wird?",
-          "antworten": [
-            "FIN-Fehler im Abschlusssegment der TCP-Sitzung.",
-            "SYN-Fehler beim initialen Verbindungsaufbau.",
-            "RST-Flag als reguläres Kontrollelement ohne Fehlerbezug."
-          ],
-          "richtige_antwort": 0
-        },
-         {
-          "frage": "Welcher methodische Ansatz analysiert die Ursachen komplexer Störungen, indem die Phasen Define, Measure, Analyze, Improve und Control strukturiert durchlaufen werden?",
-          "antworten": [
-            "DMAIC-Zyklus aus Six Sigma zur systematischen Problemanalyse und Qualitätsverbesserung.",
-            "RACI-Modell zur Zuordnung organisatorischer Verantwortlichkeiten.",
-            "ITIL-Value-Stream-Mapping zur Beschreibung von Serviceabläufen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Monitoring-Methode liefert die präziseste Aussage über wiederkehrende Störungsursachen, da sie sowohl historische Daten als auch Trendanalysen einbezieht?",
-          "antworten": [
-            "Langzeit-Monitoring mit Korrelations-Analyse zwischen Ereignissen und Systemzuständen.",
-            "Echtzeit-Ping-Messungen ohne Speicherung historischer Daten.",
-            "Passives Log-Monitoring ohne Schwellenwertdefinitionen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Störungsanalyse-Methode eignet sich am besten, um tiefe Ursachenketten aufzudecken, indem man eine Antwort mehrmals hinterfragt?",
-          "antworten": [
-            "5-Why-Methode zur iterativen Ursachenanalyse.",
-            "Ishikawa-Diagramm zur grafischen Ursachenstrukturierung.",
-            "Pareto-Analyse zur Priorisierung der häufigsten Fehlerarten."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Priorisierungsmethode ermöglicht eine fachlich korrekte Einordnung einer Störung anhand von Auswirkung und Dringlichkeit?",
-          "antworten": [
-            "ITIL-konformes Priorisierungsmodell auf Basis von Impact und Urgency.",
-            "ABC-Analyse basierend auf wirtschaftlichem Wert.",
-            "MoSCoW-Methode zur Anforderungspriorisierung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Aussage beschreibt eine korrekt durchgeführte funktionale Eskalation im Serviceprozess?",
-          "antworten": [
-            "Übergabe an die nächsthöhere technische Bearbeitungsebene, wenn die erforderliche Expertise die Fähigkeiten des aktuellen Level übersteigt.",
-            "Weiterleitung des Tickets an denselben Bearbeiter mit Hinweis auf die Zeitüberschreitung.",
-            "Eskalation ausschließlich durch den Kunden ohne Beteiligung des Servicedesks."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welches Kommunikationsmodell erklärt Missverständnisse, indem es eine Nachricht in Sachebene, Selbstoffenbarung, Beziehung und Appell aufteilt?",
-          "antworten": [
-            "Vier-Seiten-Modell nach Schulz von Thun.",
-            "Sender-Empfänger-Modell nach Shannon/Weaver.",
-            "Transaktionsanalyse nach Berne."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Gesprächstechnik stellt sicher, dass der Kunde sich verstanden fühlt, indem zentrale Inhalte des Gesagten in eigenen Worten zurückgespiegelt werden?",
-          "antworten": [
-            "Paraphrasieren als Teil des aktiven Zuhörens.",
-            "Suggestivfragen zur Gesprächslenkung.",
-            "Konfrontationstechnik zur Eskalationsvermeidung."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Kommunikationstechnik eignet sich besonders, um Informationen im IT-Support strukturiert zu gewinnen, indem gezielt explorative und klärende Fragen gestellt werden?",
-          "antworten": [
-            "Gezielte Fragetechnik mit offenen, geschlossenen und Alternativfragen.",
-            "Metakommunikation, die nur über die Qualität des Gesprächs selbst spricht.",
-            "Reine Ich-Botschaften ohne Bezug auf technische Sachverhalte."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Strategie in Konfliktgesprächen reduziert am effektivsten Eskalationen, indem sie die Perspektive des Gegenübers vollständig berücksichtigt?",
-          "antworten": [
-            "Empathisches Spiegeln von Emotionen und Bedürfnissen, bevor technische Lösungen angeboten werden.",
-            "Direkte Fokussierung auf technische Details ohne emotionale Aspekte.",
-            "Konsequente Vermeidung jeglicher Rückfragen."
-          ],
-          "richtige_antwort": 0
-        },
-        {
-          "frage": "Welche Aussage beschreibt die fachlich korrekte Rolle des Servicedesk-Mitarbeiters nach Tag 4 im Kontext kundengerechter Kommunikation?",
-          "antworten": [
-            "Der Mitarbeiter steuert Gesprächsführung, Erwartungsmanagement und Informationsaufbereitung so, dass der Kunde die technische Lösung nachvollziehen kann.",
-            "Der Mitarbeiter überlässt die gesamte Kommunikation dem Second-Level, sobald technische Details auftauchen.",
-            "Der Mitarbeiter kommuniziert ausschließlich schriftlich, um Fehlerquellen zu vermeiden."
+            "Gemeinsame Wertschöpfung aller Beteiligten",
+            "Bereitstellung physischer Güter",
+            "Reiner Lieferantenvertrag"
           ],
           "richtige_antwort": 0
         }
