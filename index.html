@@ -12,31 +12,31 @@
 <header class="header">
 
     <div class="header-row">
-        <button id="menuBtn" class="menu-btn">Menü</button>
 
+        <!-- LINKS: STARTSEITE -->
+        <button id="homeBtn" class="menu-btn">Startseite</button>
+
+        <!-- TITEL -->
         <h1 class="title">
             Lernprogramm Fachinformatiker<br>
             für Anwendungsentwicklung
         </h1>
 
-        <button id="statBtn" class="icon-btn">Lernstand</button>
+        <!-- RECHTS: MENÜ -->
+        <button id="menuBtn" class="icon-btn">Menü</button>
+
     </div>
 
 </header>
 
-<!-- LEFT SIDEBAR (MENÜ) -->
-<aside id="sidebar-left" class="sidebar left">
-    <div id="sidebarLeftContent"></div>
-</aside>
-
-<!-- RIGHT SIDEBAR (LERNSTAND) -->
+<!-- RIGHT SIDEBAR (MENÜ) -->
 <aside id="sidebar-right" class="sidebar right">
     <div id="sidebarRightContent"></div>
 </aside>
 
 <main id="content">
 
-    <!-- WILLKOMMEN-BEREICH -->
+    <!-- STARTSEITE -->
     <section id="startScreen">
         <div class="welcome-card">
             <h2>Willkommen!</h2>
@@ -55,7 +55,7 @@
 
             <button id="weiterBtn" class="next-btn hidden">Weiter →</button>
 
-            <div id="fragenNav" class="fragen-nav"></div>
+            <div class="fragen-nav" id="fragenNav"></div>
 
             <div class="lf-progress">
                 <div class="lf-progress-bar"><div></div></div>
@@ -67,7 +67,6 @@
 
 </main>
 
-<!-- CLICK OUTSIDE BACKDROP -->
 <div id="overlay" class="overlay hidden"></div>
 
 </body>
