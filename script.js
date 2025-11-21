@@ -8,7 +8,6 @@ let punkte = 0;
 
 let session = { richtig: {}, falsch: {} };
 
-const leftSidebar = document.getElementById("sidebar-left");
 const rightSidebar = document.getElementById("sidebar-right");
 const overlay = document.getElementById("overlay");
 
@@ -26,15 +25,8 @@ loadData();
 ====================== */
 
 function closeAllSidebars() {
-    leftSidebar.classList.remove("show");
     rightSidebar.classList.remove("show");
     overlay.classList.add("hidden");
-}
-
-function openLeftSidebar() {
-    closeAllSidebars();
-    leftSidebar.classList.add("show");
-    overlay.classList.remove("hidden");
 }
 
 function openRightSidebar() {
@@ -43,36 +35,31 @@ function openRightSidebar() {
     overlay.classList.remove("hidden");
 }
 
+overlay.onclick = closeAllSidebars;
+
+/* ======================
+   MENÜ BUTTON (rechts)
+====================== */
+
 document.getElementById("menuBtn").onclick = () => {
-    document.getElementById("sidebarLeftContent").innerHTML = `
+    document.getElementById("sidebarRightContent").innerHTML = `
         <h2>Lernfelder</h2>
         ${Object.keys(data).map(lf =>
             `<button onclick="startLF('${lf}')">${lf}</button>`
         ).join("")}
     `;
-    openLeftSidebar();
-};
-
-document.getElementById("statBtn").onclick = () => {
-    document.getElementById("sidebarRightContent").innerHTML = `
-        <h2>Lernstand</h2>
-        ${Object.keys(data).map(lf => {
-            let total = data[lf].length;
-            let done = 0;
-
-            data[lf].forEach(q => {
-                let key = `${lf}|${q.frage}`;
-                if (session.richtig[key]) done++;
-            });
-
-            let p = Math.round(done / total * 100);
-            return `<p><strong>${lf}</strong>: ${p}%</p>`;
-        }).join("")}
-    `;
     openRightSidebar();
 };
 
-overlay.onclick = closeAllSidebars;
+/* ======================
+   STARTSEITE BUTTON (links)
+====================== */
+
+document.getElementById("homeBtn").onclick = () => {
+    closeAllSidebars();
+    document.getElementById("quiz").classList.add("hidden");
+    document.getElementById("startScreen").classList.remove("hidden");
+};
 
 /* ======================
    QUIZ STARTEN
@@ -85,15 +72,12 @@ function startLF(lf) {
     punkte = 0;
 
     closeAllSidebars();
-
-    // Willkommen AUSBLENDEN
     document.getElementById("startScreen").classList.add("hidden");
 
     hideAllQuiz();
     document.getElementById("quiz").classList.remove("hidden");
     zeigeFrage();
 }
-
 
 /* ======================
    FRAGEN
@@ -228,9 +212,3 @@ function gotoFrage(i){
 function hideAllQuiz(){
     document.querySelectorAll(".screen").forEach(s=>s.classList.add("hidden"));
 }
-function closeAllSidebars() {
-    leftSidebar.classList.remove("show");
-    rightSidebar.classList.remove("show");
-    overlay.classList.add("hidden");
-}
-
