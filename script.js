@@ -86,10 +86,14 @@ function startLF(lf) {
 
     closeAllSidebars();
 
+    // Willkommen AUSBLENDEN
+    document.getElementById("startScreen").classList.add("hidden");
+
     hideAllQuiz();
     document.getElementById("quiz").classList.remove("hidden");
     zeigeFrage();
 }
+
 
 /* ======================
    FRAGEN
@@ -223,4 +227,13 @@ function gotoFrage(i){
 
 function hideAllQuiz(){
     document.querySelectorAll(".screen").forEach(s=>s.classList.add("hidden"));
+}
+function closeAllSidebars() {
+    leftSidebar.classList.remove("show");
+    rightSidebar.classList.remove("show");
+    overlay.classList.add("hidden");
+
+    // QUIZ aus, Willkommen wieder anzeigen
+    document.getElementById("quiz").classList.add("hidden");
+    document.getElementById("startScreen").classList.remove("hidden");
 }
