@@ -232,8 +232,5 @@ function closeAllSidebars() {
     leftSidebar.classList.remove("show");
     rightSidebar.classList.remove("show");
     overlay.classList.add("hidden");
-
-    // QUIZ aus, Willkommen wieder anzeigen
-    document.getElementById("quiz").classList.add("hidden");
-    document.getElementById("startScreen").classList.remove("hidden");
 }
+
