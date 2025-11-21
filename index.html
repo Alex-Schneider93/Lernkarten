@@ -1,47 +1,53 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>Lernkarten — Alex</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
 </head>
 
 <body>
 
 <header class="header">
-    <div class="menu-area">
-        <button id="menuBtn" class="menu-btn">☰</button>
-        <span class="menu-text">Menü</span>
+
+    <div class="header-row">
+        <button id="menuBtn" class="menu-btn">Menü</button>
+
+        <h1 class="title">
+            Lernprogramm Fachinformatiker<br>
+            für Anwendungsentwicklung
+        </h1>
+
+        <button id="statBtn" class="icon-btn">Lernstand</button>
     </div>
 
-    <h1 class="title">Lernkarten — Alex</h1>
-
-    <div class="right">
-        <button id="statBtn" class="icon-btn">📊</button>
-        <span class="stat-text">Lernstand</span>
-    </div>
 </header>
 
-<!-- SIDEBAR -->
-<aside id="sidebar" class="sidebar">
-    <h2>Lernfelder</h2>
-    <div id="lfContainer"></div>
+<!-- LEFT SIDEBAR (MENÜ) -->
+<aside id="sidebar-left" class="sidebar left">
+    <div id="sidebarLeftContent"></div>
+</aside>
+
+<!-- RIGHT SIDEBAR (LERNSTAND) -->
+<aside id="sidebar-right" class="sidebar right">
+    <div id="sidebarRightContent"></div>
 </aside>
 
 <main id="content">
 
-    <!-- STARTSCREEN -->
-    <section id="startScreen" class="screen">
+    <!-- WILLKOMMEN-BEREICH -->
+    <section id="startScreen">
         <div class="welcome-card">
-            <h2>Willkommen!</h2>
-            <p>Wähle ein Lernfeld aus dem Menü aus</p>
+            <h2>Willkommen Alex!</h2>
+            <p>Wähle ein Lernfeld im Menü aus.</p>
         </div>
     </section>
 
     <!-- QUIZ -->
     <section id="quiz" class="screen hidden">
         <div class="quiz-card">
+
             <h2 id="frage"></h2>
             <p id="frageCounter"></p>
 
@@ -55,20 +61,14 @@
                 <div class="lf-progress-bar"><div></div></div>
                 <span id="lfProgressText">0%</span>
             </div>
-        </div>
-    </section>
 
-    <!-- STATISTIK -->
-    <section id="statistik" class="screen hidden">
-        <div class="stats-card">
-            <h2>Gesamt-Lernstand</h2>
-            <div id="kapitelStatList"></div>
-
-            <button class="blue-btn" onclick="closeStats()">⬅ Zurück</button>
         </div>
     </section>
 
 </main>
+
+<!-- CLICK OUTSIDE BACKDROP -->
+<div id="overlay" class="overlay hidden"></div>
 
 </body>
 </html>
