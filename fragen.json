@@ -1,0 +1,2796 @@
+{
+  "Lernfälder": {
+   "LF01V2 Das Unternehmen und die eigene Rolle im Betrieb":[
+        {
+          "frage": "Welches Element ist rechtlich zwingender Bestandteil des dualen Ausbildungssystems?",
+          "antworten": [
+            "Die Kombination aus betrieblicher Ausbildung und Berufsschulunterricht mit gemeinsamer Prüfungsverantwortung durch die IHK.",
+            "Der ausschließlich praxisorientierte Unterricht im Unternehmen ohne schulische Inhalte.",
+            "Eine vollständig schulische Ausbildung mit optionalen Betriebspraktika."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Instanz erlässt die Ausbildungsordnung für staatlich anerkannte Ausbildungsberufe?",
+          "antworten": [
+            "Das Bundesministerium für Bildung und Forschung (BMBF) nach Abstimmung mit den Sozialpartnern.",
+            "Die jeweils zuständige Berufsschule im Bundesland.",
+            "Der einzelne Ausbildungsbetrieb auf Basis interner Vorgaben."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt den Zweck des Ausbildungsrahmenplans?",
+          "antworten": [
+            "Er definiert die bundesweit verbindliche sachliche und zeitliche Gliederung aller zu vermittelnden Ausbildungsinhalte.",
+            "Er regelt ausschließlich die Vergütung und den Urlaub eines Auszubildenden.",
+            "Er ersetzt den schulischen Rahmenlehrplan vollständig."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Unterlage muss ein Auszubildender zwingend zur IHK-Abschlussprüfung vorlegen?",
+          "antworten": [
+            "Den ordnungsgemäß geführten Ausbildungsnachweis bzw. Tätigkeitsnachweis.",
+            "Eine Kopie des gültigen Personalausweises.",
+            "Eine Bestätigung der Berufsschulnoten durch den Klassenlehrer."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Umschulung ist korrekt?",
+          "antworten": [
+            "Die Umschulung basiert rechtlich ebenfalls auf dem Berufsbildungsgesetz und folgt einer verkürzten, verdichteten Struktur.",
+            "Umschulungen sind rein schulische Maßnahmen ohne betriebliche Praxisanteile.",
+            "Der Unterricht ersetzt vollständig den Rahmenlehrplan der Berufsschule."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wer gilt in einer Umschulung formal als Ausbilder im Sinne des BBiG?",
+          "antworten": [
+            "Fachlich und pädagogisch geeignete Dozenten mit AEVO-Nachweis.",
+            "Der Praktikumsbetrieb alleine, unabhängig von der Qualifikation.",
+            "Der Kostenträger, unabhängig vom Fachwissen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aufgabe übernimmt die IHK im dualen System?",
+          "antworten": [
+            "Sie führt Zwischen- und Abschlussprüfungen durch und überwacht die Ausbildungsqualität.",
+            "Sie organisiert den kompletten Berufsschulunterricht.",
+            "Sie stellt für jeden Betrieb den individuellen Ausbildungsplan zusammen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur gestreckten Abschlussprüfung ist korrekt?",
+          "antworten": [
+            "Die Abschlussprüfung besteht aus Teil 1 und Teil 2, wobei beide Teile in die Gesamtnote einfließen.",
+            "Die Abschlussprüfung besteht nur aus einer einmaligen Prüfung am Ende der Ausbildung.",
+            "Die Zwischenprüfung ersetzt Teil 1 vollständig."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist die zentrale Funktion des Ausbildungsplans im Betrieb?",
+          "antworten": [
+            "Er leitet aus dem Ausbildungsrahmenplan einen konkreten, betriebsspezifischen Zeit- und Einsatzplan ab.",
+            "Er dient ausschließlich zur Erfassung der Urlaubsplanung.",
+            "Er ist ein freiwilliges Dokument ohne Bezug zur Ausbildungsordnung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kompetenz zählt zu den Sozialkompetenzen?",
+          "antworten": [
+            "Team- und Konfliktfähigkeit im Umgang mit Kollegen und Kunden.",
+            "Sichere Programmierung objektorientierter Anwendungen.",
+            "Analytische Modellierung komplexer IT-Architekturen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Zu welchem Zweck dient der Rahmenlehrplan?",
+          "antworten": [
+            "Er regelt landesweit die schulische Vermittlung der Lernfelder in der Berufsschule.",
+            "Er dient zur Berechnung der Vergütung.",
+            "Er ersetzt den Ausbildungsrahmenplan vollständig."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt die Rolle des Ausbildungsvertrags korrekt?",
+          "antworten": [
+            "Er regelt Beginn, Dauer, Inhalte, Pflichten, Vergütung und Urlaub einer Ausbildung verbindlich.",
+            "Er dient ausschließlich der Dokumentation des Arbeitsverhältnisses ohne Bezug zur Ausbildung.",
+            "Er ersetzt alle gesetzlichen Vorschriften des BBiG."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Fortbildungswege gehören zur IHK-Weiterbildungsstruktur?",
+          "antworten": [
+            "Operative und strategische IT-Weiterbildungen wie IT-Spezialist oder IT-Projektleiter.",
+            "Ausnahmslos akademische Studiengänge.",
+            "Fortbildungen ausschließlich innerhalb eines Betriebs."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kompetenz gehört zur Methodenkompetenz?",
+          "antworten": [
+            "Systematisches Anwenden von Problemlösungs- und Lernstrategien.",
+            "Fundierte Kenntnisse in Netzwerktechnik.",
+            "Hohe Programmierkenntnisse."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Ziel der beruflichen Handlungskompetenz?",
+          "antworten": [
+            "Berufliche Aufgaben selbstständig planen, durchführen und bewerten zu können.",
+            "Ausschließlich technische Vorgaben auszuführen.",
+            "Nur theoretische Inhalte zu beherrschen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Gruppe zählt zu den Umschulungsbeteiligten?",
+          "antworten": [
+            "Umschüler, Ausbildender und Ausbilder.",
+            "Nur der Umschüler und der Kostenträger.",
+            "Nur der Betrieb."
+          ],
+          "richtige_antwort": 0
+        },
+
+        {
+          "frage": "Welche Pflicht gehört zu den Pflichten des Auszubildenden?",
+          "antworten": [
+            "Lernpflicht und sorgfältige Ausführung übertragener Aufgaben.",
+            "Bereitstellung der Ausbildungsmittel.",
+            "Durchführung von Gefährdungsbeurteilungen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Pflicht gehört zu den Pflichten des Ausbildenden?",
+          "antworten": [
+            "Bereitstellung notwendiger Ausbildungsmittel und Freistellung für Berufsschule.",
+            "Unbeschränkte Weisungsfreiheit gegenüber Auszubildenden.",
+            "Bereitstellung privater Geräte der Azubis."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie lange dauert die Probezeit laut BBiG?",
+          "antworten": [
+            "Mindestens 1 Monat, maximal 4 Monate.",
+            "1–6 Monate.",
+            "3–12 Monate."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kündigungsregel gilt nach der Probezeit für Azubis?",
+          "antworten": [
+            "Vier Wochen Kündigungsfrist, wenn die Berufsausbildung aufgegeben oder gewechselt wird.",
+            "Azubis dürfen gar nicht kündigen.",
+            "Eine Kündigung ist nur mit Zustimmung der Berufsschule möglich."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Versicherung zahlt der Arbeitgeber zu 100 %?",
+          "antworten": [
+            "Unfallversicherung.",
+            "Krankenkasse.",
+            "Rentenversicherung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Leistung gehört zur Rentenversicherung?",
+          "antworten": [
+            "Altersrenten und Erwerbsminderungsrenten.",
+            "Leistungen bei Arbeitsunfall.",
+            "Krankengeldzahlung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Gesetz regelt Kündigungsfristen?",
+          "antworten": [
+            "§ 622 BGB.",
+            "Arbeitszeitgesetz.",
+            "Mutterschutzgesetz."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie viele Arbeitnehmer braucht ein Betrieb für eine Betriebsratswahl?",
+          "antworten": [
+            "Mindestens 5 wahlberechtigte Arbeitnehmer, davon 3 wählbar.",
+            "Mindestens 20 Arbeitnehmer.",
+            "Mindestens 50 Arbeitnehmer."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wer darf Betriebsrat wählen?",
+          "antworten": [
+            "Alle Arbeitnehmer über 16.",
+            "Nur Vollzeitkräfte.",
+            "Nur Mitarbeiter mit mehr als 6 Monaten Betriebszugehörigkeit."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wer ist an einen Tarifvertrag gebunden?",
+          "antworten": [
+            "Mitglieder von Arbeitgeberverband und Gewerkschaft.",
+            "Nur Arbeitgeber.",
+            "Nur Arbeitnehmer."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was bedeutet Friedenspflicht?",
+          "antworten": [
+            "Während der Tariflaufzeit sind Streiks und Aussperrungen verboten.",
+            "Der Arbeitgeber darf keine Einstellungen vornehmen.",
+            "Der Arbeitnehmer darf keinen Urlaub nehmen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wer kann Tarifverträge allgemeinverbindlich erklären?",
+          "antworten": [
+            "Der Bundesminister für Arbeit und Soziales.",
+            "Der Arbeitgeberverband.",
+            "Der Betriebsrat."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wobei hat der Betriebsrat Mitbestimmung nach §87 BetrVG?",
+          "antworten": [
+            "Arbeitszeit, Pausen, betriebliche Ordnung.",
+            "Einstellung von Führungskräften.",
+            "Unternehmensfusionen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was macht die JAV?",
+          "antworten": [
+            "Sie vertritt die Interessen aller Jugendlichen und Azubis unter 25.",
+            "Sie führt Tarifverhandlungen.",
+            "Sie steuert die Personalplanung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was enthält eine Entgeltabrechnung?",
+          "antworten": [
+            "Brutto-/Nettoentgelt, Abzüge, Arbeitgeberanteile.",
+            "Nur Urlaubstage.",
+            "Nur Fehlzeiten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was regelt ein Manteltarifvertrag?",
+          "antworten": [
+            "Arbeitszeit, Urlaub, Zuschläge.",
+            "Nur Lohnhöhe.",
+            "Nur Arbeitszeiten im öffentlichen Dienst."
+          ],
+          "richtige_antwort": 0
+        },
+
+        {
+          "frage": "Welche Aussage zur Globalisierung ist korrekt?",
+          "antworten": [
+            "Globalisierung führt zu weltweiter Marktöffnung und internationalem Wettbewerb.",
+            "Globalisierung bedeutet regionale Abschottung.",
+            "Globalisierung betrifft nur große Industrien."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist eine Fusion?",
+          "antworten": [
+            "Verschmelzung zweier Unternehmen zu einer Einheit.",
+            "Temporäre Zusammenarbeit zweier Unternehmen.",
+            "Informelle Preisabsprache."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Konzern?",
+          "antworten": [
+            "Ein Zusammenschluss rechtlich selbstständiger Unternehmen unter einer Leitung.",
+            "Ein Betrieb mit vielen Standorten.",
+            "Eine Unternehmensform des öffentlichen Dienstes."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Kartell?",
+          "antworten": [
+            "Eine unzulässige Absprache über Preise oder Mengen.",
+            "Eine Form der Maschinenkooperation.",
+            "Eine staatliche Kontrollstelle."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Unternehmen?",
+          "antworten": [
+            "Eine rechtlich selbstständige wirtschaftliche Einheit mit Gewinnerzielungsabsicht.",
+            "Ein Standort einer Firma.",
+            "Der Handelsname eines Betriebs."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Ziel gehört zu den Formalzielen?",
+          "antworten": [
+            "Rentabilität, Produktivität, Wirtschaftlichkeit.",
+            "Produktqualität.",
+            "Umweltschutz."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Leitbild?",
+          "antworten": [
+            "Grundlegende Orientierung für Mitarbeiter und Unternehmenskultur.",
+            "Reines Werbedokument.",
+            "Gesetzliche Pflichtbeschreibung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt Zielharmonie?",
+          "antworten": [
+            "Ziele unterstützen sich gegenseitig.",
+            "Ziele behindern sich.",
+            "Ziele gelten als bedeutungslos."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt Zielkonflikt?",
+          "antworten": [
+            "Erhöhung der Qualität vs. Senkung der Kosten.",
+            "Steigerung der Motivation vs. Weiterbildung.",
+            "Steigerung des Umsatzes vs. Wachstum."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Ziel ist ein soziales Ziel?",
+          "antworten": [
+            "Mitarbeiterzufriedenheit.",
+            "Gewinnsteigerung.",
+            "Marktanteilserhöhung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Ziel ist ein ökologisches Ziel?",
+          "antworten": [
+            "Ressourcenschonung.",
+            "Rentabilität.",
+            "Wirtschaftlichkeit."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt das SMART-Modell?",
+          "antworten": [
+            "Spezifisch, messbar, akzeptiert, realistisch, terminiert.",
+            "Schnell, messbar, aktuell, real, technisch.",
+            "Strategisch, modern, aktiv, rentabel, technisch."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt betriebliche Arbeitsteilung?",
+          "antworten": [
+            "Aufteilung der Gesamtaufgabe in Teilaufgaben.",
+            "Verteilung der Gewinne.",
+            "Aufteilung der Arbeitszeit."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Sektor umfasst Dienstleistungen?",
+          "antworten": [
+            "Der tertiäre Sektor.",
+            "Der primäre Sektor.",
+            "Der sekundäre Sektor."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist typisch für Eigentümerinteressen?",
+          "antworten": [
+            "Rendite und Kapitalerfolg.",
+            "Umweltschutz.",
+            "Arbeitsmotivation."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie berechnet sich die Umsatzrentabilität?",
+          "antworten": [
+            "Gewinn geteilt durch Umsatz.",
+            "Output geteilt durch Input.",
+            "Ertrag geteilt durch Aufwand."
+          ],
+          "richtige_antwort": 0
+        },
+
+        {
+          "frage": "Was beschreibt die Aufbauorganisation?",
+          "antworten": [
+            "Die hierarchische Struktur eines Unternehmens.",
+            "Die Produktionsplanung.",
+            "Die Personalentwicklung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist eine Instanz?",
+          "antworten": [
+            "Eine Stelle mit Weisungsbefugnis.",
+            "Eine reine Ausführungsstelle.",
+            "Eine externe Beratungsstelle."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist eine Stabstelle?",
+          "antworten": [
+            "Eine beratende Stelle ohne Weisungsbefugnis.",
+            "Eine Stelle mit voller Weisungsbefugnis.",
+            "Eine ausführende Stelle."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Einliniensystem?",
+          "antworten": [
+            "Eine Organisationsstruktur mit einem einzigen Vorgesetzten pro Mitarbeiter.",
+            "Eine Struktur mit mehreren gleichzeitigen Vorgesetzten.",
+            "Eine Projektstruktur."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein Mehrliniensystem?",
+          "antworten": [
+            "Mitarbeiter erhalten Weisungen von mehreren übergeordneten Stellen.",
+            "Jeder Mitarbeiter hat nur einen Vorgesetzten.",
+            "Nur Projekte werden organisiert."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist eine Matrixorganisation?",
+          "antworten": [
+            "Mitarbeiter haben einen fachlichen und einen projektbezogenen Vorgesetzten.",
+            "Alle Mitarbeiter sind gleichgestellt.",
+            "Es gibt keine Hierarchien."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Management by Objectives?",
+          "antworten": [
+            "Führung durch Zielvereinbarungen.",
+            "Führung durch absolute Kontrolle.",
+            "Führung ohne Vorgaben."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Management by Exception?",
+          "antworten": [
+            "Führungskraft greift nur bei Abweichungen ein.",
+            "Führungskraft entscheidet alles.",
+            "Mitarbeiter arbeiten ohne Rahmenbedingungen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Management by Delegation?",
+          "antworten": [
+            "Delegation klar abgegrenzter Aufgabenbereiche.",
+            "Keine Delegation.",
+            "Delegation aller Führungsaufgaben an Stabstellen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Funktion hat ein Organigramm?",
+          "antworten": [
+            "Darstellung der Aufbauorganisation.",
+            "Darstellung der Bilanzstruktur.",
+            "Darstellung des Informationsflusses."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Stelle besitzt keine Weisungsbefugnis?",
+          "antworten": [
+            "Stabstelle.",
+            "Instanz.",
+            "Bereichsleiter."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist die Aufgabe einer Instanz?",
+          "antworten": [
+            "Planen, Entscheiden und Kontrollieren.",
+            "Nur Ausführen.",
+            "Nur Beraten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist typisch für das Stabliniensystem?",
+          "antworten": [
+            "Linienstellen werden von Stäben beraten.",
+            "Stäbe entscheiden alles.",
+            "Stäbe haben volle Weisungskompetenz."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Struktur birgt die größte Gefahr von Kompetenzüberschneidungen?",
+          "antworten": [
+            "Mehrliniensystem.",
+            "Einliniensystem.",
+            "Stabliniensystem."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Struktur eignet sich besonders für Projekte?",
+          "antworten": [
+            "Matrixorganisation.",
+            "Einliniensystem.",
+            "Stabliniensystem."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Struktur verursacht die längsten Informationswege?",
+          "antworten": [
+            "Einliniensystem.",
+            "Mehrliniensystem.",
+            "Matrixorganisation."
+          ],
+          "richtige_antwort": 0
+        },
+
+        {
+          "frage": "Was beschreibt das Maximalprinzip?",
+          "antworten": [
+            "Mit festem Input maximalen Output erzielen.",
+            "Mit festem Output minimalen Input erzielen.",
+            "Input und Output beliebig einsetzen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt das Minimalprinzip?",
+          "antworten": [
+            "Mit minimalem Input einen festgelegten Output erreichen.",
+            "Mit maximalem Input minimalen Output.",
+            "Mit beliebigem Input beliebigen Output."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Produktionsfaktoren gelten betriebswirtschaftlich?",
+          "antworten": [
+            "Werkstoffe, Betriebsmittel, Arbeit.",
+            "Boden, Kapital, Bildung.",
+            "Maschinen, Kapitalmärkte."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Produktivität?",
+          "antworten": [
+            "Output/Input.",
+            "Ertrag/Aufwand.",
+            "Gewinn/Kapital."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Wirtschaftlichkeit?",
+          "antworten": [
+            "Ertrag/Aufwand.",
+            "Gewinn/Kapital.",
+            "Output/Input."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist Rentabilität?",
+          "antworten": [
+            "Gewinn/Kapital.",
+            "Output/Input.",
+            "Kosten/Umsatz."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Faktor gehört volkswirtschaftlich zum Kapital?",
+          "antworten": [
+            "Sach- und Geldkapital.",
+            "Unqualifizierte Arbeit.",
+            "Natürliche Ressourcen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein wirtschaftliches Gut?",
+          "antworten": [
+            "Ein knappes Gut mit Preis.",
+            "Ein kostenloses Gut.",
+            "Ein ausschließlich staatlich produziertes Gut."
+          ],
+          "richtige_antwort": 0
+        },
+
+        {
+          "frage": "Was ist ein Markt?",
+          "antworten": [
+            "Treffpunkt von Angebot und Nachfrage.",
+            "Ein staatlicher Handelsplatz.",
+            "Ein Verkaufsraum für Sachgüter."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Merkmal beschreibt einen vollkommenen Markt?",
+          "antworten": [
+            "Homogene Güter und vollständige Transparenz.",
+            "Starke persönliche Präferenzen.",
+            "Langsame Marktreaktionen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt ein Polypol?",
+          "antworten": [
+            "Viele Anbieter und viele Nachfrager.",
+            "Ein Anbieter und viele Nachfrager.",
+            "Viele Anbieter und ein Nachfrager."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt ein Monopol?",
+          "antworten": [
+            "Ein Anbieter und viele Nachfrager.",
+            "Viele Anbieter und ein Nachfrager.",
+            "Viele Anbieter und viele Nachfrager."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was entsteht bei Angebotsüberhang?",
+          "antworten": [
+            "Ein Käufermarkt.",
+            "Ein Verkäufermarkt.",
+            "Ein Monopol."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was entsteht bei Nachfrageüberhang?",
+          "antworten": [
+            "Ein Verkäufermarkt.",
+            "Ein Käufermarkt.",
+            "Ein Polypol."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was kennzeichnet die Hochkonjunktur?",
+          "antworten": [
+            "Hohe Auslastung, hohe Beschäftigung, starke Nachfrage.",
+            "Sinkende Produktion.",
+            "Sinkende Nachfrage."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt eine Rezession?",
+          "antworten": [
+            "Rückgang der Wirtschaftsleistung.",
+            "Starke Expansion.",
+            "Wirtschaftlicher Stillstand."
+          ],
+          "richtige_antwort": 0
+        }
+      ],
+    "LF02V2 -Arbeitsplatz nach Kundenwunsch ausstatten":[
+        {
+          "frage": "Welches Ziel beschreibt am präzisesten den betriebswirtschaftlichen Kern der Datenverarbeitung in Unternehmen?",
+          "antworten": [
+            "Steigerung der Wirtschaftlichkeit durch schnellere, automatisierte Verarbeitung großer Datenmengen bei gleichzeitiger Reduktion von Personal- und Sachkosten.",
+            "Ausschließliche Ersetzung von Personal durch künstliche Intelligenz ohne Prozessanpassung.",
+            "Überführung aller betrieblichen Informationen in papierlose Archive ohne Einfluss auf Abläufe."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Zuordnung zum EVA-Prinzip ist für die Kombination Scanner – Datenbankserver – Monitor am fachlich genauesten?",
+          "antworten": [
+            "Scanner = Eingabe, Datenbankserver = Verarbeitung/Speicherung, Monitor = Ausgabe.",
+            "Scanner = Verarbeitung, Datenbankserver = Eingabe, Monitor = Ausgabe.",
+            "Scanner = Ausgabe, Datenbankserver = Eingabe, Monitor = Verarbeitung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Eigenschaft unterscheidet den Arbeitsspeicher (RAM) grundlegend von einer SSD im Hinblick auf den Systembetrieb?",
+          "antworten": [
+            "Der RAM ist flüchtig und verliert seinen Inhalt beim Ausschalten, während die SSD nichtflüchtig ist und Daten dauerhaft speichert.",
+            "RAM und SSD sind beide nichtflüchtig, werden aber nur unterschiedlich adressiert.",
+            "Die SSD ist Teil der CPU-Cache-Hierarchie, während RAM ausschließlich Massenspeicher ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt die Von-Neumann-Architektur in modernen Rechnern am treffendsten?",
+          "antworten": [
+            "Programme und Daten werden im selben adressierbaren Speicher gehalten, und die CPU holt Befehle sequenziell aus diesem gemeinsamen Speicher.",
+            "Programme werden fest im Prozessor verdrahtet, während Daten ausschließlich in externen Speichern vorgehalten werden.",
+            "Daten und Programme sind stets physisch getrennt auf unterschiedlichen Mainboards verteilt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle haben sogenannte digitale Ökosysteme großer IT-Unternehmen im Kontext von Arbeitsplätzen nach Kundenwunsch?",
+          "antworten": [
+            "Sie verbinden abgestimmte Hardware, Software und Dienste über gemeinsame Standards und Schnittstellen, um Integrationsvorteile und Lock-in-Effekte zu erzeugen.",
+            "Sie verhindern durch proprietäre Schnittstellen jede Form von Interoperabilität zwischen Produkten unterschiedlicher Hersteller.",
+            "Sie dienen ausschließlich der Einhaltung von Umweltnormen und haben keinen Einfluss auf Produktportfolios."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kombination beschreibt die Hauptaufgaben der CPU in einem Arbeitsplatzrechner am genauesten?",
+          "antworten": [
+            "Steuern, Rechnen und Laden/Speichern von Daten aus beziehungsweise in Register und Speicher.",
+            "Langfristige Archivierung, Benutzerverwaltung und grafische Darstellung von Informationen.",
+            "Verwaltung der Netzwerkverbindungen, Stromversorgung und Kühlung aller Komponenten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist die Taktfrequenz einer CPU allein kein zuverlässiger Indikator für deren Leistungsfähigkeit bei der Auswahl von IT-Arbeitsplätzen?",
+          "antworten": [
+            "Weil Architektur, Anzahl der Kerne, Cache-Größen und Befehlssatz-Erweiterungen die reale Performance stark beeinflussen.",
+            "Weil eine höhere Taktfrequenz automatisch zu weniger Wärmeentwicklung und damit geringerer Leistungsfähigkeit führt.",
+            "Weil die Taktfrequenz nur bei mobilen Systemen, nicht aber bei Desktop-Systemen eine Rolle spielt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wodurch zeichnet sich ein 64-Bit-Betriebssystem auf Arbeitsplatzrechnern technisch insbesondere aus?",
+          "antworten": [
+            "Es kann deutlich größere adressierbare Hauptspeicherbereiche nutzen und 64-Bit-Register der CPU vollständig ausnutzen.",
+            "Es kann ausschließlich 32-Bit-Anwendungen ausführen, solange genügend RAM installiert ist.",
+            "Es benötigt keine Gerätetreiber, da alle Geräte automatisch hardwareseitig erkannt werden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Rolle von Schnittstellen am Mainboard ist im Hinblick auf die Arbeitsplatzplanung korrekt?",
+          "antworten": [
+            "Sie bestimmen maßgeblich, welche Erweiterungskarten, Massenspeicher und Peripheriegeräte überhaupt angebunden werden können.",
+            "Sie dienen ausschließlich zur Überwachung der CPU-Temperatur und haben keine Bedeutung für die Erweiterbarkeit.",
+            "Sie werden nur bei Servern berücksichtigt, bei Arbeitsplatzrechnern sind sie irrelevant."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum spielt der Formfaktor des Mainboards bei der Planung eines kundenspezifischen Arbeitsplatzrechners eine zentrale Rolle?",
+          "antworten": [
+            "Weil er die Gehäusegröße, die Anzahl der Erweiterungssteckplätze und die Art des Netzteils vorgibt.",
+            "Weil er ausschließlich festlegt, welche Betriebssysteme installiert werden können.",
+            "Weil er nur bestimmt, ob ein Monitor direkt an der Hauptplatine angeschlossen werden darf."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Kriterium ist bei der Auswahl eines Netzteils für einen leistungsstarken Workstation-PC besonders sicherheitsrelevant?",
+          "antworten": [
+            "Ausreichende Leistung mit Reserven sowie Zertifizierungen zur Energieeffizienz und stabile Spannungsversorgung auf allen Schienen.",
+            "Möglichst geringes Gewicht des Netzteils, um die Transportkosten zu reduzieren.",
+            "Ein sehr lauter Lüfter, damit Überhitzung frühzeitig akustisch erkannt wird."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Eigenschaft unterscheidet SSDs technisch am stärksten von klassischen HDDs im Hinblick auf den Einsatz in Kundenarbeitsplätzen?",
+          "antworten": [
+            "SSDs haben keine mechanischen Teile, bieten deutlich kürzere Zugriffszeiten und sind unempfindlicher gegenüber Erschütterungen.",
+            "SSDs sind grundsätzlich magnetisch und benötigen regelmäßige Defragmentierung.",
+            "SSDs können nur in Servern betrieben werden, nicht aber in Arbeitsplatzrechnern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Eigenschaft ist für ergonomische Eingabegeräte an Büroarbeitsplätzen besonders relevant?",
+          "antworten": [
+            "Anpassung an Handgröße und Griffstil, geringe Belastung von Gelenken und Sehnen sowie ausreichende Unterstützungsflächen.",
+            "Möglichst hohe Betätigungskraft der Tasten, um Fehleingaben zu vermeiden.",
+            "Fehlende Einstellmöglichkeiten, damit alle Benutzer exakt dieselbe Haltung einnehmen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Monitor-Eigenschaft ist für grafisch anspruchsvolle Arbeitsplätze (z. B. Mediengestaltung) am wichtigsten?",
+          "antworten": [
+            "Hohe Farbraumabdeckung und Farbstabilität, kombiniert mit passender Auflösung und Kalibrierungsmöglichkeit.",
+            "Möglichst kleine Bildschirmdiagonale, um Augenbewegungen zu minimieren.",
+            "Ausschließliche Nutzung von TN-Panels, weil diese unabhängig vom Blickwinkel konstante Farben liefern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist bei Druckern für ein Unternehmen nicht nur der Anschaffungspreis relevant?",
+          "antworten": [
+            "Weil Verbrauchsmaterialien, Energieverbrauch, Wartung und Ausfallzeiten maßgeblich die Gesamtkosten pro Seite bestimmen.",
+            "Weil Drucker mit hohem Anschaffungspreis grundsätzlich kostenlose Patronen auf Lebenszeit beinhalten.",
+            "Weil der Anschaffungspreis nur im öffentlichen Dienst berücksichtigt werden darf, nicht in Unternehmen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt das Konzept der Green IT im Kontext von Arbeitsplatzsystemen am besten?",
+          "antworten": [
+            "Ganzheitliche Betrachtung von Energieverbrauch, Ressourceneinsatz, Emissionen und Entsorgung über den gesamten Lebenszyklus von IT-Systemen.",
+            "Ausschließliche Verwendung von Geräten in grüner Gehäusefarbe, um Umweltfreundlichkeit zu signalisieren.",
+            "Verzicht auf Sicherheitsupdates, um den Energieverbrauch durch weniger Installationen zu senken."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Umwelt- und Prüfzeichen sind für energieeffiziente IT-Arbeitsplatzgeräte typischerweise relevant?",
+          "antworten": [
+            "Zertifizierungen wie Energy Star, EU-Ecolabel oder TCO Certified mit klar definierten technischen Anforderungen.",
+            "Nur die CE-Kennzeichnung, da sie sämtliche Umweltaspekte vollständig abdeckt.",
+            "Ausschließlich Herstellerlogos, da diese die Energieeffizienz garantieren."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist der entscheidende Unterschied zwischen einem bloßen Preisvergleich und einer echten Wirtschaftlichkeitsbetrachtung bei IT-Systemen?",
+          "antworten": [
+            "Wirtschaftlichkeitsbetrachtungen berücksichtigen neben Anschaffungskosten auch Betriebskosten, Folgekosten, Restwerte und Nutzen.",
+            "Preisvergleiche sind nur im öffentlichen Sektor erlaubt, Wirtschaftlichkeitsbetrachtungen nur im privaten Bereich.",
+            "Wirtschaftlichkeitsbetrachtungen bewerten ausschließlich qualitative Kriterien wie Design und Markenimage."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt der Begriff Total Cost of Ownership (TCO) im Kontext von Arbeitsplatzrechnern?",
+          "antworten": [
+            "Die Summe aus Anschaffungskosten, Betriebs-, Wartungs-, Schulungs- und Entsorgungskosten über die gesamte Nutzungsdauer.",
+            "Den Nettoanschaffungspreis abzüglich aller Rabatte und Skonti zum Bestellzeitpunkt.",
+            "Ausschließlich die monatlichen Stromkosten eines Systems während der Garantiezeit."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was drückt der Return on Investment (ROI) bei IT-Projekten aus?",
+          "antworten": [
+            "Das Verhältnis von erzieltem Gewinn beziehungsweise Nutzen zu den eingesetzten Projektkosten über einen definierten Zeitraum.",
+            "Die absolute Summe der Projektkosten ohne Berücksichtigung der erzielten Einsparungen.",
+            "Die Anzahl der Nutzer eines Systems im Verhältnis zu den vorhandenen Arbeitsplatzrechnern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie wird die Amortisationszeit eines IT-Projekts im einfachsten Fall berechnet?",
+          "antworten": [
+            "Projektkosten dividiert durch durchschnittlichen jährlichen oder monatlichen Nutzen beziehungsweise Einsparbetrag.",
+            "Projektkosten multipliziert mit der geschätzten Nutzungsdauer der IT-Systeme.",
+            "Monatliche Einsparung dividiert durch die Abschreibungsdauer der Hardware."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zu quantitativen und qualitativen Auswahlkriterien bei IT-Produkten ist zutreffend?",
+          "antworten": [
+            "Quantitative Kriterien sind z. B. Preis und Lieferzeit, qualitative Kriterien z. B. Servicequalität, Erweiterbarkeit und Zuverlässigkeit.",
+            "Qualitative Kriterien sind ausschließlich Messwerte wie Taktfrequenz und Kapazität, quantitative Kriterien nur subjektive Eindrücke.",
+            "Beide Arten von Kriterien werden grundsätzlich in Geldwerten ausgedrückt und sind daher identisch."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum spielen Normen und Formfaktoren bei der Auswahl von IT-Komponenten eine große Rolle?",
+          "antworten": [
+            "Sie gewährleisten Kompatibilität, Austauschbarkeit und sichere Integration verschiedener Bauteile im System.",
+            "Sie dienen primär dem Marketing und haben keine technischen Konsequenzen.",
+            "Sie werden nur für Server definiert, nicht aber für Arbeitsplatzrechner."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle spielt der Kundendienst als Auswahlkriterium bei der Beschaffung von Arbeitsplatzsystemen?",
+          "antworten": [
+            "Er beeinflusst Verfügbarkeit und Lebenszykluskosten wesentlich durch Reaktionszeiten, Ersatzteilversorgung und Supportqualität.",
+            "Er ist für IT-Systeme irrelevant, weil diese im Störungsfall immer vollständig ersetzt werden.",
+            "Er betrifft nur Konsumgüter für Privatkunden und spielt im Business-Bereich keine Rolle."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt eine Nutzwertanalyse im Rahmen eines IT-Anschaffungsprojekts am besten?",
+          "antworten": [
+            "Sie bewertet Alternativen anhand gewichteter qualitativer und ggf. quantitativer Kriterien, um eine nachvollziehbare Entscheidung zu treffen.",
+            "Sie berechnet ausschließlich die Differenz der Anschaffungspreise verschiedener Angebote.",
+            "Sie misst nur technische Kennzahlen und blendet weiche Faktoren wie Service und Image aus."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist typischerweise der erste Schritt beim Leistungsprozess von der Kundenanfrage bis zum Angebot im IT-Umfeld?",
+          "antworten": [
+            "Systematische Erfassung und Qualifikation der Kundenanforderungen in einem Gespräch und ggf. im Lastenheft.",
+            "Direkte Bestellung der teuersten verfügbaren Hardwarekomponenten ohne Rücksprache.",
+            "Sofortige Erstellung einer Rechnung, um sich den Auftrag zu sichern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle hat das Lastenheft im Leistungsprozess für IT-Arbeitsplätze?",
+          "antworten": [
+            "Es beschreibt aus Sicht des Auftraggebers alle fachlichen und nichtfachlichen Anforderungen und dient als Grundlage für Angebote.",
+            "Es enthält ausschließlich technische Spezifikationen der Hardware ohne Bezug zu Geschäftsprozessen.",
+            "Es ist ein internes Dokument des Auftragnehmers und wird dem Kunden nicht offengelegt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie unterscheidet sich das Pflichtenheft vom Lastenheft im Rahmen der Beschaffung von IT-Systemen?",
+          "antworten": [
+            "Das Pflichtenheft konkretisiert als Antwort des Auftragnehmers, wie die im Lastenheft beschriebenen Anforderungen technisch umgesetzt werden.",
+            "Das Pflichtenheft wiederholt das Lastenheft unverändert in anderer Formatierung.",
+            "Das Pflichtenheft beschreibt nur die Zahlungsbedingungen und Lieferfristen der IT-Systeme."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist eine strukturierte Anforderungsanalyse vor der Auswahl von Arbeitsplatzsystemen unverzichtbar?",
+          "antworten": [
+            "Weil nur so Leistungsmerkmale, Kapazitäten, Softwareanforderungen und zukünftige Erweiterungsbedarfe sauber erfasst und bewertet werden können.",
+            "Weil dadurch der Aufwand für die Dokumentation vollständig entfällt.",
+            "Weil dadurch rechtliche Aspekte wie der Kaufvertrag entfallen und mündliche Absprachen ausreichen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Aspekt gehört typischerweise NICHT zu den in einer Anforderungsanalyse geprüften Punkten für IT-Arbeitsplätze?",
+          "antworten": [
+            "Persönliche Hobbys der Mitarbeiter, die die Systeme nutzen.",
+            "Bestehende Infrastruktur, Netzwerktopologie und Lizenzsituation.",
+            "Leistungsanforderungen der eingesetzten Fachanwendungen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum kann Desktop-as-a-Service (DaaS) bei der Gestaltung von Arbeitsplätzen eine wirtschaftlich sinnvolle Alternative sein?",
+          "antworten": [
+            "Weil virtuelle Desktops zentral bereitgestellt, zentral administriert und flexibel skaliert werden können, wodurch Investitionen in lokale Hardware reduziert werden.",
+            "Weil lokale Wartung durch den Kunden komplett entfällt und keinerlei Sicherheitsanforderungen mehr bestehen.",
+            "Weil DaaS ausschließlich für Privatkunden angeboten wird und dadurch besonders günstig ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Ziel verfolgt IT-Refurbishing im Zusammenhang mit Arbeitsplatzrechnern?",
+          "antworten": [
+            "Wiederaufbereitung und Instandsetzung gebrauchter IT-Geräte, um Nutzungsdauer zu verlängern und Ressourcen zu schonen.",
+            "Endgültige physische Zerstörung aller Altgeräte, um jede Wiederverwendung zu verhindern.",
+            "Überführung von IT-Geräten in rein dekorative Ausstellungsstücke ohne Funktion."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was unterscheidet IT-Remarketing von IT-Recycling?",
+          "antworten": [
+            "Remarketing fokussiert auf Wiederverkauf funktionsfähiger Geräte, Recycling auf Rückgewinnung von Rohstoffen aus nicht mehr nutzbaren Komponenten.",
+            "Remarketing bezieht sich ausschließlich auf Drucker, Recycling nur auf Monitore.",
+            "Remarketing ist ein rein rechtlicher Begriff, Recycling ausschließlich ein steuerlicher Begriff."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wodurch zeichnet sich der Leistungsprozess bei Warenlieferungen an Kunden im IT-Handel typischerweise aus?",
+          "antworten": [
+            "Folge von Kundenanfrage, Angebot, Kundenauftrag, Warenausgang, Rechnungsausgang und Zahlungseingang.",
+            "Direkter Warenausgang mit Rechnungsausgang ohne vorherige Anfrage oder Angebot.",
+            "Zahlungseingang des Kunden, bevor eine Anfrage gestellt wurde."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Besonderheit weist der Leistungsprozess auf, wenn die anzubietenden IT-Produkte beim Händler nicht auf Lager sind?",
+          "antworten": [
+            "Es ist ein vorgeschalteter Beschaffungsprozess beim Lieferanten mit eigener Anfrage, Angebotsvergleich, Bestellung und Wareneingang erforderlich.",
+            "Der Händler muss den Auftrag grundsätzlich ablehnen, da keine Lagerware vorhanden ist.",
+            "Der Händler liefert sofort andere Produkte ohne Rücksprache, um den Prozess zu beschleunigen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was beschreibt der Begriff E-Procurement im Kontext der IT-Beschaffung?",
+          "antworten": [
+            "Elektronisch unterstützte Beschaffung von Gütern und Dienstleistungen über Online-Systeme wie E-Shops, Marktplätze oder eigene Plattformen.",
+            "Die ausschließliche Nutzung von Faxgeräten zur Bestellabwicklung im Einkauf.",
+            "Die vollständige Abschaffung schriftlicher Bestellprozesse zugunsten mündlicher Absprachen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Kriterium ist für einen rein quantitativen Angebotsvergleich im IT-Bereich typisch?",
+          "antworten": [
+            "Vergleich ausschließlich preisbezogener Faktoren wie Gesamtpreis, Rabatte, Skonti und Zahlungsbedingungen bei ansonsten identischer Qualität.",
+            "Bewertung der Imagewirkung der Marke und des Designs der Geräte.",
+            "Analyse der langfristigen Innovationsstrategie des Herstellers."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Entscheidungsmatrix bei der Auswahl von Monitoren ist zutreffend?",
+          "antworten": [
+            "Kriterien wie Preis, Auflösung, Ergonomie und Service werden gewichtet, bewertet und zu einem Gesamtpunktwert je Alternative verdichtet.",
+            "Es wird nur das Kriterium mit der höchsten Gewichtung betrachtet, alle anderen Kriterien werden ignoriert.",
+            "Die Matrix wird ausschließlich für qualitative Kriterien wie Design verwendet, nicht für technische Eigenschaften."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist charakteristisch für einen zweiseitigen Handelskauf im Rahmen der Wareneingangsprüfung?",
+          "antworten": [
+            "Beide Parteien sind Kaufleute, und der Käufer hat eine unverzügliche Prüf- und Rügepflicht für erkennbare Mängel.",
+            "Nur der Verkäufer ist Kaufmann, der Käufer ist immer eine Privatperson mit keiner Prüfpflicht.",
+            "Es besteht keine Pflicht zur Mängelrüge, solange die Rechnung bezahlt wurde."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Verpflichtung hat ein Unternehmen bezüglich der Gefährdungsbeurteilung am IT-Arbeitsplatz?",
+          "antworten": [
+            "Es muss systematisch Gefährdungen ermitteln, beurteilen und geeignete Schutzmaßnahmen festlegen und dokumentieren.",
+            "Es genügt, den Mitarbeitern einmalig eine Sicherheitsbroschüre auszuhändigen.",
+            "Es reicht aus, die Verantwortung vollständig an den Hardwarehersteller zu übertragen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Unterscheidung zwischen Dienst- und Werkvertrag ist für IT-Dienstleistungen besonders wichtig?",
+          "antworten": [
+            "Beim Werkvertrag wird ein konkreter Erfolg geschuldet, beim Dienstvertrag lediglich eine fachgerechte Tätigkeit ohne Erfolgsgarantie.",
+            "Beim Dienstvertrag ist die Vergütung erfolgsabhängig, beim Werkvertrag immer pauschal.",
+            "Werkverträge sind im IT-Bereich unzulässig, es dürfen nur Dienstverträge abgeschlossen werden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Funktion hat eine Abnahmeerklärung bei der Lieferung und Installation von IT-Systemen?",
+          "antworten": [
+            "Sie dokumentiert, dass die vereinbarten Leistungen gemäß den Abnahmekriterien erbracht wurden und Mängel ggf. festgehalten sind.",
+            "Sie ersetzt den Kaufvertrag vollständig und ist rechtlich nicht relevant.",
+            "Sie dient nur der internen Archivierung ohne rechtliche Wirkung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Wareneingangsprüfung bei IT-Hardware ist korrekt?",
+          "antworten": [
+            "Es sind Art, Menge, Identität mit der Bestellung sowie sichtbare und funktionale Mängel zu prüfen und zu dokumentieren.",
+            "Es genügt, die Anzahl der gelieferten Kartons zu zählen, technische Tests sind unnötig.",
+            "Wareneingangsprüfungen dürfen nur vom Lieferanten durchgeführt werden, nicht vom Käufer."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Zusammenhang besteht zwischen Marketing-Mix und dem Verkauf von IT-Arbeitsplätzen?",
+          "antworten": [
+            "Produkt-, Preis-, Kommunikations- und Distributionspolitik bestimmen gemeinsam, wie IT-Lösungen im Markt platziert und verkauft werden.",
+            "Marketing-Mix bezieht sich ausschließlich auf Konsumgüter und ist für IT-Dienstleistungen irrelevant.",
+            "Die Preispolitik hat im B2B-IT-Geschäft keine Bedeutung, da nur technische Kriterien zählen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Maßnahme gehört zur Kommunikationspolitik von IT-Unternehmen im Rahmen des Marketing-Mix?",
+          "antworten": [
+            "Werbung, Public Relations, Sponsoring und Sales Promotion zur Beeinflussung der Kaufbereitschaft.",
+            "Festlegung von Produktionskapazitäten in den Fertigungswerken.",
+            "Definition der verfügbaren Mainboard-Formfaktoren."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was versteht man im IT-Vertrieb unter Distributionspolitik?",
+          "antworten": [
+            "Gestaltung des Weges der Produkte vom Hersteller zum Endkunden über Absatzmittler und Logistikketten.",
+            "Gestaltung der Produktmerkmale im Hinblick auf technische Spezifikationen.",
+            "Festlegung der internen Gehaltsstrukturen von Vertriebsmitarbeitern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein wesentliches Ziel der Produktpolitik von IT-Anbietern im Hinblick auf Arbeitsplatzlösungen?",
+          "antworten": [
+            "Aufbau eines auf Zielgruppen zugeschnittenen Sortiments mit klar definierten Qualitätsmerkmalen und Serviceleistungen.",
+            "Reduktion des Sortiments auf ein einziges Standardprodukt zur Vereinfachung der Lagerhaltung.",
+            "Ausschließliche Konzentration auf den niedrigsten Preis ohne Rücksicht auf Qualität."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Preisstrategie kann bei der Markteinführung einer neuen IT-Arbeitsplatzlösung als Penetrationsstrategie interpretiert werden?",
+          "antworten": [
+            "Niedriger Einstiegspreis zur schnellen Erschließung hoher Marktanteile mit späterer Preiserhöhung.",
+            "Sehr hoher Einführungspreis, um die hohe Qualität zu signalisieren und nur eine kleine Zielgruppe anzusprechen.",
+            "Preisfestsetzung ausschließlich anhand der Produktionskosten ohne Marktanalyse."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt die Rechtsfähigkeit im Zusammenhang mit IT-Kaufverträgen korrekt?",
+          "antworten": [
+            "Natürliche und juristische Personen können Träger von Rechten und Pflichten und damit Vertragspartner beim Kauf von IT-Systemen sein.",
+            "Nur natürliche Personen sind rechtsfähig, juristische Personen sind vom Geschäftsverkehr ausgeschlossen.",
+            "Nur Unternehmen mit mehr als 50 Mitarbeitern sind rechtsfähig."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kombination beschreibt die wesentlichen Bestandteile eines rechtssicheren Angebots für IT-Arbeitsplätze?",
+          "antworten": [
+            "Genaue Leistungsbeschreibung, Menge, Qualität, Preis, Liefer- und Zahlungsbedingungen, Bindungsfrist, Bezug auf AGB.",
+            "Nur eine kurze Preisangabe ohne weitere Details, da technische Angaben vertraulich sind.",
+            "Ausschließlich Liefertermin und Zahlungsziel, alle anderen Informationen werden mündlich nachgereicht."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist eine verbindliche Willenserklärung im Kontext der Angebotserstellung?",
+          "antworten": [
+            "Ein konkretes Angebot, das bei Zugang beim Empfänger den Rechtsbindungswillen des Anbieters erkennen lässt.",
+            "Eine allgemeine Warenanpreisung ohne Bezug auf bestimmte Personen oder Mengen.",
+            "Eine unverbindliche Anfrage nach IT-Produkten seitens des Kunden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Frist gilt für die Annahme eines Angebots, wenn im IT-Angebot keine Bindungsfrist angegeben ist und der Versand per Brief erfolgt?",
+          "antworten": [
+            "Die Zeitdauer, in der der Anbieter nach den Umständen typischerweise mit einer Antwort rechnen darf, z. B. wenige Tage für Postlauf und Überlegungszeit.",
+            "Das Angebot gilt rechtlich unbegrenzt, bis der Anbieter es ausdrücklich widerruft.",
+            "Die Annahme ist nur innerhalb eines Arbeitstages möglich, unabhängig von Versandweg und Entfernung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt den Kaufvertrag bei der Lieferung von IT-Arbeitsplätzen zutreffend?",
+          "antworten": [
+            "Er kommt durch übereinstimmende Willenserklärungen von Antrag und Annahme über wesentliche Vertragsbestandteile zustande.",
+            "Er gilt bereits als geschlossen, sobald der Kunde eine Werbeanzeige liest.",
+            "Er setzt zwingend eine notarielle Beurkundung voraus, auch bei alltäglichen IT-Geschäften."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Pflicht besteht für den Käufer im Rahmen eines IT-Kaufvertrags?",
+          "antworten": [
+            "Annahme der mangelfrei gelieferten Ware und fristgerechte Zahlung des vereinbarten Kaufpreises.",
+            "Bereitstellung der technischen Dokumentation für den Verkäufer.",
+            "Verpflichtung, die gekaufte IT ausschließlich zu geschäftlichen Zwecken einzusetzen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt Einzelkosten im Rahmen der Kalkulation von IT-Projekten korrekt?",
+          "antworten": [
+            "Kosten, die einem Kostenträger direkt und eindeutig zugeordnet werden können, z. B. Lizenzkosten einer bestimmten Software für ein Projekt.",
+            "Kosten, die unabhängig von einzelnen Projekten anfallen und auf alle Produkte verteilt werden.",
+            "Kosten, die nur in der Finanzbuchhaltung, nicht aber in der Kostenrechnung erfasst werden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was kennzeichnet Gemeinkosten in einem IT-Systemhaus?",
+          "antworten": [
+            "Sie betreffen mehrere Projekte oder Produkte gleichzeitig und müssen über Schlüsselgrößen verteilt werden, z. B. Miete oder Gehälter der Verwaltung.",
+            "Sie entstehen ausschließlich durch den Einkauf von Hardwarekomponenten für ein einzelnes Kundenprojekt.",
+            "Sie dürfen nicht in die Kalkulation einfließen, da sie nicht direkt zurechenbar sind."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Buchführungsart ist für größere IT-Unternehmen mit Eintragung im Handelsregister typischerweise vorgeschrieben?",
+          "antworten": [
+            "Doppelte Buchführung mit Bilanz und Gewinn- und Verlustrechnung.",
+            "Einfache Einnahmen-Überschuss-Rechnung ohne Bilanz.",
+            "Ausschließlich kamerale Buchführung ohne Gewinnermittlung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Zuschlagskalkulation bei Handelswaren im IT-Bereich ist zutreffend?",
+          "antworten": [
+            "Auf den Einstandspreis werden Handlungskostenzuschlag und Gewinnzuschlag gerechnet, um den Listenverkaufspreis zu ermitteln.",
+            "Vom Listenverkaufspreis wird rückwärts der Einkaufspreis berechnet, indem alle Zuschläge addiert werden.",
+            "Der Einstandspreis wird ausschließlich durch Multiplikation des Listenverkaufspreises mit dem Gewinnzuschlag bestimmt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist eine Stundensatzkalkulation für IT-Dienstleistungen erforderlich?",
+          "antworten": [
+            "Um auf Basis von Lohnkosten, Gemeinkosten und geplanter Auslastung einen kostendeckenden und gewinnorientierten Stundensatz zu bestimmen.",
+            "Damit beliebige Stundensätze ohne Bezug zu Kosten frei gewählt werden können.",
+            "Weil der Stundensatz gesetzlich vorgeschrieben ist und nicht berechnet werden darf."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Größe wird für die Berechnung der Amortisationsdauer eines IT-Projekts benötigt?",
+          "antworten": [
+            "Projektkosten und periodischer Nutzen beziehungsweise Einsparung.",
+            "Nur die kalkulierten Gemeinkosten des Unternehmens.",
+            "Nur der Nettoverkaufspreis der eingesetzten Hardware."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Zielsetzung hat eine quantitative Angebotskalkulation beim Weiterverkauf von Hardwarekomponenten?",
+          "antworten": [
+            "Sicherstellung, dass alle Kosten gedeckt und die geplanten Gewinne erzielt werden, ohne die Wettbewerbsfähigkeit des Preises zu verlieren.",
+            "Maximale Reduktion des Verkaufspreises unabhängig von den eigenen Kosten.",
+            "Festlegung eines einheitlichen Preises für alle Artikel ungeachtet deren Einkaufspreises."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt einen Projektstrukturplan im Kontext eines IT-Arbeitsplatzprojekts am besten?",
+          "antworten": [
+            "Hierarchische Zerlegung des Projekts in Teilprojekte, Teilaufgaben und Arbeitspakete, um Planung und Steuerung zu erleichtern.",
+            "Liste aller im Unternehmen vorhandenen Projekte ohne Strukturierung.",
+            "Ausschließlich grafische Darstellung der Unternehmenshierarchie."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was zeigt ein Gantt-Diagramm typischerweise in einem Projekt zur Einführung neuer Arbeitsplatzrechner?",
+          "antworten": [
+            "Zeitliche Abfolge und Dauer von Aktivitäten in Form von Balken entlang einer Zeitachse.",
+            "Reine Kostenentwicklung ohne Bezug zu Zeit oder Aktivitäten.",
+            "Nur die Verantwortlichen, aber nicht den zeitlichen Ablauf."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur Netzplantechnik in IT-Projekten ist richtig?",
+          "antworten": [
+            "Sie stellt Vorgänger-Nachfolger-Beziehungen von Vorgängen dar und ermöglicht die Ermittlung des kritischen Pfads.",
+            "Sie wird ausschließlich für Finanzbuchhaltungsprojekte verwendet.",
+            "Sie beschreibt lediglich die logische Netzwerktopologie von Servern und Switches."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist es im Rahmen des Projektmanagements sinnvoll, Meilensteine bei der Ausstattung von Arbeitsplätzen zu definieren?",
+          "antworten": [
+            "Meilensteine markieren zentrale Zwischenergebnisse und erleichtern Kontrolle, Kommunikation und Steuerung des Projektfortschritts.",
+            "Meilensteine ersetzen die Notwendigkeit ausführlicher Projektpläne vollständig.",
+            "Meilensteine dienen ausschließlich zur Erfassung der Überstunden von Projektmitarbeitern."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Ziel verfolgt die Berücksichtigung von Kundenanforderungen im Leistungsprozess eines IT-Projekts?",
+          "antworten": [
+            "Sicherstellung, dass die gelieferten Lösungen funktional, qualitativ und organisatorisch den Erwartungen und Rahmenbedingungen des Kunden entsprechen.",
+            "Reduzierung des Umfangs der Anforderungen, um das Projekt schneller abschließen zu können.",
+            "Verlagerung der Verantwortung für Fehlfunktionen vollständig auf den Kunden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Zielgruppenunterscheidung ist für Marketingmaßnahmen im IT-Umfeld relevant?",
+          "antworten": [
+            "Interne Zielgruppen wie Mitarbeiter und Führungskräfte sowie externe Zielgruppen wie Kunden, Lieferanten und Öffentlichkeit.",
+            "Nur interne Zielgruppen, da externe Zielgruppen Marketingbotschaften nicht wahrnehmen.",
+            "Nur externe Zielgruppen, da interne Kommunikation keine Rolle spielt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist ergonomische Arbeitsplatzgestaltung gerade bei intensiver Bildschirmarbeit besonders wichtig?",
+          "antworten": [
+            "Um gesundheitliche Belastungen wie Augenbeschwerden, Muskel-Skelett-Erkrankungen und Ermüdung zu reduzieren und die Leistungsfähigkeit zu erhalten.",
+            "Damit die Zahl der notwendigen Pausen maximal reduziert werden kann.",
+            "Damit ausschließlich Steharbeitsplätze eingeführt werden können."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Maßnahme gehört NICHT zu typischen ergonomischen Anforderungen an Bildschirmarbeitsplätze?",
+          "antworten": [
+            "Unveränderliche, starre Sitzhöhe ohne Anpassungsmöglichkeit.",
+            "Blendfreie Ausleuchtung und anpassbare Helligkeit des Monitors.",
+            "Ausreichende Bewegungsfläche und variable Tischhöhe."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle spielt Barrierefreiheit bei der Ausstattung von IT-Arbeitsplätzen?",
+          "antworten": [
+            "Sie ermöglicht Menschen mit Einschränkungen die gleichberechtigte Nutzung von Hard- und Software durch angepasste Eingabegeräte und Benutzeroberflächen.",
+            "Sie beschränkt sich auf die farbliche Gestaltung von Gehäusen.",
+            "Sie ist nur für öffentliche Verwaltungen, nicht aber für private Unternehmen relevant."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage zur rechtlichen Bedeutung von AGB bei IT-Kaufverträgen ist zutreffend?",
+          "antworten": [
+            "Sie regeln standardisierte Vertragsbedingungen, die bei wirksamer Einbeziehung für alle Verträge mit diesen AGB gelten.",
+            "Sie sind rechtlich unverbindliche Empfehlungen ohne Auswirkungen auf die Vertragsinhalte.",
+            "Sie gelten automatisch für alle Verträge, auch wenn der Kunde sie nie gesehen hat."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist es bei der Beschaffung von IT-Arbeitsplätzen wichtig, Vertragsarten wie Kauf-, Werk- und Dienstvertrag unterscheiden zu können?",
+          "antworten": [
+            "Weil sich Haftung, Leistungsinhalt, Mängelrechte und Abnahmemodalitäten je nach Vertragsart grundlegend unterscheiden.",
+            "Weil nur Dienstverträge erlaubt sind und alle anderen Vertragsarten vermieden werden müssen.",
+            "Weil die Vertragsart ausschließlich steuerliche Bedeutung hat, aber keine Auswirkungen auf Rechte und Pflichten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist bei der Form von Rechtsgeschäften im IT-Bereich zu beachten, zum Beispiel bei größeren Lizenzverträgen?",
+          "antworten": [
+            "Für bestimmte Geschäfte schreibt das Gesetz Schriftform oder notarielle Beurkundung vor, ansonsten sind Rechtsgeschäfte grundsätzlich formfrei möglich.",
+            "Alle IT-bezogenen Rechtsgeschäfte müssen notariell beurkundet werden.",
+            "Mündliche Vereinbarungen sind im IT-Bereich nie wirksam."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Eigenschaft sollte ein Service-Level-Agreement (SLA) im Rahmen einer IT-Arbeitsplatzlösung haben?",
+          "antworten": [
+            "Konkrete, messbare Zusagen zu Verfügbarkeit, Reaktionszeiten und Wiederherstellungszeiten sowie klar definierte Sanktionsmechanismen.",
+            "Nur eine grobe Formulierung, dass alles \"nach bestem Wissen\" erledigt wird.",
+            "Verzicht auf jegliche Zeitangaben, um die Flexibilität des Anbieters zu erhalten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist die Berücksichtigung von Datenschutz und IT-Sicherheit bei der Ausstattung von Arbeitsplätzen unabdingbar?",
+          "antworten": [
+            "Weil personenbezogene Daten und Geschäftsgeheimnisse geschützt werden müssen und Verstöße empfindliche rechtliche und wirtschaftliche Folgen haben.",
+            "Weil Sicherheitsmaßnahmen die Nutzung von IT-Systemen grundsätzlich verlangsamen und daher vermieden werden sollten.",
+            "Weil Datenschutz ausschließlich für Privatnutzer gilt, nicht aber für Unternehmen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Maßnahme ist ein Beispiel für organisatorische IT-Sicherheitsmaßnahmen an Arbeitsplätzen?",
+          "antworten": [
+            "Klare Berechtigungskonzepte, Passwort-Richtlinien und Schulungen der Mitarbeiter im sicheren Umgang mit IT-Systemen.",
+            "Installation von Hardware ohne Dokumentation der Konfiguration.",
+            "Ausschließlich Verschlüsselung der Festplatten ohne organisatorische Regeln."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum sollten bei Anforderungsanalysen zu Thin Clients besondere Aspekte berücksichtigt werden?",
+          "antworten": [
+            "Weil Verarbeitung überwiegend auf zentralen Servern erfolgt und Netzwerkbandbreite, Latenz und zentrale Ressourcen kritisch sind.",
+            "Weil Thin Clients im Gegensatz zu anderen Systemen keine Updates benötigen.",
+            "Weil Thin Clients grundsätzlich nicht in Unternehmensnetzwerken betrieben werden dürfen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Besonderheit gilt bei der Finanzierung von IT-Arbeitsplätzen über Leasingmodelle?",
+          "antworten": [
+            "Die Nutzungsrechte werden zeitlich befristet überlassen, während das Eigentum beim Leasinggeber verbleibt.",
+            "Der Leasingnehmer wird sofort Eigentümer und trägt kein wirtschaftliches Risiko.",
+            "Leasing ist ausschließlich für Privatpersonen zulässig, nicht für Unternehmen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist es sinnvoll, bei der Planung von IT-Arbeitsplätzen auch zukünftige Entwicklungstrends der Computertechnik zu berücksichtigen?",
+          "antworten": [
+            "Um Systeme so zu wählen, dass sie erweiterbar sind und über die geplante Nutzungsdauer mit neuen Anforderungen Schritt halten können.",
+            "Damit vorhandene Systeme häufiger ausgetauscht werden müssen, um neue Technik zu rechtfertigen.",
+            "Weil aktuelle Trends keinen Einfluss auf die langfristige Nutzbarkeit von Systemen haben."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Bedeutung haben standardisierte Steckplätze und Anschlüsse auf Mainboards beim Zusammenbau von Arbeitsplatzrechnern?",
+          "antworten": [
+            "Sie ermöglichen den Einbau kompatibler Prozessoren, RAM-Module und Erweiterungskarten und begrenzen gleichzeitig mögliche Upgrades.",
+            "Sie dienen ausschließlich dazu, Kabel optisch ordentlich zu führen.",
+            "Sie entscheiden nur darüber, welche Betriebssysteme installiert werden können."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist bei der Wahl eines geeigneten Arbeitsplatztyps (z. B. Desktop, Laptop, Thin Client) für einen Kunden besonders zu beachten?",
+          "antworten": [
+            "Einsatzszenarien, Mobilitätsbedarf, Leistungsanforderungen, Sicherheitsanforderungen und Gesamtbetriebskosten.",
+            "Ausschließlich die aktuell vorrätigen Geräte im Lagerbestand.",
+            "Nur das äußere Design der Geräte, da die Technik überall identisch ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum werden in Anforderungsanalysen Hardware- und Softwarevoraussetzungen gemeinsam betrachtet?",
+          "antworten": [
+            "Weil nur das Zusammenspiel von Hardware, Betriebssystem, Netz und Anwendungen sicherstellt, dass die fachlichen Prozesse unterstützt werden.",
+            "Weil Hardwareanforderungen grundsätzlich wichtiger sind als Softwareanforderungen.",
+            "Weil Softwareanforderungen immer unabhängig von Hardware planbar sind."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist der Zweck der Wareneingangsprüfung hinsichtlich der Übereinstimmung mit Bestelldokumenten?",
+          "antworten": [
+            "Sicherzustellen, dass gelieferte Art, Menge und Spezifikation der IT-Produkte den vertraglich vereinbarten Bedingungen entsprechen.",
+            "Den Lieferanten auf zufällige Abweichungen hinzuweisen, ohne weitere Konsequenzen.",
+            "Zu überprüfen, ob der Lieferant seine eigenen Lagerbestände korrekt gezählt hat."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Folgen kann eine unterlassene oder verspätete Mängelrüge bei einem zweiseitigen Handelskauf im IT-Bereich haben?",
+          "antworten": [
+            "Der Käufer kann seine Gewährleistungsrechte verlieren, weil die Ware als genehmigt gilt.",
+            "Der Verkäufer verliert automatisch das Eigentum an der gelieferten Ware.",
+            "Eine Mängelrüge ist jederzeit ohne Frist möglich und hat keine rechtlichen Konsequenzen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Was ist ein wesentlicher Vorteil zentral dokumentierter Abnahmeprotokolle in IT-Projekten?",
+          "antworten": [
+            "Sie schaffen Transparenz über erbrachte Leistungen, offene Mängel und bilden eine Grundlage für spätere Gewährleistungsansprüche.",
+            "Sie können mündliche Absprachen vollständig ersetzen, ohne Nachweise zu hinterlassen.",
+            "Sie dienen ausschließlich der Ermittlung der Mitarbeiterzufriedenheit im Projekt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle spielt das Elektro- und Elektronikgerätegesetz (ElektroG) im Umgang mit ausgedienten IT-Arbeitsplätzen?",
+          "antworten": [
+            "Es regelt Rücknahme, Entsorgung und Verwertung von Elektro- und Elektronikschrott, um Umweltbelastungen zu minimieren.",
+            "Es betrifft ausschließlich Haushaltsgeräte und nicht im Unternehmen eingesetzte IT-Systeme.",
+            "Es schreibt die Vernichtung aller Altgeräte im Unternehmen ohne Verwertung vor."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist die Dokumentation der Projektphasen bei der Ausstattung eines größeren Unternehmens mit neuen Arbeitsplatzrechnern prüfungsrelevant?",
+          "antworten": [
+            "Sie ermöglicht Nachvollziehbarkeit, Kontrolle von Terminen und Kosten sowie klare Zuordnung von Verantwortlichkeiten.",
+            "Sie ersetzt alle vertraglichen Vereinbarungen mit dem Kunden.",
+            "Sie dient ausschließlich internen Schulungszwecken der Auszubildenden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aufgabe erfüllt eine Nutzwertanalyse, wenn mehrere technisch sehr unterschiedliche Arbeitsplatzlösungen zur Auswahl stehen?",
+          "antworten": [
+            "Sie macht Qualitätsunterschiede transparent, indem verschiedene Kriterien gewichtet und zu einem Gesamtwert je Alternative verdichtet werden.",
+            "Sie elimininiert alle qualitativen Kriterien zugunsten des niedrigsten Preises.",
+            "Sie ersetzt eine Anforderungsanalyse vollständig."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Warum ist es in der IHK-Prüfung wichtig, zwischen Kundenanfrage, Angebot und Auftrag im Leistungsprozess unterscheiden zu können?",
+          "antworten": [
+            "Weil sich rechtliche Bindung, Pflichten und kaufmännische Buchungen je nach Phase unterscheiden.",
+            "Weil diese Begriffe Synonyme sind und nur die zeitliche Reihenfolge variiert.",
+            "Weil nur die Kundenanfrage rechtliche Wirkung hat, Angebot und Auftrag aber nicht."
+          ],
+          "richtige_antwort": 0
+        }
+      ],
+      
+    "LF06V2 - Serviceanfragen bearbeiten": [
+        {
+          "frage": "Welcher IT-Servicebegriff beschreibt am genauesten eine strukturierte Sammlung häufig gestellter Fragen und ihrer Lösungen auf einer Website eines IT-Dienstleisters?",
+          "antworten": [
+            "FAQ-Bereich als Teil der Service- und Supportdokumentation, der wiederkehrende Kundenanfragen in standardisierter Form bündelt.",
+            "Servicekatalog, der alle buchbaren IT-Services inklusive SLAs und Preisen auflistet.",
+            "Wissensdatenbank, in der ausschließlich interne technische Workarounds für Administratoren dokumentiert werden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie wird im IT-Vertrieb der strukturierte Überblick über alle angebotenen Hardware- und Softwareprodukte fachlich korrekt bezeichnet?",
+          "antworten": [
+            "Produktkatalog bzw. IT-Service-Portfolio des Vertriebsbereichs.",
+            "Konfigurationsmanagement-Datenbank (CMDB) der IT-Abteilung.",
+            "Service-Request-Fulfilment-Register des Helpdesks."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Bezeichnung trifft am besten auf Dienstleistungen eines Netzwerkanbieters wie Internetzugang, MPLS oder VPN zu?",
+          "antworten": [
+            "Network Services des Providers (z. B. WAN-, LAN- oder VPN-Services).",
+            "Application Management Services für Fachanwendungen.",
+            "Desktop-as-a-Service-Leistungen für Endanwender."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie bezeichnet man den zeitlich befristeten, im Kaufpreis enthaltenen Instandhaltungs- und Reparaturservice für IT-Produkte nach dem Kauf?",
+          "antworten": [
+            "Garantieservice des Herstellers gemäß Gewährleistungsbestimmungen.",
+            "Kulanzservice, der ohne Rechtsanspruch außerhalb der Garantie gewährt wird.",
+            "Managed Service, der individuell vertraglich als SLA vereinbart ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie nennt man einen freiwilligen, rechtlich nicht einklagbaren Unterstützungsservice, den ein Anbieter über die gesetzlichen Pflichten hinaus erbringt?",
+          "antworten": [
+            "Kulanzleistung des Serviceanbieters.",
+            "Onsite-Wartungsvertrag mit Reaktionszeitgarantie.",
+            "Break/Fix-Support im Rahmen eines Incident-Management-Prozesses."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Serviceart beschreibt am zutreffendsten die Erbringung von Installations-, Wartungs- oder Entstörungsleistungen direkt beim Kunden vor Ort?",
+          "antworten": [
+            "Vor-Ort-Service bzw. Field-Service des Dienstleisters.",
+            "Remote-Service über ausschließlich fernadministrierte Wartungszugriffe.",
+            "Self-Service-Portal, in dem der Kunde selbst alle Aufgaben ausführt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie bezeichnet man zusammenfassend Online-Leistungen wie Monitoring, Remote-Wartung und Fernadministration von Kundensystemen?",
+          "antworten": [
+            "Managed Services, die als kontinuierliche, vertraglich geregelte Online-Services erbracht werden.",
+            "Projektservices, die einmalig im Rahmen eines Rollout-Projekts erbracht werden.",
+            "Field-Services, die ausschließlich physische Einsätze vor Ort umfassen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt der Service, bei dem ein Dienstleister auf Basis pauschaler Sätze IT-Systeme turnusmäßig prüft und in einem funktionsfähigen Zustand hält?",
+          "antworten": [
+            "Wartungsservice mit regelmäßig eingeplanten Instandhaltungsarbeiten.",
+            "Reiner Break/Fix-Support, der nur bei akuten Störungen reagiert.",
+            "On-Demand-Consulting ohne vertraglich vereinbarte Regeltermine."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Bezeichnung trifft am besten auf den Service zu, bei dem defekte Komponenten durch neue ersetzt und Systeme beim Kunden wieder funktionsfähig gemacht werden?",
+          "antworten": [
+            "Reparatur- und Swap-Service im Rahmen des technischen Supports.",
+            "Capacity-Management-Service zur Performanceoptimierung.",
+            "Change-Advisory-Service zur Bewertung geplanter Änderungen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie nennt man die strukturierte Erklärung auf einer Website oder in einem Dokument, die Endanwendern die Bedienung eines neuen IT-Systems vermittelt?",
+          "antworten": [
+            "Benutzerhandbuch bzw. Online-Hilfe als Teil der User-Dokumentation.",
+            "Service-Level-Agreement zur Festlegung von Verfügbarkeiten.",
+            "Konfigurationsrichtlinie für Administratoren im Rechenzentrum."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Fachbezeichnung beschreibt die bewusste Auslagerung bisher interner IT-Aufgaben, etwa Betrieb von Servern oder Anwendungen, an einen externen Dienstleister?",
+          "antworten": [
+            "IT-Outsourcing bzw. Sourcing an einen externen Provider.",
+            "Insourcing von ausgelagerten Aufgaben zurück ins eigene Rechenzentrum.",
+            "Offshoring von Entwicklungsleistungen in ein anderes Land ohne Providervertrag."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt das Beschaffungsmodell, bei dem ein externer Dienstleister im Auftrag des Kunden IT-Systeme auswählt, beschafft und teilweise auch betreibt?",
+          "antworten": [
+            "IT-Sourcing durch einen externen Provider oder Systemintegrator.",
+            "Reines Lizenzleasing ohne operative Betriebsverantwortung.",
+            "Hardware-Mietvertrag ohne Einfluss auf Auswahl und Betrieb."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie wird der zentrale Arbeitsplatz bezeichnet, an dem Mitarbeiter systematisch Störungen und Serviceanfragen der Endanwender entgegennehmen und bearbeiten?",
+          "antworten": [
+            "Helpdesk bzw. Servicedesk als Single Point of Contact.",
+            "Network Operations Center (NOC) ausschließlich für Backbone-Monitoring.",
+            "Project Management Office (PMO) für Projektportfoliosteuerung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Begriff beschreibt ein IT-Service-Management-Framework, das Prozesse, Rollen, Begriffe und Best Practices für Services standardisiert?",
+          "antworten": [
+            "ITSM-Framework wie ITIL oder FitSM zur Vereinheitlichung des Service-Managements.",
+            "FSM-Framework zur ausschließlichen Steuerung von Feldtechnikereinsätzen ohne Prozesssicht.",
+            "DevOps-Toolchain, die sich ausschließlich auf Build- und Deployment-Pipelines konzentriert."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches ITIL-nahes Managementgebiet ist primär dafür verantwortlich, die organisatorische und technische Verfügbarkeit von IT-Systemen sicherzustellen?",
+          "antworten": [
+            "Availability Management mit Fokus auf Verfügbarkeitszielen und -maßnahmen.",
+            "Capacity Management mit ausschließlichem Fokus auf CPU- und Speicherauslastung.",
+            "Financial Management, das nur Budget- und Kostenplanung für IT-Services betreut."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Managementdisziplin verwaltet Services mit ihren Kriterien, Leistungsmerkmalen und vertraglichen Bedingungen gegenüber dem Kunden?",
+          "antworten": [
+            "Service Level Management mit Schwerpunkt auf Aushandlung und Überwachung von SLAs.",
+            "Problem Management, das ausschließlich wiederkehrende Störungsursachen analysiert.",
+            "Change Management, das ausschließlich Änderungen an der Infrastruktur freigibt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Managementgebiet strukturiert die Gesamtheit der angebotenen Services nach aktiven, geplanten und auslaufenden Services?",
+          "antworten": [
+            "Service-Portfolio-Management mit Lifecycle-Sicht auf alle Services.",
+            "Incident Management mit Fokus auf die Abarbeitung einzelner Störfälle.",
+            "Request-Fulfilment, das nur Standard-Serviceanfragen operativ bedient."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt das Managementgebiet, das Maßnahmen plant, um trotz Risiken und Störungen die Geschäftsfähigkeit des Kundenunternehmens aufrechtzuerhalten?",
+          "antworten": [
+            "IT-Service-Continuity-Management (ITSCM) mit Notfall- und Wiederanlaufkonzepten.",
+            "Reines Capacity-Management ohne Bezug zu Notfallstrategien.",
+            "Project-Portfolio-Management mit Fokus auf Investitionspriorisierung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Managementgebiet fokussiert sich darauf, die Beziehungen zu Geschäftspartnern, Kunden und internen Stakeholdern systematisch zu pflegen?",
+          "antworten": [
+            "Business-Relationship-Management zur strategischen Betreuung von Kunden- und Partnerbeziehungen.",
+            "Supplier-Management, das ausschließlich Lieferantenverträge überwacht.",
+            "Configuration-Management, das nur technische Konfigurationen dokumentiert."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Disziplin stellt sicher, dass Hard-, Soft- und Personalkapazitäten in ausreichender Menge und Qualität zur Erbringung der Services bereitstehen?",
+          "antworten": [
+            "Capacity Management mit Fokus auf Ressourcenplanung und -prognose.",
+            "Release Management, das lediglich neue Softwarestände in Betrieb bringt.",
+            "Incident Management, das nur auf akute Störungsbeseitigung ausgerichtet ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt das Managementsystem, dessen Zweck es ist, Sicherheitsvorfälle systematisch zu vermeiden und angemessen darauf zu reagieren?",
+          "antworten": [
+            "Information Security Management System (ISMS) nach anerkannten Standards.",
+            "Quality Management System (QMS) zur ISO-9001-konformen Prozessdokumentation.",
+            "Environmental Management System (EMS) für Umwelt- und Nachhaltigkeitsthemen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Rolle ist primär dafür verantwortlich, dass Servicedaten und Konfigurationen logisch korrekt dokumentiert und gepflegt werden?",
+          "antworten": [
+            "Configuration Manager bzw. Verantwortlicher für Service Asset & Configuration Management.",
+            "Change Manager, der ausschließlich über Änderungsfreigaben entscheidet.",
+            "Service Owner, der nur geschäftliche Gesamtverantwortung für einen Service trägt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt die zentrale Datenbasis, in der alle Services und Servicekomponenten einschließlich ihrer Beziehungen erfasst und verwaltet werden?",
+          "antworten": [
+            "Configuration Management Database (CMDB) bzw. Configuration Management System (CMS).",
+            "Service-Katalog, in dem ausschließlich geschäftlich sichtbare Services aufgeführt werden.",
+            "Ticketdatenbank, in der nur Incident- und Request-Datensätze gespeichert werden."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Bezeichnung trifft am besten auf eine zentrale Anlaufstelle zu, über die sämtliche Kundenanfragen in das IT-Service-System gelangen?",
+          "antworten": [
+            "Single Point of Contact (SPOC), typischerweise als Servicedesk implementiert.",
+            "Automatic Call Distribution (ACD) als reines Telefonvermittlungsmodul.",
+            "Shared Mailbox, die nur als allgemeines Postfach ohne Prozesslogik dient."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt das System, das eingehende Anrufe automatisch entgegennimmt, in Warteschlangen verteilt und nach definierten Regeln weiterleitet?",
+          "antworten": [
+            "Automatic Call Distribution (ACD) des Servicecenters.",
+            "Interactive Voice Response (IVR) als reines Sprachmenü ohne Routingfunktion.",
+            "Network Access Server (NAS) zur Einwahl in das Unternehmensnetz."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Begriff steht im Kontext von FitSM und IT-Service-Management für das übergeordnete Managementsystem aller Serviceprozesse?",
+          "antworten": [
+            "Service Management System (SMS) als Gesamtheit von Prozessen, Rollen und Richtlinien.",
+            "Security Management System als rein sicherheitsfokussiertes Subsystem.",
+            "Enterprise Resource Planning (ERP) als betriebswirtschaftliches Anwendungssystem."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie wird der Datensatz bezeichnet, mit dem ein einzelner Servicefall im Ticketsystem angelegt, verfolgt und dokumentiert wird?",
+          "antworten": [
+            "Ticket als Bearbeitungsauftrag mit eindeutiger ID und Historie.",
+            "Event als reines Monitoring-Ereignis ohne Kundenbezug.",
+            "Job als generischer Batch-Lauf auf einem Server."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche generische Rolle nach FitSM beschreibt den fachlich und prozessual verantwortlichen Bearbeiter eines konkreten Servicefalls?",
+          "antworten": [
+            "Case Owner mit Ende-zu-Ende-Verantwortung für das Ticket.",
+            "Service Owner mit strategischer Gesamtverantwortung für einen Service.",
+            "Process Owner, der ausschließlich für die korrekte Definition eines Prozesses zuständig ist."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt das Hilfsmittel, mit dem Tätigkeiten einer Zeile den beteiligten Rollen in Spalten mit Responsible, Accountable, Consulted und Informed zugeordnet werden?",
+          "antworten": [
+            "RACI-Matrix zur systematischen Zuordnung von Verantwortlichkeiten.",
+            "Stakeholder-Mapping-Canvas ausschließlich für Interessengruppen.",
+            "Gantt-Diagramm, das nur zeitliche Abläufe, nicht aber Rollenbezüge zeigt."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Vertragstyp regelt typischerweise Verfügbarkeiten, Reaktionszeiten und Leistungskennzahlen zwischen einem IT-Provider und seinem Kunden?",
+          "antworten": [
+            "Service Level Agreement (SLA) als leistungsorientierter Kundenvertrag.",
+            "Operational Level Agreement (OLA) als interner Vertrag zwischen IT-Abteilungen.",
+            "Underpinning Contract (UC) als Vertrag zwischen Provider und Subdienstleister."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißt der interne Vertrag, der Leistung und Qualität der Zusammenarbeit zwischen IT-Abteilung und anderer Fachabteilung im selben Unternehmen regelt?",
+          "antworten": [
+            "Operational Level Agreement (OLA) mit internen Leistungszusagen.",
+            "Service Level Agreement (SLA) mit externen Kunden.",
+            "Auftragsverarbeitungsvertrag (AV-Vertrag) nach DSGVO."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Vertrag wird typischerweise zwischen einem IT-Dienstleister und einem Subdienstleister geschlossen, damit externe Leistungen zur Einhaltung des Kunden-SLAs beitragen?",
+          "antworten": [
+            "Underpinning Contract (UC) zur vertraglichen Absicherung von Zulieferleistungen.",
+            "Data-Processing-Agreement (DPA) ausschließlich zur personenbezogenen Datenverarbeitung.",
+            "Non-Disclosure-Agreement (NDA) lediglich zum Schutz vertraulicher Informationen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie lautet die korrekte Bezeichnung für einen Vertrag, der die Verarbeitung personenbezogener Daten eines Kunden durch einen Provider nach DSGVO regelt?",
+          "antworten": [
+            "Auftragsverarbeitungsvertrag (AV-Vertrag) gemäß Art. 28 DSGVO.",
+            "Service Level Agreement, das nur technische Kennzahlen festlegt.",
+            "Rahmenliefervertrag für Hardwarebeschaffung ohne Datenschutzbezug."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Fachbegriff beschreibt die maximal unterstützte Datenrate einer Netzwerkverbindung, also die nutzbare Übertragungskapazität pro Zeiteinheit?",
+          "antworten": [
+            "Bandbreite bzw. Datendurchsatz der Verbindung.",
+            "TCP-Latenz als reine Verzögerungszeit eines Pakets.",
+            "Paketverlustquote, also Anteil verlorener Frames."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Begriff bezeichnet die Zeitspanne, die ein Datenpaket von der Quelle bis zum Ziel in einem TCP/IP-Netzwerk benötigt?",
+          "antworten": [
+            "TCP-Latenz als Laufzeit eines Pakets zwischen Sender und Empfänger.",
+            "Bandbreite als maximale Datenmenge pro Sekunde.",
+            "TCP-Verlust als Anzahl der nicht ankommenden Pakete."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie nennt man die durchschnittliche Anzahl der pro 1.000 gesendeten Pakete, die im TCP-Verkehr nicht erfolgreich beim Empfänger ankommen?",
+          "antworten": [
+            "TCP-Verlustrate als Kennzahl für Übertragungsfehler.",
+            "SYN-Fehlerquote als Maß für Verbindungsaufbauprobleme.",
+            "FIN-Fehlerquote als Maß für Verbindungsabbauprobleme."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie heißen Dateien, die Ereignisse und Meldungen eines Betriebssystems oder einer Anwendung fortlaufend protokollieren und für Analysen genutzt werden?",
+          "antworten": [
+            "Log-Dateien bzw. Ereignisprotokolle des Systems.",
+            "Swap-Dateien zur Auslagerung von Speicherseiten.",
+            "Snapshot-Dateien virtueller Maschinen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welcher Fachbegriff beschreibt Fehler beim Aufbau einer TCP-Verbindung, etwa wenn ein Verbindungsversuch nicht ordnungsgemäß bestätigt wird?",
+          "antworten": [
+            "SYN-Fehler im Drei-Wege-Handshake des TCP-Protokolls.",
+            "FIN-Fehler beim ordnungsgemäßen Abbau einer Verbindung.",
+            "ICMP-Destination-Unreachable-Meldung in der Netzwerkschicht."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Wie bezeichnet man Fehler beim ordnungsgemäßen Abbau einer bestehenden TCP-Verbindung, wenn der Verbindungsabschluss nicht korrekt durchgeführt wird?",
+          "antworten": [
+            "FIN-Fehler im Abschlusssegment der TCP-Sitzung.",
+            "SYN-Fehler beim initialen Verbindungsaufbau.",
+            "RST-Flag als reguläres Kontrollelement ohne Fehlerbezug."
+          ],
+          "richtige_antwort": 0
+        },
+         {
+          "frage": "Welcher methodische Ansatz analysiert die Ursachen komplexer Störungen, indem die Phasen Define, Measure, Analyze, Improve und Control strukturiert durchlaufen werden?",
+          "antworten": [
+            "DMAIC-Zyklus aus Six Sigma zur systematischen Problemanalyse und Qualitätsverbesserung.",
+            "RACI-Modell zur Zuordnung organisatorischer Verantwortlichkeiten.",
+            "ITIL-Value-Stream-Mapping zur Beschreibung von Serviceabläufen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Monitoring-Methode liefert die präziseste Aussage über wiederkehrende Störungsursachen, da sie sowohl historische Daten als auch Trendanalysen einbezieht?",
+          "antworten": [
+            "Langzeit-Monitoring mit Korrelations-Analyse zwischen Ereignissen und Systemzuständen.",
+            "Echtzeit-Ping-Messungen ohne Speicherung historischer Daten.",
+            "Passives Log-Monitoring ohne Schwellenwertdefinitionen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Störungsanalyse-Methode eignet sich am besten, um tiefe Ursachenketten aufzudecken, indem man eine Antwort mehrmals hinterfragt?",
+          "antworten": [
+            "5-Why-Methode zur iterativen Ursachenanalyse.",
+            "Ishikawa-Diagramm zur grafischen Ursachenstrukturierung.",
+            "Pareto-Analyse zur Priorisierung der häufigsten Fehlerarten."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Priorisierungsmethode ermöglicht eine fachlich korrekte Einordnung einer Störung anhand von Auswirkung und Dringlichkeit?",
+          "antworten": [
+            "ITIL-konformes Priorisierungsmodell auf Basis von Impact und Urgency.",
+            "ABC-Analyse basierend auf wirtschaftlichem Wert.",
+            "MoSCoW-Methode zur Anforderungspriorisierung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt eine korrekt durchgeführte funktionale Eskalation im Serviceprozess?",
+          "antworten": [
+            "Übergabe an die nächsthöhere technische Bearbeitungsebene, wenn die erforderliche Expertise die Fähigkeiten des aktuellen Level übersteigt.",
+            "Weiterleitung des Tickets an denselben Bearbeiter mit Hinweis auf die Zeitüberschreitung.",
+            "Eskalation ausschließlich durch den Kunden ohne Beteiligung des Servicedesks."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welches Kommunikationsmodell erklärt Missverständnisse, indem es eine Nachricht in Sachebene, Selbstoffenbarung, Beziehung und Appell aufteilt?",
+          "antworten": [
+            "Vier-Seiten-Modell nach Schulz von Thun.",
+            "Sender-Empfänger-Modell nach Shannon/Weaver.",
+            "Transaktionsanalyse nach Berne."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Gesprächstechnik stellt sicher, dass der Kunde sich verstanden fühlt, indem zentrale Inhalte des Gesagten in eigenen Worten zurückgespiegelt werden?",
+          "antworten": [
+            "Paraphrasieren als Teil des aktiven Zuhörens.",
+            "Suggestivfragen zur Gesprächslenkung.",
+            "Konfrontationstechnik zur Eskalationsvermeidung."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Kommunikationstechnik eignet sich besonders, um Informationen im IT-Support strukturiert zu gewinnen, indem gezielt explorative und klärende Fragen gestellt werden?",
+          "antworten": [
+            "Gezielte Fragetechnik mit offenen, geschlossenen und Alternativfragen.",
+            "Metakommunikation, die nur über die Qualität des Gesprächs selbst spricht.",
+            "Reine Ich-Botschaften ohne Bezug auf technische Sachverhalte."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Strategie in Konfliktgesprächen reduziert am effektivsten Eskalationen, indem sie die Perspektive des Gegenübers vollständig berücksichtigt?",
+          "antworten": [
+            "Empathisches Spiegeln von Emotionen und Bedürfnissen, bevor technische Lösungen angeboten werden.",
+            "Direkte Fokussierung auf technische Details ohne emotionale Aspekte.",
+            "Konsequente Vermeidung jeglicher Rückfragen."
+          ],
+          "richtige_antwort": 0
+        },
+        {
+          "frage": "Welche Aussage beschreibt die fachlich korrekte Rolle des Servicedesk-Mitarbeiters nach Tag 4 im Kontext kundengerechter Kommunikation?",
+          "antworten": [
+            "Der Mitarbeiter steuert Gesprächsführung, Erwartungsmanagement und Informationsaufbereitung so, dass der Kunde die technische Lösung nachvollziehen kann.",
+            "Der Mitarbeiter überlässt die gesamte Kommunikation dem Second-Level, sobald technische Details auftauchen.",
+            "Der Mitarbeiter kommuniziert ausschließlich schriftlich, um Fehlerquellen zu vermeiden."
+          ],
+          "richtige_antwort": 0
+        }
+      ],
+    "LF07V2 Cyber-physische Systeme ergänzen":[
+        {
+          "frage": "Welche Eigenschaft definiert ein cyber-physisches System im Kern?",
+          "antworten": [
+            "Die enge Kopplung aus physischer Komponente und digitaler Verarbeitung mit bidirektionaler Echtzeitkommunikation.",
+            "Die Fähigkeit, ausschließlich mechanische Prozesse autonom auszuführen.",
+            "Die Nutzung digitaler Komponenten ohne physische Interaktion mit der Umwelt."
+          ],
+          "richtige_antwort": 0,
+          "thema": "CPS Grundlagen"
+        },
+        {
+          "frage": "Warum stellen CPS höhere Anforderungen an Echtzeitfähigkeit als klassische IT-Systeme?",
+          "antworten": [
+            "Weil physische Prozesse im Millisekundenbereich reagieren und digitale Fehlzeiten direkten Einfluss auf Sicherheit und Materialschäden haben.",
+            "Weil CPS ausschließlich videobasierte Anwendungen ausführen.",
+            "Weil Netzwerkpakete nur im Stundenintervall akzeptiert werden."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Echtzeit"
+        },
+        {
+          "frage": "Welche Rolle spielen Sensoren in der CPS-Architektur?",
+          "antworten": [
+            "Sie liefern kontinuierliche, kontextbezogene Messdaten als Grundlage für digitale Modelle und Steuerentscheidungen.",
+            "Sie ersetzen vollständig die Steuerungslogik eines CPS.",
+            "Sie dienen nur als optionale Ergänzung zu Aktoren."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Sensorik"
+        },
+        {
+          "frage": "Welche Bedeutung hat das Prinzip der Adaption in CPS?",
+          "antworten": [
+            "Es ermöglicht CPS, ihr Verhalten dynamisch an Umweltveränderungen und interne Statuswerte anzupassen.",
+            "Es erlaubt CPS ausschließlich manuelle Konfigurationsänderungen.",
+            "Es begrenzt CPS auf feste Steuerungsparameter."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Adaption"
+        },
+        {
+          "frage": "Welcher Unterschied besteht zwischen mechatronischen Systemen und CPS?",
+          "antworten": [
+            "CPS besitzen eine durchgängige digitale Vernetzung und Echtzeitanalyse, während mechatronische Systeme primär lokal und ohne semantische Vernetzung arbeiten.",
+            "Mechatronische Systeme verfügen über Cloud-Anbindung, CPS über rein lokale Steuerungen.",
+            "Mechatronische Systeme basieren auf offenen IoT-Protokollen, CPS nicht."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Vergleich CPS/Mechatronik"
+        },
+        {
+          "frage": "Warum ist die Integration ein zentrales Funktionsprinzip von CPS?",
+          "antworten": [
+            "Weil physische Prozesse, Steuerung und Datenanalyse in einem gemeinsamen Systemverbund funktionsabhängig interagieren.",
+            "Weil Integration lediglich die mechanische Kopplung von Teilen beschreibt.",
+            "Weil Integration ausschließlich die Verteilung von Finanzdaten bedeutet."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Integration"
+        },
+        {
+          "frage": "Warum ist das IoT eine Voraussetzung für moderne CPS?",
+          "antworten": [
+            "Weil IoT-Strukturen skalierbare Vernetzung, verteilte Kommunikation und Sensorintegration ermöglichen.",
+            "Weil IoT ausschließlich für Consumer-Produkte entwickelt wurde.",
+            "Weil IoT nur Geräte ohne Energieverbrauch unterstützt."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IoT"
+        },
+        {
+          "frage": "Welche Herausforderung ergibt sich aus der Vielzahl an IoT-Protokollen?",
+          "antworten": [
+            "Es entstehen heterogene Kommunikationslandschaften, die Gateways und Protokolltransformation erfordern.",
+            "Die Vielzahl an Protokollen verhindert grundsätzlich jede Kommunikation.",
+            "IoT-Geräte können dadurch ausschließlich über Funk kommunizieren."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IoT Protokolle"
+        },
+        {
+          "frage": "Warum ist MQTT besonders für energiearme CPS geeignet?",
+          "antworten": [
+            "Weil das Publish-Subscribe-Modell sehr geringe Bandbreite benötigt und Geräte nur senden, wenn Daten anfallen.",
+            "Weil MQTT alle Nachrichten mehrfach verschlüsselt ohne CPU-Last.",
+            "Weil MQTT ausschließlich im Offline-Modus arbeitet."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Welche QoS-Stufe garantiert bei MQTT die höchste Übertragungssicherheit?",
+          "antworten": [
+            "QoS 2 – Exactly once",
+            "QoS 1 – At least once",
+            "QoS 0 – At most once"
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+
+        {
+          "frage": "Welche Herausforderung entsteht bei MQTT durch fehlende eingebaute Sicherheitsmechanismen?",
+          "antworten": [
+            "Es müssen zusätzliche Transport- und Anwendungsschichten (z. B. TLS, Benutzerrechte) implementiert werden, um sichere Kommunikation zu gewährleisten.",
+            "MQTT kann nur innerhalb verschlossener Räume betrieben werden.",
+            "MQTT erzwingt automatisch sichere Punkt-zu-Punkt-Verbindungen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT Sicherheit"
+        },
+        {
+          "frage": "Welche Aufgabe übernimmt der Broker im MQTT-System?",
+          "antworten": [
+            "Er empfängt Nachrichten von Publishern und verteilt sie an Abonnenten der jeweiligen Topics.",
+            "Er steuert ausschließlich den Energieverbrauch der Sensoren.",
+            "Er generiert automatisch digitale Zwillinge aller Geräte."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Warum gilt OPC UA als zentraler Standard für Industrie 4.0?",
+          "antworten": [
+            "Weil OPC UA sichere, skalierbare, herstellerunabhängige Kommunikation sowie semantische Modelle integriert.",
+            "Weil OPC UA nur für Consumer-Geräte entwickelt wurde.",
+            "Weil OPC UA jedes Gerät zwingt, proprietäre Schnittstellen zu nutzen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "OPC UA"
+        },
+        {
+          "frage": "Welche Stärke besitzt OPC UA gegenüber klassischen Feldbussen?",
+          "antworten": [
+            "Es kombiniert Datenmodellierung, Metadaten, Sicherheit und Transport in einer einheitlichen, serviceorientierten Architektur.",
+            "Es ermöglicht ausschließlich analoge Übertragungssignale.",
+            "Es benötigt keinerlei Konfiguration auf der Anwendungsebene."
+          ],
+          "richtige_antwort": 0,
+          "thema": "OPC UA"
+        },
+        {
+          "frage": "Warum sind semantische Datenmodelle für CPS unerlässlich?",
+          "antworten": [
+            "Weil Maschinen sonst zwar Daten austauschen, deren Bedeutung aber nicht interpretieren könnten.",
+            "Weil semantische Modelle die Hardwarekosten erhöhen sollen.",
+            "Weil semantische Modelle Echtzeitanforderungen verringern."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Semantik"
+        },
+        {
+          "frage": "Welche Herausforderung entsteht beim Zusammenführen mechatronischer und digitaler Teilmodelle?",
+          "antworten": [
+            "Es müssen heterogene Datenquellen synchronisiert, skaliert und auf identische Referenzmodelle abgebildet werden.",
+            "Die Modelle benötigen keine gemeinsame Datengrundlage.",
+            "Mechatronische Modelle können grundsätzlich nicht digitalisiert werden."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Modellierung"
+        },
+        {
+          "frage": "Welche Aufgabe hat die Struktur-Analyse im Rahmen einer FMEA?",
+          "antworten": [
+            "Sie zerlegt das System in funktionale Komponenten und legt die Grundlage für Funktions- und Fehleranalyse.",
+            "Sie berechnet die finanziellen Auswirkungen eines Fehlers.",
+            "Sie dient ausschließlich der Dokumentation des Projektzeitplans."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Wie wird die Risiko-Prioritätszahl (RPZ) berechnet?",
+          "antworten": [
+            "Durch Multiplikation von Bedeutung, Auftretenswahrscheinlichkeit und Entdeckungswahrscheinlichkeit.",
+            "Durch Addition aller gemeldeten Fehler pro Monat.",
+            "Durch Division des Zeitaufwandes durch die Materialkosten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Wann gilt laut FMEA eine Maßnahme als notwendig?",
+          "antworten": [
+            "Wenn RPZ zwischen 100 und 150 liegt oder einer der Einzelwerte (B, A, E) ≥ 8 ist.",
+            "Wenn die RPZ grundsätzlich unter 10 liegt.",
+            "Wenn keine Funktionsanalyse möglich ist."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Welche besondere Gefahr entsteht bei CPS durch erhöhte digitale Vernetzung?",
+          "antworten": [
+            "Neue Angriffsflächen für Cyber-Security-Bedrohungen und Manipulation physischer Prozesse.",
+            "Geringere Anforderungen an Zugangskontrollen.",
+            "Wegfall von sicherheitsrelevanten Prüfungen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IT Sicherheit"
+        },
+
+        {
+          "frage": "Welche Aufgabe hat ein Mobil Device Management im CPS-Umfeld?",
+          "antworten": [
+            "Geräteverwaltung, Richtlinienverteilung, Trennung privater und geschäftlicher Daten.",
+            "Steuerung der physischen Maschinenachsen.",
+            "Automatische Energierückgewinnung aus Sensoren."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MDM"
+        },
+        {
+          "frage": "Was beschreibt der VUCA-Begriff primär?",
+          "antworten": [
+            "Die volatilen, unsicheren, komplexen und mehrdeutigen Rahmenbedingungen moderner Projekte und Systeme.",
+            "Die Anforderungen einer festen, linearen Prozesskette.",
+            "Ein rein technisches Kriterium für Datenbanken."
+          ],
+          "richtige_antwort": 0,
+          "thema": "VUCA"
+        },
+        {
+          "frage": "Welche Aufgabe erfüllt Requirements Engineering bei der Erweiterung eines CPS?",
+          "antworten": [
+            "Systematische Ermittlung, Dokumentation und Verwaltung der Anforderungen an Hardware, Software und Schnittstellen.",
+            "Ausschließliche Kostenberechnung des Projekts.",
+            "Erstellung elektrotechnischer Schaltpläne ohne fachliche Analyse."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Requirements"
+        },
+        {
+          "frage": "Warum werden CPS-Prototypen erstellt?",
+          "antworten": [
+            "Um frühzeitig Funktionalität, Architektur und Nutzeranforderungen validieren zu können.",
+            "Um die endgültige Serienproduktion zu ersetzen.",
+            "Um ausschließlich Designästhetik zu bewerten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Prototyping"
+        },
+        {
+          "frage": "Welche Kernaufgabe übernimmt die Setup-Phase in der Arduino-IDE?",
+          "antworten": [
+            "Initialisierung von Variablen, Ein- und Ausgängen sowie Kommunikationskanälen beim Start.",
+            "Dauerhafte Ausführung des Hauptprogramms.",
+            "Automatische Fehlerkorrektur ohne Programmierung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Arduino"
+        },
+
+        {
+          "frage": "Welche Rolle spielt Node-RED im CPS-Kontext?",
+          "antworten": [
+            "Visuelle Modellierung von Datenflüssen und Ereignissen zur schnellen Umsetzung von IoT-Logik.",
+            "Es dient ausschließlich als Programmiersprache für SPS.",
+            "Es erzeugt automatisch physische CPS-Komponenten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Node-RED"
+        },
+        {
+          "frage": "Welche Aufgabe erfüllt ein MQTT-Broker wie Mosquitto?",
+          "antworten": [
+            "Er verwaltet Topics, verteilt Nachrichten und unterstützt Verbindungspersistenz.",
+            "Er erzeugt Echtzeit-Sicherheitskopien aller IoT-Geräte.",
+            "Er ersetzt die Netzwerkschicht durch Funkübertragung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Warum ist die Trennung privater und geschäftlicher Bereiche im CPS-Umfeld kritisch?",
+          "antworten": [
+            "Weil private Geräte sonst unkontrollierte Angriffsvektoren in industrielle Netzwerke einbringen können.",
+            "Weil dies gesetzlich immer verboten ist.",
+            "Weil sonst keine Daten mehr verarbeitet werden können."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IT Sicherheit"
+        },
+        {
+          "frage": "Welche Gefahr entsteht durch unzureichende Entdeckbarkeit in einer FMEA-Bewertung?",
+          "antworten": [
+            "Ein Fehler kann unbemerkt bleiben und im Feld gravierende Schäden verursachen.",
+            "Ein Fehler wird immer automatisch behoben.",
+            "Ein Fehler verliert dadurch an Bedeutung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Warum ist ein Inbetriebnahmeprotokoll unerlässlich?",
+          "antworten": [
+            "Es dokumentiert Funktion, Sicherheit, Parameter und Fehlerfreiheit des Systems.",
+            "Es ersetzt die technische Dokumentation des Herstellers.",
+            "Es macht weitere Tests überflüssig."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Inbetriebnahme"
+        },
+
+        {
+          "frage": "Welche Aufgabe hat die Funktionsanalyse in der FMEA?",
+          "antworten": [
+            "Sie beschreibt Soll-Funktionen aller Systemelemente und bildet die Basis für Fehlermodi.",
+            "Sie dokumentiert ausschließlich fertige Maßnahmen.",
+            "Sie berechnet Kosten und Laufzeit eines Projekts."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Warum sind offene Standards wie OPC UA für CPS-Interoperabilität essenziell?",
+          "antworten": [
+            "Weil nur dadurch heterogene Maschinen verständlich, sicher und skalierbar miteinander kommunizieren können.",
+            "Weil proprietäre Systeme grundsätzlich verboten sind.",
+            "Weil offene Standards keine Datenmodelle benötigen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "OPC UA"
+        },
+        {
+          "frage": "Welche Herausforderung stellt Energieeffizienz bei IoT-CPS dar?",
+          "antworten": [
+            "Sensoren müssen oft über lange Zeiträume autonom arbeiten und benötigen daher energiesparende Übertragungsmechanismen.",
+            "Energieeffizienz ist irrelevant, da alle Geräte permanent über Kabel versorgt werden.",
+            "CPS verbieten batteriebetriebene Einheiten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IoT Energie"
+        },
+        {
+          "frage": "Warum benötigt ein CPS eine klare Trennung von Energie-, Stoff- und Informationsflüssen?",
+          "antworten": [
+            "Nur so können physische Prozesse, Datenflüsse und Ressourcenverbrauch korrekt modelliert, analysiert und optimiert werden.",
+            "Weil diese Trennung gesetzlich vorgeschrieben ist.",
+            "Weil Informationsflüsse keine Rolle im Systemdesign spielen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Systemanalyse"
+        },
+        {
+          "frage": "Warum sind GPIO, UART, I2C und SPI für CPS relevant?",
+          "antworten": [
+            "Sie definieren typische elektrische Schnittstellen für Sensoren, Mikrocontroller und Aktoren.",
+            "Sie sind ausschließlich Softwareprotokolle ohne Hardwarebezug.",
+            "Sie ersetzen alle Netzwerkverbindungen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Schnittstellen"
+        },
+
+        {
+          "frage": "Welche Rolle spielt die Umgebungssimulation bei CPS-Optimierung?",
+          "antworten": [
+            "Sie ermöglicht das Testen von Fehlerszenarien ohne reale Anlagen zu gefährden.",
+            "Sie dient ausschließlich grafischen Visualisierungen.",
+            "Sie ersetzt jegliche Hardwaretests dauerhaft."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Simulation"
+        },
+        {
+          "frage": "Warum ist das Keep-Alive-Intervall bei MQTT relevant?",
+          "antworten": [
+            "Es verhindert unerkannte Verbindungsabbrüche und stellt Konsistenz sicher.",
+            "Es dient als Energiespeicher für Sensoren.",
+            "Es synchronisiert automatisch alle Topics."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Welchen Vorteil haben retained Messages in MQTT?",
+          "antworten": [
+            "Neue Clients erhalten sofort den letzten bekannten Wert eines Topics.",
+            "Sie reduzieren Netzwerklast in großen Systemen.",
+            "Sie ersetzen die Notwendigkeit einer Echtzeitverbindung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Welche besondere Herausforderung entsteht bei CPS durch physische Manipulationsrisiken?",
+          "antworten": [
+            "Ein Angreifer kann digitale Entscheidungen beeinflussen, indem er physische Sensorik oder Aktorik manipuliert.",
+            "Physische Manipulationen haben keine Auswirkungen auf digitale Systeme.",
+            "CPS sind grundsätzlich gegen physische Einwirkung immun."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Sicherheit"
+        },
+        {
+          "frage": "Warum ist Redundanzplanung wichtig für CPS?",
+          "antworten": [
+            "Weil Ausfälle einzelner Komponenten die Gesamtsystemfunktion gefährden können.",
+            "Weil redundante Systeme ausschließlich die Kosten senken.",
+            "Weil Redundanz Echtzeitfähigkeit überflüssig macht."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Redundanz"
+        },
+
+        {
+          "frage": "Welche Aufgabe hat die Lessons-Learned-Analyse im CPS-Projekt?",
+          "antworten": [
+            "Systematische Ableitung von Verbesserungen und Risikovermeidungsstrategien aus realen Erfahrungen.",
+            "Ausschließliche Archivierung abgeschlossener Projekte ohne Auswertung.",
+            "Erstellung von Werbematerial für das System."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Projektmanagement"
+        },
+        {
+          "frage": "Welche Gefahr entsteht in CPS durch unzureichende Datenvalidierung?",
+          "antworten": [
+            "Fehlerhafte Sensordaten können zu falschen Regelentscheidungen führen und physische Schäden auslösen.",
+            "Es entstehen ausschließlich kosmetische Anzeigeprobleme.",
+            "Validierung beeinflusst keine Steuermechanismen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Datenvalidierung"
+        },
+        {
+          "frage": "Warum erfordern CPS eine kontinuierliche Überwachung der Umgebungsparameter?",
+          "antworten": [
+            "Weil physische Zustände permanent Einfluss auf digitale Entscheidungen haben und instabile Umgebungen Sicherheitsrisiken erzeugen.",
+            "Weil Umgebungsparameter nur für Designzwecke relevant sind.",
+            "Weil CPS ausschließlich virtuelle Prozesse steuern."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Umweltüberwachung"
+        },
+        {
+          "frage": "Welche Gefahr entsteht durch zu hohe Temperatur im Serverraum eines CPS?",
+          "antworten": [
+            "Leistungseinbrüche, Hardwareausfall und Systeminstabilität.",
+            "Erhöhte Netzwerklatenz ohne Hardwareeffekte.",
+            "Fehlerhafte Interpretation aller OPC-UA-Nachrichten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Serverraum"
+        },
+        {
+          "frage": "Warum ist die Trennung von Rollen und Zugriffsleveln in CPS wichtig?",
+          "antworten": [
+            "Weil granulare Berechtigungen unbefugte Steuerungs- und Manipulationsaktionen verhindern.",
+            "Weil Rollenmodelle ausschließlich zur Dokumentation dienen.",
+            "Weil CPS sonst keine Daten mehr übertragen können."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Sicherheit"
+        },
+
+        {
+          "frage": "Welche Rolle spielt die Datenübertragungsrate bei IoT-Protokollen?",
+          "antworten": [
+            "Sie bestimmt, ob ein Protokoll für kleine Telemetriedaten oder hochfrequente Produktionsdaten geeignet ist.",
+            "Sie ist irrelevant, da alle Protokolle identische Bandbreiten haben.",
+            "Sie wird vom Sensorhersteller festgelegt und kann nicht beeinflusst werden."
+          ],
+          "richtige_antwort": 0,
+          "thema": "IoT"
+        },
+        {
+          "frage": "Warum eignen sich LPWAN-Protokolle für CPS mit geringer Datenrate?",
+          "antworten": [
+            "Sie ermöglichen große Reichweiten und extrem niedrigen Energieverbrauch.",
+            "Sie bieten höchste Bandbreiten für Kamerasysteme.",
+            "Sie erfordern zwingend Glasfaserverbindungen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "LPWAN"
+        },
+        {
+          "frage": "Warum ist die Unterscheidung zwischen Steuerung und Regelung für CPS wichtig?",
+          "antworten": [
+            "Weil Steuerung offene Wirkzusammenhänge beschreibt, während Regelung Rückkopplung über Messgrößen nutzt.",
+            "Weil beide Begriffe identisch sind.",
+            "Weil Regelkreise nur in Software existieren."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Regelungstechnik"
+        },
+        {
+          "frage": "Welche Rolle spielt die Echtzeitfähigkeit bei OPC UA?",
+          "antworten": [
+            "Sie wird über Time-Sensitive Networking (TSN) ermöglicht.",
+            "Sie ist bei OPC UA nicht vorgesehen und verboten.",
+            "Sie wird ausschließlich über WLAN gewährleistet."
+          ],
+          "richtige_antwort": 0,
+          "thema": "OPC UA"
+        },
+        {
+          "frage": "Warum ist die Analyse des IST-Zustands eines CPS vor Erweiterungen entscheidend?",
+          "antworten": [
+            "Weil nur durch vollständige Aufnahme von Komponenten, Schnittstellen und räumlichen Bedingungen geeignete Erweiterungen planbar sind.",
+            "Weil sie das Anfertigen eines Schaltplans ersetzt.",
+            "Weil sonst keine Anforderungen mehr dokumentiert werden müssen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Analyse"
+        },
+
+        {
+          "frage": "Welche Gefahr entsteht durch Wasserleckagen im Serverraum eines CPS?",
+          "antworten": [
+            "Kurzschlüsse, Datenverlust und Hardwareausfall.",
+            "Verzögerte OPC-UA-Adressierung.",
+            "Automatische Verbesserung der Kühlung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Serverraum"
+        },
+        {
+          "frage": "Warum müssen CPS-Schnittstellen eindeutig definiert sein?",
+          "antworten": [
+            "Weil nur so deterministische Datenflüsse und eindeutige Steuerbefehle gewährleistet werden.",
+            "Weil Schnittstellen ausschließlich dokumentatorische Bedeutung haben.",
+            "Weil unklare Schnittstellen physische Prozesse stabilisieren."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Schnittstellen"
+        },
+        {
+          "frage": "Welche Aufgabe erfüllt die Energiefluss-Analyse eines CPS?",
+          "antworten": [
+            "Sie identifiziert Energiebedarfe, Leistungsverluste und kritische Verbräuche zur Optimierung des Systems.",
+            "Sie stellt ausschließlich die Kabelfarben dar.",
+            "Sie ersetzt Risikobewertungen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Energie"
+        },
+        {
+          "frage": "Warum sind Stoffflüsse in CPS relevant?",
+          "antworten": [
+            "Weil bei Produktions- oder Umweltprozessen physische Materialien bewegt oder verändert werden, die digitale Entscheidungen beeinflussen.",
+            "Weil Stoffflüsse keine Auswirkung auf digitale Systeme haben.",
+            "Weil Stoffflüsse nur in chemischen Anlagen vorkommen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Systemanalyse"
+        },
+        {
+          "frage": "Welche Aufgabe hat eine Informationsflussanalyse im CPS?",
+          "antworten": [
+            "Darstellung aller Datenwege zur Identifikation von Engpässen, Prioritäten und Angriffspunkten.",
+            "Visualisierung der Raumtemperatur.",
+            "Erfassung aller Serverraumfarben."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Informationsfluss"
+        },
+
+        {
+          "frage": "Warum sind digitale Kommunikationsmodelle für CPS essenziell?",
+          "antworten": [
+            "Weil sie festlegen, wie Daten strukturiert, übertragen und interpretiert werden.",
+            "Weil Kommunikation ausschließlich optional ist.",
+            "Weil CPS ausschließlich offline arbeiten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Kommunikation"
+        },
+        {
+          "frage": "Welche strukturelle Funktion übernehmen Aktoren in CPS?",
+          "antworten": [
+            "Sie setzen digitale Steuerbefehle in physische Aktionen um.",
+            "Sie erzeugen digitale Datenmodelle.",
+            "Sie validieren Sensordaten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Aktorik"
+        },
+        {
+          "frage": "Warum sind Funkprotokolle wie ZigBee oder BLE für CPS bedeutsam?",
+          "antworten": [
+            "Sie ermöglichen dezentrale, energieeffiziente und meshfähige Kommunikation für Sensornetze.",
+            "Sie bieten höchste Bandbreiten für industrielle CNC-Maschinen.",
+            "Sie verhindern die Nutzung kabelgebundener Kommunikationsmittel."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Funk"
+        },
+        {
+          "frage": "Welche IoT-Protokolle eignen sich für große Reichweiten bei geringer Datenrate?",
+          "antworten": [
+            "LoRaWAN, NB-IoT, Sigfox",
+            "Bluetooth, NFC",
+            "HTTP, SMTP"
+          ],
+          "richtige_antwort": 0,
+          "thema": "LPWAN"
+        },
+        {
+          "frage": "Welche Aufgabe erfüllt die Qualifikation der Entdeckbarkeit in der FMEA?",
+          "antworten": [
+            "Sie bewertet, wie wahrscheinlich ein Fehler vor Erreichen des Kunden erkannt wird.",
+            "Sie bewertet nur Materialkosten.",
+            "Sie misst die Farbe von Prozessanzeigen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+
+        {
+          "frage": "Warum ist Standardisierung wichtig für CPS-Skalierbarkeit?",
+          "antworten": [
+            "Weil nur standardisierte Schnittstellen große Systeme sicher, interoperabel und erweiterbar machen.",
+            "Weil Standardisierung ausschließlich Formalität ist.",
+            "Weil Standardisierung die Vernetzung verhindert."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Standardisierung"
+        },
+        {
+          "frage": "Welche Risikoart betrifft insbesondere die Datensicherheit in CPS?",
+          "antworten": [
+            "Manipulation, Abhören, Spoofing und fehlende Zugriffskontrollen.",
+            "Verlust mechanischer Schmierstoffe.",
+            "Ungültige Kabelfarben."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Security"
+        },
+        {
+          "frage": "Warum ist die Analyse von Ausfallrisiken zentral beim CPS-Design?",
+          "antworten": [
+            "Weil Ausfälle sowohl digitale Prozesse als auch physische Produktionssysteme gefährden können.",
+            "Weil CPS bei Ausfällen automatisch reparieren.",
+            "Weil Ausfälle keine wirtschaftliche Relevanz haben."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Risiko"
+        },
+        {
+          "frage": "Welche Bedeutung hat das Last Will Testament im MQTT-Protokoll?",
+          "antworten": [
+            "Es informiert im Ausfall eines Clients automatisch andere Teilnehmer über einen definierten Status.",
+            "Es steuert die grafische Darstellung der Topics.",
+            "Es definiert Speicherorte für historische Nachrichten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+        {
+          "frage": "Welche Kernfunktion erfüllt das Publisher-Subscriber-Prinzip von MQTT?",
+          "antworten": [
+            "Entkopplung von Sendern und Empfängern durch Themenkanäle.",
+            "Erzwingung direkter Punkt-zu-Punkt-Kommunikation.",
+            "Bindung jedes Clients an genau einen Empfänger."
+          ],
+          "richtige_antwort": 0,
+          "thema": "MQTT"
+        },
+
+        {
+          "frage": "Warum sind Sicherheitskonzepte Bestandteil der CPS-Inbetriebnahme?",
+          "antworten": [
+            "Weil Systeme nur sicher sind, wenn Verschlüsselung, Zugangskontrolle und Netzwerkprüfung bereits beim Start berücksichtigt werden.",
+            "Weil Sicherheit ausschließlich nach Inbetriebnahme relevant ist.",
+            "Weil CPS ohne Sicherheit schneller arbeiten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Inbetriebnahme"
+        },
+        {
+          "frage": "Welche Aufgabe hat Time-Sensitive Networking im Kontext industrieller Kommunikation?",
+          "antworten": [
+            "Es bietet deterministische Übertragungszeiten und Echtzeitfähigkeit für zeitkritische CPS.",
+            "Es verhindert deterministische Netzwerke.",
+            "Es optimiert ausschließlich WLAN-Reichweiten."
+          ],
+          "richtige_antwort": 0,
+          "thema": "TSN"
+        },
+        {
+          "frage": "Warum sind Cloud-Anbindungen in CPS ein potentielles Sicherheitsrisiko?",
+          "antworten": [
+            "Weil Angriffe über das Internet direkten Zugriff auf physische Prozesse ermöglichen können.",
+            "Weil Cloud-Verbindungen ausschließlich lokal bleiben.",
+            "Weil Cloud-Systeme Echtzeitfähigkeit ersetzen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Cloud Security"
+        },
+        {
+          "frage": "Welche Herausforderung besteht bei der Datenübertragung über Bluetooth Low Energy?",
+          "antworten": [
+            "Begrenzte Reichweite und geringe Datenrate können zeitkritische CPS-Prozesse beeinträchtigen.",
+            "BLE verursacht extrem hohe Energiekosten.",
+            "BLE verhindert automatische Verbindungstrennung."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Bluetooth"
+        },
+        {
+          "frage": "Warum müssen CPS vollständig protokolliert werden?",
+          "antworten": [
+            "Weil Protokolle die Grundlage für Diagnose, Audit, Rückverfolgbarkeit und Optimierung darstellen.",
+            "Weil Protokolle nur aus gesetzlichen Gründen existieren.",
+            "Weil Protokolle die Prozessgeschwindigkeit erhöhen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Dokumentation"
+        },
+
+        {
+          "frage": "Welche Aufgabe hat die Bewertung der Auftretenswahrscheinlichkeit in der FMEA?",
+          "antworten": [
+            "Abschätzung, wie wahrscheinlich ein potenzieller Fehler im Betrieb auftreten wird.",
+            "Ermittlung der Reparaturkosten.",
+            "Identifikation der Farbe von Fehlersignalen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Warum ist Security as a Service ein wichtiges Konzept für CPS?",
+          "antworten": [
+            "Weil dynamische Sicherheitsdienste zentrale und skalierbare Schutzmechanismen für vernetzte Systeme bereitstellen.",
+            "Weil Sicherheit ausschließlich lokal lösbar ist.",
+            "Weil CPS keine Sicherheitsupdates benötigen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Security"
+        },
+        {
+          "frage": "Welche Bedeutung hat die Teamzusammensetzung in der FMEA?",
+          "antworten": [
+            "Ein interdisziplinäres Team sammelt verschiedene Perspektiven und verbessert die Identifikation kritischer Fehlermodi.",
+            "Ein Team ist optional und die Analyse erfolgt nur durch eine Person.",
+            "Teamgröße bestimmt die RPZ direkt."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA Team"
+        },
+        {
+          "frage": "Welche Gefahr entsteht bei CPS durch ungesicherte WLAN-Verbindungen?",
+          "antworten": [
+            "Angreifer können unbefugt Steuerbefehle injizieren oder Daten abgreifen.",
+            "WLAN-Verbindungen sind grundsätzlich abhörsicher.",
+            "WLAN verhindert jegliche Angriffe."
+          ],
+          "richtige_antwort": 0,
+          "thema": "WLAN Security"
+        },
+        {
+          "frage": "Welche Rolle spielt die Funktionshierarchie bei der CPS-Modellierung?",
+          "antworten": [
+            "Sie ordnet Funktionen strukturiert und zeigt Abhängigkeiten zwischen Systemteilen auf.",
+            "Sie dient ausschließlich der grafischen Gestaltung.",
+            "Sie ersetzt die Funktionsanalyse."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Modellierung"
+        },
+
+        {
+          "frage": "Warum ist die Bewertung der Fehlerbedeutung in der FMEA entscheidend?",
+          "antworten": [
+            "Weil sie beschreibt, wie schwer die Auswirkungen für den Kunden oder das System im Fehlerfall wären.",
+            "Weil sie ausschließlich Produktionskosten beschreibt.",
+            "Weil sie automatisch die Entdeckbarkeit ersetzt."
+          ],
+          "richtige_antwort": 0,
+          "thema": "FMEA"
+        },
+        {
+          "frage": "Welche Herausforderung entsteht bei CPS durch hohe Komplexität?",
+          "antworten": [
+            "Mehr Interdependenzen führen zu schwer vorhersehbaren Zuständen und höheren Risiken.",
+            "Komplexität reduziert die Fehlerwahrscheinlichkeit automatisch.",
+            "Komplexität verhindert Echtzeitkommunikation grundsätzlich."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Komplexität"
+        },
+        {
+          "frage": "Warum ist Validierung bei CPS-Messwerten zwingend notwendig?",
+          "antworten": [
+            "Weil verrauschte oder fehlerhafte Sensordaten falsche Regelentscheidungen verursachen können.",
+            "Weil Validierung nur Marketingzwecken dient.",
+            "Weil Sensoren niemals fehlerhafte Daten liefern."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Datenvalidierung"
+        },
+        {
+          "frage": "Welche Herausforderung besteht bei drahtloser Kommunikation im CPS-Kontext?",
+          "antworten": [
+            "Störungen, Interferenzen und variable Latenzen können kritische Prozesse beeinflussen.",
+            "Drahtlose Kommunikation ist immer vollständig deterministisch.",
+            "Drahtlose Protokolle ersetzen alle Sicherheitsmaßnahmen."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Funk"
+        },
+        {
+          "frage": "Welche Rolle spielt Skalierbarkeit für CPS-Architekturen?",
+          "antworten": [
+            "Sie ermöglicht die Erweiterung eines Systems ohne gravierende Veränderungen an der Infrastruktur.",
+            "Sie ist nur für grafische Benutzeroberflächen relevant.",
+            "Skalierbarkeit wird durch Standardisierung verhindert."
+          ],
+          "richtige_antwort": 0,
+          "thema": "Architektur"
+        }
+      ]
+
+   }
+    
+  }
+
