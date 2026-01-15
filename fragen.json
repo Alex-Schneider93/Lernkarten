@@ -2788,7 +2788,346 @@
           "richtige_antwort": 0,
           "thema": "Architektur"
         }
-      ]
+      ],
+     "LF08V2 Daten Systemübergreifend bereitstellen":[
+           {
+    "frage": "Welcher Python-Befehl fügt genau ein Dokument in MongoDB ein?",
+    "antworten": ["insert_one()", "insert()", "save()"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Tkinter-Komponente dient zur Texteingabe?",
+    "antworten": ["Entry", "Label", "Button"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer trägt die Verantwortung für Softwarequalität?",
+    "antworten": ["Das gesamte Team", "Nur Tester", "Nur Projektleiter"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit wem erstellen Tester Abnahmetestfälle?",
+    "antworten": ["Mit Kunden oder deren Vertretern", "Nur mit Entwicklern", "Nur intern"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann ist AND gleich 1?",
+    "antworten": ["Wenn beide Werte 1 sind", "Wenn ein Wert 1 ist", "Wenn beide Werte verschieden sind"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann ist XOR gleich 1?",
+    "antworten": ["Wenn genau ein Wert 1 ist", "Wenn beide Werte 1 sind", "Wenn beide Werte 0 sind"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie lautet die korrekte Java-main-Methode?",
+    "antworten": ["public static void main(String[] args)", "public void main()", "static int main()"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist die main-Methode static?",
+    "antworten": ["Sie wird ohne Objekt aufgerufen", "Sie ist unveränderbar", "Sie gehört zu einem Objekt"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Schreibtischtest?",
+    "antworten": ["Manuelles Durchgehen des Codes", "Automatisierter Test", "Lasttest"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was gehört zur objektorientierten Programmierung in Java?",
+    "antworten": ["Klassen und Objekte", "Zeigerarithmetik", "Assemblerbefehle"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist typisch für OOP in Python?",
+    "antworten": ["Alles ist ein Objekt", "Keine Vererbung", "Nur primitive Datentypen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann wird mainloop() in Tkinter aufgerufen?",
+    "antworten": ["Am Ende nach dem Erstellen aller Widgets", "Vor dem Fenster", "In jedem Event"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Elemente besitzt ein ERM?",
+    "antworten": ["Entität, Beziehung, Attribut", "Tabelle, Spalte, Index", "Klasse, Objekt, Methode"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt eine Entität im ERM?",
+    "antworten": ["Ein Objekt der realen Welt", "Eine Datenbankabfrage", "Eine Beziehung"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht DDL?",
+    "antworten": ["Data Definition Language", "Data Delete Language", "Dynamic Data Language"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht DML?",
+    "antworten": ["Data Manipulation Language", "Data Model Language", "Data Merge Language"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht DCL?",
+    "antworten": ["Data Control Language", "Data Create Language", "Data Change Language"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht TCL?",
+    "antworten": ["Transaction Control Language", "Table Control Language", "Type Control Language"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche SQL-Klausel filtert Datensätze?",
+    "antworten": ["WHERE", "ORDER BY", "FROM"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche SQL-Klausel sortiert Ergebnisse?",
+    "antworten": ["ORDER BY", "GROUP BY", "WHERE"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient JOIN?",
+    "antworten": ["Tabellen verbinden", "Tabellen löschen", "Spalten umbenennen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird NULL in SQL geprüft?",
+    "antworten": ["IS NULL", "= NULL", "== NULL"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zeichen ist ein Wildcard für beliebig viele Zeichen?",
+    "antworten": ["%", "_", "*"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür dient UPDATE?",
+    "antworten": ["Datensätze ändern", "Datensätze einfügen", "Tabellen löschen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient ALTER TABLE?",
+    "antworten": ["Tabellenstruktur ändern", "Datensätze filtern", "Datensätze löschen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient INSERT INTO?",
+    "antworten": ["Neue Datensätze einfügen", "Datensätze ändern", "Tabellen löschen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient DELETE FROM?",
+    "antworten": ["Datensätze löschen", "Tabellen löschen", "Spalten entfernen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt DROP?",
+    "antworten": ["Objekte vollständig löschen", "Datensätze filtern", "Daten ändern"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die korrekte Reihenfolge bei SELECT?",
+    "antworten": ["SELECT FROM WHERE GROUP BY HAVING ORDER BY LIMIT ", "FROM SELECT WHERE ORDER BY LIMIT HAVING GROUP BY", "WHERE FROM SELECT ORDER BY HAVING LIMIT"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Ziel der Normalformen?",
+    "antworten": ["Redundanzen und Anomalien vermeiden", "Abfragen beschleunigen", "Daten verschlüsseln"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sind Redundanzen?",
+    "antworten": ["Mehrfach gespeicherte gleiche Daten", "Falsche Datentypen", "Fehlende Schlüssel"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was fordert die 1. Normalform?",
+    "antworten": ["Atomare Attribute", "Keine partiellen Abhängigkeiten", "Keine transitiven Abhängigkeiten"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was fordert die 2. Normalform?",
+    "antworten": ["Keine partiellen Abhängigkeiten", "Atomare Attribute", "Keine Fremdschlüssel"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was fordert die 3. Normalform?",
+    "antworten": ["Keine transitiven Abhängigkeiten", "Nur ein Primärschlüssel", "Keine Indizes"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Einfügeanomalie?",
+    "antworten": ["Daten können nicht ohne Zusatzdaten eingefügt werden", "Daten gehen verloren", "Daten werden doppelt gespeichert"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Löschanomalie?",
+    "antworten": ["Wichtige Daten gehen unbeabsichtigt verloren", "Daten sind redundant", "Daten können nicht geändert werden"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein statisches Testverfahren?",
+    "antworten": ["Test ohne Programmausführung", "Test mit Programmausführung", "Lasttest"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein dynamisches Testverfahren?",
+    "antworten": ["Test mit Programmausführung", "Dokumentenprüfung", "Code-Review"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Blackbox-Test?",
+    "antworten": ["Test ohne Kenntnis des Quellcodes", "Test mit Quellcodekenntnis", "Modultest"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Whitebox-Test?",
+    "antworten": ["Test mit Kenntnis des Quellcodes", "Test ohne Quellcode", "Abnahmetest"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Abnahmeprotokoll?",
+    "antworten": ["Dokumentierte Kundenabnahme", "Fehlerliste", "Projektplan"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dienen Testdatengeneratoren?",
+    "antworten": ["Automatisches Erzeugen von Testdaten", "Sichern von Produktivdaten", "Verschlüsseln von Daten"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt gute Datenqualität?",
+    "antworten": ["Korrektheit, Vollständigkeit, Aktualität", "Große Datenmenge", "Hohe Redundanz"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Formate sind textbasierte Datenformate?",
+    "antworten": ["XML, JSON, CSV", "PNG, JPG, MP3", "BIN, EXE, DLL"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Merkmal von NoSQL-Datenbanken?",
+    "antworten": ["Schemaflexible Datenmodelle", "Zwingende Normalisierung", "Nur relationale Tabellen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird ein Klassendiagramm verwendet?",
+    "antworten": ["Darstellung von Klassen und Beziehungen", "Testplanung", "SQL-Abfragen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet die Kardinalität 1:n?",
+    "antworten": ["Ein Objekt ist mehreren Objekten zugeordnet", "Viele zu viele", "Genau eins zu eins"],
+    "richtige_antwort": 0
+  },
+   {
+    "frage": "Womit endet jede Java-Anweisung?",
+    "antworten": ["Mit einem Semikolon", "Mit einem Doppelpunkt", "Mit einem Punkt"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird eine Variable in Java korrekt deklariert?",
+    "antworten": ["int zahl = 5;", "zahl int = 5;", "int = zahl 5;"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Datentyp speichert Ganzzahlen in Java?",
+    "antworten": ["int", "double", "boolean"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie lautet der Vergleichsoperator für Gleichheit in Java?",
+    "antworten": ["==", "=", "equals"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird ein Kommentar über mehrere Zeilen geschrieben?",
+    "antworten": ["/* Kommentar */", "// Kommentar //", ".-- Kommentar --."],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Schleife wird verwendet, wenn die Anzahl der Durchläufe bekannt ist?",
+    "antworten": ["for-Schleife", "while-Schleife", "do-while-Schleife"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Bedingung prüft eine if-Anweisung?",
+    "antworten": ["Einen booleschen Ausdruck", "Eine Zeichenkette", "Eine Zahl"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Klasse in Java?",
+    "antworten": ["Eine Bauanleitung für Objekte", "Ein konkretes Objekt", "Eine Methode"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Objekt?",
+    "antworten": ["Eine Instanz einer Klasse", "Eine Methode", "Ein Datentyp"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient ein Konstruktor?",
+    "antworten": ["Zum Initialisieren eines Objekts", "Zum Löschen eines Objekts", "Zum Vergleichen von Objekten"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie heißt ein Konstruktor in Java?",
+    "antworten": ["Wie die Klasse selbst", "Immer constructor()", "Wie die main-Methode"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet Kapselung in OOP?",
+    "antworten": ["Daten und Methoden werden geschützt", "Klassen werden vererbt", "Methoden werden überschrieben"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zugriffsmodifier erlaubt Zugriff nur innerhalb der Klasse?",
+    "antworten": ["private", "public", "protected"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt Vererbung?",
+    "antworten": ["Eine Klasse erbt Eigenschaften einer anderen", "Mehrere Klassen werden kombiniert", "Methoden werden gelöscht"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Keyword wird für Vererbung verwendet?",
+    "antworten": ["extends", "implements", "inherits"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist Polymorphie?",
+    "antworten": ["Gleiche Methode, unterschiedliches Verhalten", "Mehrere Konstruktoren", "Private Attribute"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet Methodenüberladung?",
+    "antworten": ["Gleicher Methodenname, unterschiedliche Parameter", "Gleicher Rückgabewert", "Gleicher Methodenrumpf"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet Methodenüberschreibung?",
+    "antworten": ["Methode der Oberklasse wird neu implementiert", "Methode wird gelöscht", "Methode wird privat"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das Keyword this verwendet?",
+    "antworten": ["Referenz auf das aktuelle Objekt", "Referenz auf die Klasse", "Referenz auf die main-Methode"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Interface?",
+    "antworten": ["Ein Vertrag für Methoden ohne Implementierung", "Eine konkrete Klasse", "Ein Objekt"],
+    "richtige_antwort": 0
+  }
+
+        ]
+    
 
    }
     
