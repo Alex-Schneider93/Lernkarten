@@ -307,7 +307,7 @@ const USERS = {
 
 let currentUser=null;
 let countdownInterval=null;
-let remainingTime= 60 + 60;                    // Test Zeit
+let remainingTime= 60;                    // Test Zeit
 
 /* LOGIN */
 function login(){
@@ -348,7 +348,7 @@ function startTestCountdown(){
     countdownInterval=setInterval(()=>{
         remainingTime--;
 
-        if(remainingTime<=30)
+        if(remainingTime<=60)
             countdown.style.color="#ff4444";
 
         updateCountdown();
@@ -573,6 +573,7 @@ function resetProgress(){
 
 </body>
 </html>
+
 
 
 
