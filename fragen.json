@@ -3124,6 +3124,106 @@
     "frage": "Was ist ein Interface?",
     "antworten": ["Ein Vertrag für Methoden ohne Implementierung", "Eine konkrete Klasse", "Ein Objekt"],
     "richtige_antwort": 0
+  },
+       {
+    "frage": "Was wird bei int km=52; km+=48; ausgegeben?",
+    "antworten": ["100", "52", "48"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Ausgabe entsteht bei if(a==10 && b<=c) mit a=10,b=6,c=5?",
+    "antworten": ["Keine Ausgabe", "Bedingung ist wahr", "Compiler-Fehler"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Java unterscheidet Groß- und Kleinschreibung?",
+    "antworten": ["Ja", "Nein", "Nur bei Klassen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wodurch wird eine Java-Anweisung beendet?",
+    "antworten": ["Semikolon", "Zeilenumbruch", "Klammer"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was stellt eine UML-Verbindung mit ausgefüllter Raute dar?",
+    "antworten": ["Komposition", "Aggregation", "Vererbung"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'extends' in Java?",
+    "antworten": ["Vererbung von einer Basisklasse", "Implementierung eines Interfaces", "Überladung"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Ist 'private int anzahlAchsen;' ein Objektattribut?",
+    "antworten": ["Ja", "Nein", "Nur bei static"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Ist 'private static int LkwBestandsNr' ein Klassenattribut?",
+    "antworten": ["Ja", "Nein", "Nur im Konstruktor"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist 'public Lkw(int leistung, int achsen)'?",
+    "antworten": ["Ein Konstruktor", "Eine Methode mit Rückgabewert", "Ein Attribut"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt super(leistung) im Konstruktor?",
+    "antworten": ["Ruft den Konstruktor der Basisklasse auf", "Initialisiert ein Attribut", "Überschreibt eine Methode"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche SQL-Klausel sortiert ein Ergebnis?",
+    "antworten": ["ORDER BY", "GROUP BY", "SORT"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Schlüsselwort beginnt eine SQL-Abfrage?",
+    "antworten": ["SELECT", "GET", "READ"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die korrekte Reihenfolge einer SQL-Abfrage?",
+    "antworten": ["SELECT FROM WHERE GROUP BY HAVING ORDER BY LIMIT", "SELECT WHERE FROM ORDER BY", "FROM SELECT WHERE"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Aussage zur zweiten Normalform ist korrekt?",
+    "antworten": ["Alle Nichtschlüsselattribute hängen vollständig vom Primärschlüssel ab", "Alle Attribute sind unabhängig", "Es gibt nur eine Tabelle"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Muss eine Relation in 1NF sein, um in 2NF zu sein?",
+    "antworten": ["Ja", "Nein", "Nur bei Fremdschlüsseln"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Löscht DELETE die komplette Tabellenstruktur?",
+    "antworten": ["Nein", "Ja", "Nur mit WHERE"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Werden White-Box-Tests anhand des Quellcodes erstellt?",
+    "antworten": ["Ja", "Nein", "Nur anhand der Spezifikation"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Können Testdatengeneratoren Daten aus dem Quellcode ableiten?",
+    "antworten": ["Ja", "Nein", "Nur manuell"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Können Testdaten für NoSQL-Datenbanken erzeugt werden?",
+    "antworten": ["Ja", "Nein", "Nur für SQL"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine korrekte Python-Setter-Methode?",
+    "antworten": ["def set_umsatz(self,value): self.__umsatz=value", "def set_umsatz(value): __umsatz=value", "def get_umsatz(self): return self.__umsatz"],
+    "richtige_antwort": 0
   }
 
         ]
