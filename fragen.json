@@ -3600,7 +3600,277 @@
         "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
         "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
         "richtige_antwort": 0
-      }
+      },
+       {
+    "frage": "Welche Eigenschaften hat ein WLAN?",
+    "antworten": [
+      "Es ist eine kabellose Netzwerkverbindung und kann verschlüsselt werden",
+      "Es funktioniert nur innerhalb von Gebäuden",
+      "Es kann nur im Freien genutzt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Aufgabe hat ein NAS?",
+    "antworten": [
+      "Bereitstellung von Dateiserver-Funktionen über das Netzwerk",
+      "Direkter Blockzugriff für Server",
+      "Ausschließliche Nutzung für Backup-Systeme"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie erfolgt der Zugriff auf ein SAN?",
+    "antworten": [
+      "Über Blockzugriffsverfahren",
+      "Über Dateifreigaben mit SMB",
+      "Über HTTP-Zugriffe"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Adresse ist eine gültige IPv6-Adresse?",
+    "antworten": [
+      "2001:db8:0:8d3:0:8a2e:70:7344",
+      "2001:db8::8d3::1",
+      "fh42:437:32c:2366::1"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Aussage beschreibt eine Firewall korrekt?",
+    "antworten": [
+      "Sie schützt Computer oder Netzwerke vor unerwünschten Zugriffen",
+      "Sie bietet vollständigen Schutz gegen alle Viren",
+      "Sie ersetzt ein Antivirenprogramm"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie lautet die Netzwerk-ID von 16.218.108.91 bei /27?",
+    "antworten": [
+      "16.218.108.64",
+      "16.218.108.0",
+      "16.218.108.96"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche IP-Adresse kann mit 192.168.1.1/24 kommunizieren?",
+    "antworten": [
+      "192.168.1.67",
+      "192.167.1.2",
+      "193.168.1.29"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie lautet die Netzwerk-ID von 142.104.228.24 bei /27?",
+    "antworten": [
+      "142.104.228.0",
+      "142.104.228.32",
+      "142.104.228.24"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was macht das ARP-Protokoll?",
+    "antworten": [
+      "Ermittelt zu einer IP-Adresse die passende MAC-Adresse",
+      "Ermittelt zu einer MAC-Adresse die IP-Adresse",
+      "Verschlüsselt Netzwerkpakete"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird Fibre Channel typischerweise eingesetzt?",
+    "antworten": [
+      "Zur Anbindung von SAN-Systemen",
+      "Zur WLAN-Kommunikation",
+      "Zur Internetanbindung von Routern"
+    ],
+    "richtige_antwort": 0
+  }, 
+   {
+    "frage": "Sind bei VDSL2 auf sehr kurzen Leitungen bis zu 500 MBit/s Gesamtbandbreite möglich?",
+    "antworten": [
+      "Ja, theoretisch ist das möglich",
+      "Nein, VDSL2 ist auf maximal 100 MBit/s begrenzt",
+      "Nein, VDSL2 unterstützt nur Downstream"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der erste Schritt im Spanning-Tree-Protokoll?",
+    "antworten": [
+      "Auswahl der Root Bridge",
+      "Auswahl der Designated Ports",
+      "Blockieren aller Nicht-Root-Ports"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert ohne STP bei redundanten Switch-Verbindungen?",
+    "antworten": [
+      "Ethernet-Frames laufen in Endlosschleifen",
+      "Die Bandbreite wird automatisch halbiert",
+      "Nur Broadcasts werden blockiert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wozu dient das Spanning Tree Protocol?",
+    "antworten": [
+      "Vermeidung von Layer-2-Schleifen",
+      "Erstellung von VLANs",
+      "Optimierung der Bandbreite"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Zu welcher Mobilfunkgeneration gehört UMTS?",
+    "antworten": [
+      "Dritte Generation",
+      "Erste Generation",
+      "Zweite Generation"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Protokolle werden typischerweise in einem SAN verwendet?",
+    "antworten": [
+      "iSCSI und Fibre Channel",
+      "FTP und SMTP",
+      "HTTP und HTTPS"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet SLAAC?",
+    "antworten": [
+      "Stateless Address Autoconfiguration",
+      "Secure Local Area Access Control",
+      "Simple LAN Address Assignment Center"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird SLAAC eingesetzt?",
+    "antworten": [
+      "Automatische Konfiguration von IPv6-Adressen",
+      "Zentrale Vergabe von IPv4-Adressen",
+      "Verschlüsselung von Netzwerkverkehr"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Verfahren sind symmetrische Verschlüsselungsverfahren?",
+    "antworten": [
+      "AES und DES",
+      "RSA und SHA",
+      "RSA und AES"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist DES heute kritisch zu bewerten?",
+    "antworten": [
+      "Der Schlüssel ist zu kurz und gilt als unsicher",
+      "Es wird nur asymmetrisch verwendet",
+      "Es ist ausschließlich für Hashing geeignet"
+    ],
+    "richtige_antwort": 0
+  },
+    {
+    "frage": "Was bewirkt die IPv6 Privacy Extension?",
+    "antworten": [
+      "Anonymisierung des Hostanteils der IPv6-Adresse",
+      "Festlegung des Standardgateways",
+      "Vergabe eines privaten IPv6-Adressbereichs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welchen Zweck hat die IPv6-Adresse ff02::2?",
+    "antworten": [
+      "Multicast an alle Router im link-lokalen Netz",
+      "Loopback-Adresse",
+      "Selbst generierte Link-Local-Adresse"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Flags gehören zu TCP?",
+    "antworten": [
+      "ACK und SYN",
+      "DOT und FRG",
+      "AGG und DOT"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht das TCP-Flag SYN?",
+    "antworten": [
+      "Aufbau einer TCP-Verbindung",
+      "Beenden einer Verbindung",
+      "Bestätigung empfangener Daten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Aufgabe hat das TCP-Flag ACK?",
+    "antworten": [
+      "Bestätigung empfangener Datenpakete",
+      "Initialisierung der Verbindung",
+      "Zurücksetzen einer Verbindung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was gewährleistet eine digitale Signatur?",
+    "antworten": [
+      "Authentizität und Integrität der Daten",
+      "Vertraulichkeit der Daten",
+      "Verschlüsselung der Übertragung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft bietet eine digitale Signatur nicht?",
+    "antworten": [
+      "Vertraulichkeit",
+      "Authentizität",
+      "Integrität"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum werden IPv6 Privacy Extensions eingesetzt?",
+    "antworten": [
+      "Um Tracking von Geräten anhand der Adresse zu erschweren",
+      "Um Routingtabellen zu verkleinern",
+      "Um Multicast-Adressen zu erzeugen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Art von Adresse ist ff02::2?",
+    "antworten": [
+      "Multicast-Adresse",
+      "Anycast-Adresse",
+      "Unicast-Adresse"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Sicherheitsfunktion bietet eine digitale Signatur primär?",
+    "antworten": [
+      "Nachweis des Absenders",
+      "Schutz vor Mithören",
+      "Verbergen der IP-Adresse"
+    ],
+    "richtige_antwort": 0
+  }
 
    
     ]
