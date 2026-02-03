@@ -3597,12 +3597,12 @@
         "richtige_antwort": 0
       },
       {
-        "frage": "Was prüft man durch einen Ping auf das Default Gateway?\nAb hier LZK Fragen!",
+        "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
         "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
         "richtige_antwort": 0
       },
        {
-    "frage": "Welche Eigenschaften hat ein WLAN?",
+    "frage": "Welche Eigenschaften hat ein WLAN?\nAb hier LZK Fragen!",
     "antworten": [
       "Es ist eine kabellose Netzwerkverbindung und kann verschlüsselt werden",
       "Es funktioniert nur innerhalb von Gebäuden",
