@@ -218,6 +218,10 @@ body {
     cursor:pointer;
     color:white;
 }
+    .lzk-hinweis {
+    color: #ff4444;
+    font-weight: bold;
+}
 </style>
 </head>
 
@@ -468,10 +472,15 @@ function saveSession(s){
 }
 
 function zeigeFrage(){
-    let s=getSession();
-    let f=fragen[index];
+     .replace(/\n/g, "<br>")
+    .replace(
+        "Ab hier LZK Fragen!",
+        "<span class='lzk-hinweis'>Ab hier LZK Fragen!</span>"
+    );
 
-    frage.innerText=f.frage;
+frage.innerHTML = text;
+
+
     frageCounter.innerText=`Frage ${index+1} / ${fragen.length}`;
 
     let answers=f.antworten.map((t,i)=>({text:t,orig:i}));
@@ -577,6 +586,7 @@ function resetProgress(){
 
 </body>
 </html>
+
 
 
 
