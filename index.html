@@ -2,9 +2,10 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8" />
-<title>Lernprogramm Fachinformatiker</title>
+<title>Lernprogramm <br>Fachinformatiker</title>
 
 <style>
+/* ===== GLOBAL ===== */
 body {
     margin: 0;
     background: #2b2b2b;
@@ -21,7 +22,7 @@ body {
     display: none;
 }
 
-/* LOGIN */
+/* ===== LOGIN ===== */
 #loginScreen {
     max-width: 700px;
     margin: 60px auto;
@@ -42,10 +43,12 @@ body {
     border: none;
 }
 
-/* HEADER */
+/* ===== HEADER ===== */
 .header {
     background: #3a3a3a;
     padding: 22px 30px;
+    border-bottom: 1px solid #555;
+    width: 100%;
     max-width: 900px;
     margin: 10px auto;
     border-radius: 15px;
@@ -62,6 +65,7 @@ body {
     font-weight: bold;
 }
 
+/* Buttons */
 .menu-btn, .icon-btn {
     background: #2e2e2e;
     border: 1px solid white;
@@ -72,6 +76,7 @@ body {
     cursor: pointer;
 }
 
+/* ===== MODERNER LOGOUT BUTTON ===== */
 .logout-modern {
     background: #d62828;
     color: white;
@@ -81,9 +86,19 @@ body {
     border-radius: 12px;
     border: none;
     cursor: pointer;
+    transition: 0.2s;
+    box-shadow: 0 0 10px rgba(214, 40, 40, 0.5);
+}
+.logout-modern:hover {
+    background: #b51f1f;
+    box-shadow: 0 0 14px rgba(214, 40, 40, 0.8);
+    transform: translateY(-2px);
+}
+.logout-modern:active {
+    transform: scale(0.95);
 }
 
-/* SIDEBAR */
+/* ===== SIDEBAR ===== */
 .sidebar {
     width: 380px;
     background: #323232;
@@ -92,18 +107,20 @@ body {
     bottom: 0;
     padding: 30px;
     overflow-y: auto;
-    right: -500px;
-    transition: 0.15s;
+    transition: 0.15s ease;
+    z-index: 1000;
     border-radius: 14px;
     border: 1px solid white;
 }
-.sidebar.show { right: 0; }
+.sidebar.right { right: -500px; }
+.sidebar.right.show { right: 0; }
 
 #overlay {
     position: fixed;
-    inset: 0;
+    top:0; left:0; right:0; bottom:0;
     background: rgba(0,0,0,0.4);
     display:none;
+    z-index:999;
 }
 .sidebar button {
     width: 100%;
@@ -111,13 +128,14 @@ body {
     margin-bottom: 10px;
     background: #636363;
     border-radius: 12px;
+    border: 1px solid #555;
     font-size: 26px;
     color: white;
     cursor: pointer;
 }
 
-/* QUIZ */
-.quiz-card {
+/* ===== QUIZ ===== */
+.welcome-card, .quiz-card {
     background: #3a3a3a;
     padding: 40px 50px;
     border-radius: 20px;
@@ -134,10 +152,12 @@ body {
     border-radius: 14px;
     border: 1px solid white;
     cursor: pointer;
+    font-size: 26px;
 }
 .antwort.richtig { background:#1c7c32!important; }
 .antwort.falsch  { background:#9c1c1c!important; }
 
+/* NEXT BUTTON */
 .next-btn {
     background: #4ea8ff;
     border: none;
@@ -150,7 +170,8 @@ body {
     margin-left: auto;
 }
 
-.fragen-nav {
+/* NAVIGATION */
+.fragen-nav { 
     margin-top:20px;
     display:flex;
     flex-wrap:wrap;
@@ -166,98 +187,415 @@ body {
 .correct { background:#2ecc71!important; }
 .wrong   { background:#c0392b!important; }
 
-.lzk-hinweis {
-    color:#ff4444;
-    font-weight:bold;
+/* PROGRESS */
+.lf-progress {
+    margin-top:20px;
+    display:flex;
+    gap:12px;
 }
+.lf-progress-bar {
+    width:100%;
+    height:10px;
+    background:#719e99;
+    border-radius:10px;
+}
+.lf-progress-bar div {
+    height:100%;
+    width:0;
+    background:#003362;
+    border-radius:10px;
+}
+
+/* RESET BUTTON */
+.reset-btn {
+    margin-top:30px;
+    padding:20px;
+    width:100%;
+    background:#9c1c1c;
+    border-radius:10px;
+    font-size:28px;
+    border:1px solid white;
+    cursor:pointer;
+    color:white;
+}
+
+.lzk-hinweis {
+    color: #ff4444;
+    font-weight: bold;
+}
+
 </style>
 </head>
 
 <body>
 
+<!-- LOGIN -->
 <div id="loginScreen">
     <div class="login-card">
         <h2>Login</h2>
-        <input id="loginUser" class="login-input" placeholder="Benutzername">
-        <input id="loginPass" type="password" class="login-input" placeholder="Passwort">
+        <label>Benutzername</label>
+        <input id="loginUser" class="login-input">
+        <label>Passwort</label>
+        <input id="loginPass" type="password" class="login-input">
         <button onclick="login()" class="menu-btn">Login</button>
-        <p id="loginError"></p>
+        <p id="loginError" style="color:#ff7777;font-size:22px;"></p>
     </div>
 </div>
 
+<!-- HEADER -->
 <header id="appHeader" class="header hidden">
     <div class="header-row">
         <button id="homeBtn" class="menu-btn">Startseite</button>
+
         <h1 class="title">Lernprogramm<br>Fachinformatiker</h1>
+
         <div id="countdown"></div>
+
         <button id="menuBtn" class="icon-btn">Menü</button>
-        <button class="logout-modern" onclick="logout()">Logout</button>
+
+        <button id="logoutBtn" class="logout-modern" onclick="logout()">
+            🔒 Logout
+        </button>
     </div>
 </header>
 
+<!-- SIDEBAR -->
 <div id="overlay"></div>
-<aside id="rightSidebar" class="sidebar">
+
+<aside id="rightSidebar" class="sidebar right">
     <div id="sidebarRightContent"></div>
 </aside>
+
+<!-- MAIN -->
+<main id="content" class="hidden">
+
+<section id="startScreen">
+    <div class="welcome-card">
+        <h2>Willkommen!</h2>
+        <p>Wähle ein Lernfeld im Menü aus.</p>
+    </div>
+</section>
 
 <section id="quiz" class="hidden">
     <div class="quiz-card">
         <h2 id="frage"></h2>
         <p id="frageCounter"></p>
         <div id="antworten"></div>
-        <button id="weiterBtn" class="next-btn hidden">Weiter</button>
+        <button id="weiterBtn" class="next-btn hidden">Weiter →</button>
         <div class="fragen-nav" id="fragenNav"></div>
+        <div class="lf-progress">
+            <div class="lf-progress-bar"><div></div></div>
+            <span id="lfProgressText">0%</span>
+        </div>
+        <button class="reset-btn" onclick="resetProgress()">🔄 Lernfortschritt zurücksetzen</button>
     </div>
 </section>
 
-<script>
-const USERS={alex:"6129",Tester:"0000"};
-let currentUser=null;
-let fragen=[],index=0;
+</main>
 
+<script>
+/* ========= LOGIN ========= */
+const USERS = {
+    "alex":"6129",
+    "quang": "0000",
+    "Yannek": "Cool",
+    "Tester":"0000",
+    "barch": "7777", 
+    "maurice": "1234", 
+    "ilias": "1234", 
+    "michael": "5555", 
+    "ömer": "1234", 
+    "flo": "1234", 
+    "massimo": "1234", 
+    "halid": "1234", 
+    "ismail": "3214", 
+    "heya": "6541"
+    
+};
+
+let currentUser=null;
+let countdownInterval=null;
+let remainingTime= 60;                    // Test Zeit
+
+/* LOGIN */
 function login(){
-    if(!USERS[loginUser.value]) return loginError.innerText="Benutzer existiert nicht";
-    if(USERS[loginUser.value]!==loginPass.value) return loginError.innerText="Falsches Passwort";
-    currentUser=loginUser.value;
+    let u=loginUser.value.trim();
+    let p=loginPass.value.trim();
+
+    if(!USERS[u]) return loginError.innerText="Benutzer existiert nicht!";
+    if(USERS[u]!==p) return loginError.innerText="Falsches Passwort!";
+
+    currentUser=u;
+    loginError.innerText="";
+
+    if (u === "Tester") {
+    alert(`Sie haben ${remainingTime} Minuten Zeit zum Testen.`);
+    startTestCountdown();
+}
+
     loginScreen.classList.add("hidden");
     appHeader.classList.remove("hidden");
+    content.classList.remove("hidden");
+}
+
+/* LOGOUT */
+function logout(){
+    countdown.style.display="none";
+    location.reload();
+}
+
+/* ========= TEST USER TIMER ========= */
+function startTestCountdown(){
+    remainingTime=3600;                                  // Test Zeit
+    countdown.style.display="block";
+    countdown.style.color="#4ea8ff";
+    updateCountdown();
+
+    if(countdownInterval) clearInterval(countdownInterval);
+
+    countdownInterval=setInterval(()=>{
+        remainingTime--;
+
+        if(remainingTime<=30)
+            countdown.style.color="#ff4444";
+
+        updateCountdown();
+
+        if(remainingTime<=0){
+            clearInterval(countdownInterval);
+            alert("Leider ist die Testzeit um. Der Lernstand wird gelöscht");
+            localStorage.removeItem("progress_Tester");
+            logout();
+        }
+    },1000);
+}
+
+function updateCountdown(){
+    let h = Math.floor(remainingTime / 3600);
+    let m = Math.floor((remainingTime % 3600) / 60);
+    let s = remainingTime % 60;
+    
+    // Format H:MM:SS
+    countdown.textContent = `⏳ ${h}:${m.toString().padStart(2,"0")}:${s.toString().padStart(2,"0")}`;
+}
+
+/* ========= JSON LADEN ========= */
+let data=null;
+fetch("fragen.json")
+.then(r=>r.json())
+.then(j=>{
+    data=j["Lernfälder"];
+    initMenu();
+});
+
+/* ========= MENÜ ========= */
+function initMenu() {
+    menuBtn.onclick = () => {
+
+        // Sidebar-Inhalt komplett neu setzen
+        sidebarRightContent.innerHTML = `
+            <h2>Lernfelder</h2>
+
+            <!-- GESAMT-LERNFORTSCHRITT -->
+            <div id="gesamtProgressBox" style="margin:20px 0;">
+                <div style="font-size:22px; margin-bottom:8px;">Gesamt-Lernfortschritt</div>
+
+                <div style="
+                    width:100%; 
+                    height:14px; 
+                    background:#666; 
+                    border-radius:10px; 
+                    overflow:hidden;">
+                    <div id="gesamtProgressBar" style="
+                        height:100%;
+                        width:0%;
+                        background:#4ea8ff;
+                        transition:0.25s;"></div>
+                </div>
+
+                <div id="gesamtProgressText" style="margin-top:5px; font-size:20px;">0%</div>
+            </div>
+
+            ${
+                Object.keys(data).map(lf =>
+                    `<button onclick="startLF('${lf}')">${lf}</button>`
+                ).join("")
+            }
+        `;
+
+        openSidebar();
+        updateGesamtProgress(); // <--- GANZ WICHTIG
+    };
+}
+
+
+function openSidebar(){
+    rightSidebar.classList.add("show");
+    overlay.style.display="block";
+}
+function closeSidebar(){
+    rightSidebar.classList.remove("show");
+    overlay.style.display="none";
+}
+overlay.onclick = closeSidebar;
+
+/* ========= STARTSEITE BUTTON ========= */
+homeBtn.onclick=()=>{
+    quiz.classList.add("hidden");
+    startScreen.classList.remove("hidden");
+    closeSidebar();
+};
+
+/* ========= QUIZ ========= */
+let aktLF=null;
+let fragen=[];
+let index=0;
+let punkte=0;
+
+function startLF(lf){
+    aktLF=lf;
+    fragen=data[lf];
+    index=0;
+    punkte=0;
+
+    closeSidebar();
+    startScreen.classList.add("hidden");
     quiz.classList.remove("hidden");
+
     zeigeFrage();
 }
 
-function logout(){ location.reload(); }
-
-fetch("fragen.json").then(r=>r.json()).then(j=>{
-    fragen=j.Lernfälder[Object.keys(j.Lernfälder)[0]];
-});
+function getSession(){
+    return JSON.parse(localStorage.getItem("progress_"+currentUser)) || {
+        richtig:{}, falsch:{}
+    };
+}
+function saveSession(s){
+    localStorage.setItem("progress_"+currentUser,JSON.stringify(s));
+}
 
 function zeigeFrage(){
+    let s=getSession();
     let f=fragen[index];
-    let text=f.frage
-        .replace(/\n/g,"<br>")
-        .replace("Ab hier LZK Fragen!","<span class='lzk-hinweis'>Ab hier LZK Fragen!</span>");
-    frage.innerHTML=text;
+
+    //frage.innerText=f.frage;
+let text = f.frage
+    .replace(/\n/g, "<br>")
+    .replace(
+        "Ab hier LZK Fragen!",
+        "<span class='lzk-hinweis'>Ab hier LZK Fragen!</span>"
+    );
+
+frage.innerHTML = text;
+
+
     frageCounter.innerText=`Frage ${index+1} / ${fragen.length}`;
 
-    antworten.innerHTML=f.antworten.map((a,i)=>
-        `<div class="antwort" onclick="antwort(${i})">${a}</div>`
-    ).join("");
+    let answers=f.antworten.map((t,i)=>({text:t,orig:i}));
+    answers.sort(()=>Math.random()-0.5);
+    window.shuffled=answers;
+
+    antworten.innerHTML=answers.map((a,i)=>`
+        <div class="antwort" onclick="antwort(${i})">${a.text}</div>
+    `).join("");
+
+    weiterBtn.classList.add("hidden");
+
+    renderFragenNav();
+    updateProgress();
 }
 
 function antwort(i){
+    let s=getSession();
+    let f=fragen[index];
+
+    let richtige=window.shuffled.findIndex(a=>a.orig===f.richtige_antwort);
+    let key=`${aktLF}|${f.frage}`;
+
+    if(i===richtige){
+        punkte++;
+        s.richtig[key]=true;
+        delete s.falsch[key];
+    } else {
+        s.falsch[key]=true;
+    }
+
+    saveSession(s);
+
     document.querySelectorAll(".antwort").forEach((el,idx)=>{
-        el.classList.add(idx===0?"richtig":"falsch");
+        el.classList.add(idx===richtige?"richtig":"falsch");
         el.onclick=null;
     });
+
     weiterBtn.classList.remove("hidden");
+    renderFragenNav();
+    updateProgress();
 }
 
 weiterBtn.onclick=()=>{
-    weiterBtn.classList.add("hidden");
     index++;
-    if(index<fragen.length) zeigeFrage();
+    if(index>=fragen.length) return quizEnde();
+    zeigeFrage();
 };
+
+function quizEnde(){
+    quiz.innerHTML=`
+        <div class="quiz-card">
+            <h2>Fertig!</h2>
+            <p>Du hast <strong>${punkte}</strong> von ${fragen.length} Fragen richtig.</p>
+            <button class="reset-btn" onclick="resetProgress()">🔄 Lernfortschritt zurücksetzen</button>
+        </div>
+    `;
+}
+
+function updateProgress(){
+    let s=getSession();
+    let total=fragen.length;
+    let done=0;
+
+    fragen.forEach(q=>{
+        let key=`${aktLF}|${q.frage}`;
+        if(s.richtig[key]) done++;
+    });
+
+    let pct=Math.round(done/total*100);
+    document.querySelector(".lf-progress-bar div").style.width=pct+"%";
+    lfProgressText.innerText=pct+"%";
+}
+
+function renderFragenNav(){
+    let s=getSession();
+    fragenNav.innerHTML=fragen.map((q,i)=>{
+        let key=`${aktLF}|${q.frage}`;
+        let cls=i===index ? "active" :
+                 s.richtig[key] ? "correct" :
+                 s.falsch[key]  ? "wrong" : "";
+        return `<button class="${cls}" onclick="gotoFrage(${i})">${i+1}</button>`;
+    }).join("");
+}
+
+function gotoFrage(i){
+    index=i;
+    zeigeFrage();
+}
+
+/* RESET */
+function resetProgress(){
+    if(confirm("Wirklich löschen?")){
+        localStorage.removeItem("progress_"+currentUser);
+        alert("Lernstand gelöscht!");
+        index=0;
+        punkte=0;
+        if(aktLF) zeigeFrage();
+    }
+}
+
+
 </script>
 
 </body>
 </html>
+
+
+
+
