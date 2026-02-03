@@ -339,7 +339,7 @@ function logout(){
 
 /* ========= TEST USER TIMER ========= */
 function startTestCountdown(){
-    remainingTime=20;                                  // Test Zeit
+    remainingTime=3600;                                  // Test Zeit
     countdown.style.display="block";
     countdown.style.color="#4ea8ff";
     updateCountdown();
@@ -364,9 +364,12 @@ function startTestCountdown(){
 }
 
 function updateCountdown(){
-    let m=Math.floor(remainingTime/60);
-    let s=remainingTime%60;
-    countdown.textContent=`⏳ ${m}:${s.toString().padStart(2,"0")}`;
+     let h = Math.floor(remainingTime / 3600);
+    let m = Math.floor((remainingTime % 3600) / 60);
+    let s = remainingTime % 60;
+    
+    // Format H:MM:SS
+    countdown.textContent = `⏳ ${h}:${m.toString().padStart(2,"0")}:${s.toString().padStart(2,"0")}`;
 }
 
 /* ========= JSON LADEN ========= */
@@ -574,6 +577,7 @@ function resetProgress(){
 
 </body>
 </html>
+
 
 
 
