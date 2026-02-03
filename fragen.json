@@ -3226,7 +3226,384 @@
     "richtige_antwort": 0
   }
 
-        ]
+        ],
+    "LF09V2 Netzwerke und Dienste bereitstellen":[
+    
+  {
+    "frage": "Welches Dokument beschreibt die Anforderungen aus Sicht des Auftraggebers (Was und Wofür)?",
+    "antworten": ["Lastenheft", "Pflichtenheft", "SLA"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer ist für die Erstellung des Pflichtenhefts verantwortlich?",
+    "antworten": ["Der Auftragnehmer", "Der Kunde", "Der Berater"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Ziel einer IST-Analyse?",
+    "antworten": ["Aufnahme des aktuellen Zustands", "Planung der Kosten", "Festlegung der Ziele"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Phase folgt in der Anforderungsanalyse direkt auf das Lastenheft?",
+    "antworten": ["Pflichtenheft", "Wartung", "Betrieb"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Kabel wird typischerweise in der Primärverkabelung (zwischen Gebäuden) genutzt?",
+    "antworten": ["Lichtwellenleiter (LWL)", "Twisted Pair (Kupfer)", "Koaxialkabel"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "In welchem Bereich der strukturierten Verkabelung befindet sich der Etagenverteiler?",
+    "antworten": ["Sekundärbereich", "Primärbereich", "Tertiärbereich"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Schicht im TCP/IP-Modell entspricht der OSI-Schicht 3 (Vermittlungsschicht)?",
+    "antworten": ["Internet-Schicht", "Netzzugangsschicht", "Anwendungsschicht"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum generiert ein Computer für eine ausgehende Verbindung einen zufälligen Source-Port?",
+    "antworten": ["Um Antworten der Applikation zuzuordnen", "Um die Bandbreite zu erhöhen", "Um die IP zu verstecken"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Anhand welcher Information trifft ein Switch seine Weiterleitungsentscheidung?",
+    "antworten": ["MAC-Adresse", "IP-Adresse", "TCP-Port"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die Hauptaufgabe des Spanning Tree Protocols (STP)?",
+    "antworten": ["Vermeidung von Netzwerkschleifen", "Routing von Paketen", "Zuweisung von IP-Adressen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher STP-Portzustand wird gewählt, wenn zwei Ports die gleichen Wegekosten haben?",
+    "antworten": ["Port mit der kleineren ID", "Port mit der höheren MAC", "Zufällige Wahl"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert mit einem Frame, dessen Ziel-MAC dem Switch noch unbekannt ist?",
+    "antworten": ["Er wird an alle Ports geflutet (Flooding)", "Er wird verworfen", "Er wird gespeichert"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Hauptgrund für die Netzwerksegmentierung durch VLANs?",
+    "antworten": ["Sicherheit und Performance", "Einsparung von Switches", "Verkürzung der Kabel"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Standard definiert das VLAN-Tagging?",
+    "antworten": ["IEEE 802.1Q", "IEEE 802.3", "IEEE 802.11"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie nennt man eine Verbindung zwischen zwei Switches, die mehrere VLANs überträgt?",
+    "antworten": ["Trunk", "Access Port", "Bridge"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird eine Default Route in der Routing-Tabelle notiert?",
+    "antworten": ["0.0.0.0/0", "127.0.0.1/8", "255.255.255.255/32"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welchen Nachteil hat statisches Routing in großen Netzwerken?",
+    "antworten": ["Hoher manueller Pflegeaufwand", "Hoher Overhead", "Langsame Hardware-Reaktion"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein 'Autonomes System' (AS)?",
+    "antworten": ["Zusammenhängende IP-Netze unter einer Routing-Policy", "Ein Router ohne Stromanschluss", "Ein Switch mit KI"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Protokoll ist ein typisches Exterior Gateway Protocol (EGP)?",
+    "antworten": ["BGP", "OSPF", "RIP"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Verfahren nutzt OSPF zur Wegfindung?",
+    "antworten": ["Link-State-Verfahren", "Distance-Vector-Verfahren", "Hybrid-Verfahren"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was misst ein Router beim Link-State Routing?",
+    "antworten": ["Verzögerung und Status der Verbindung", "Nur die Anzahl der Hops", "Den Stromverbrauch"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Aus wie vielen Bits besteht eine IPv6-Adresse?",
+    "antworten": ["128 Bit", "32 Bit", "64 Bit"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Bit-Länge ist für den Interface-Identifier bei IPv6 standardmäßig vorgesehen?",
+    "antworten": ["64 Bit", "48 Bit", "32 Bit"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird die erste Adresse eines IPv6-Subnetzes laut RFC-Spezifikation genannt?",
+    "antworten": ["Subnet Router Anycast Adresse", "Broadcast Adresse", "Gateway Adresse"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum gibt es bei IPv6 keine klassische Broadcast-Adresse mehr?",
+    "antworten": ["Funktion wird durch Multicast ersetzt", "IPv6 braucht keine ARP-Anfragen", "Broadcasts sind technisch unmöglich"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die PDU auf Layer 3?",
+    "antworten": ["Packet", "Frame", "Segment", "Bitstream"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche logische Operation wird bei Subnetzmasken angewendet?",
+    "antworten": ["AND", "XOR", "OR", "NOT"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ersetzt ARP in IPv6?",
+    "antworten": ["NDP", "DHCPv6", "ICMPv4", "NAT64"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die maximale Nutzlast eines standard Ethernet-Frames?",
+    "antworten": ["1500 Byte", "1518 Byte", "1500 Bit", "1500 MBit"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche IPv4-Adresse ist für Loopback reserviert?",
+    "antworten": ["127.0.0.1", "0.0.0.0", "255.255.255.255", "169.254.0.1"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die Aufgabe einer DMZ?",
+    "antworten": ["Isolierung öffentlicher Dienste", "VLAN-Tagging", "NAT64 aktivieren", "DHCP bereitstellen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Auf welcher OSI-Schicht arbeitet STP?",
+    "antworten": ["Layer 2", "Layer 1", "Layer 3", "Layer 4"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele VLANs sind mit 802.1Q möglich?",
+    "antworten": ["4094", "1024", "2048", "Unbegrenzt"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die Aufgabe eines DHCP-Relay-Agenten?",
+    "antworten": ["Weiterleitung von DHCP-Anfragen über Subnetze", "VLAN-Tagging", "NAT aktivieren", "DNS-Abfragen cachen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Prinzip nutzt Traceroute?",
+    "antworten": ["TTL wird schrittweise reduziert", "VLAN-Tagging", "NAT-Tabellen", "ICMP Redirect"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Funktion hat ein ACL?",
+    "antworten": ["Zugriffskontrolle auf Layer 3", "VLAN-Tagging", "DHCP-Relay", "DNS-Forwarding"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche IPv6-Kürzungsregel ist korrekt?",
+    "antworten": ["Führende Nullen dürfen entfernt werden", ":: darf beliebig oft vorkommen", "Hex-Ziffern durch Dezimal ersetzen", "Präfix immer /128"],
+    "richtige_antwort": 0
+  },
+  {
+        "frage": "Was ist das Hauptziel von Subnetting?",
+        "antworten": ["Aufteilung eines Adressraums in kleinere Teilnetze", "Erhöhung der Übertragungsgeschwindigkeit", "Verschlüsselung der Datenpakete"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Aus wie vielen Bits besteht eine IPv4-Adresse?",
+        "antworten": ["32 Bit", "64 Bit", "128 Bit"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welcher Teil einer IP-Adresse beschreibt das eigentliche Netzwerk?",
+        "antworten": ["Netzanteil", "Hostanteil", "Broadcast-Anteil"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wofür wird die Subnetzmaske verwendet?",
+        "antworten": ["Zur Trennung von Netz- und Hostanteil", "Zur Bestimmung der MAC-Adresse", "Zur DNS-Auflösung"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wie viele Bits hat eine IPv6-Adresse?",
+        "antworten": ["128 Bit", "32 Bit", "48 Bit"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "In welcher Form wird eine IPv6-Adresse dargestellt?",
+        "antworten": ["Hexadezimal", "Dezimal", "Binär"],
+        "richtige_antwort": 0
+      },
+
+      {
+        "frage": "Wofür steht die Abkürzung DHCP?",
+        "antworten": ["Dynamic Host Configuration Protocol", "Data Host Control Protocol", "Direct Host Communication Path"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welches Akronym beschreibt den Funktionsablauf von DHCP?",
+        "antworten": ["DORA", "SARA", "LORA"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was ist der erste Schritt im DHCP-Prozess (DORA)?",
+        "antworten": ["Discover", "Offer", "Request", "Acknowledge"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welches Protokoll übersetzt Namen in IP-Adressen?",
+        "antworten": ["DNS", "DHCP", "ICMP"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wie viele DNS-Rootserver existieren weltweit?",
+        "antworten": ["13", "128", "unendlich viele"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was ist eine Top-Level-Domain (TLD)?",
+        "antworten": ["Die Endung wie .de oder .com", "Der Name des Servers", "Die IP-Adresse des Gateways"],
+        "richtige_antwort": 0
+      },
+  
+      {
+        "frage": "Welches Protokoll wird für High-Speed Internet über das Kabelnetz genutzt?",
+        "antworten": ["DOCSIS", "VDSL", "GPON"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was bedeutet FTTC (Fibre-to-the-Curb)?",
+        "antworten": ["Glasfaser bis zum Bordstein", "Glasfaser bis ins Gebäude", "Glasfaser bis zur Vermittlungsstelle"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was ist der Hauptzweck von NAT (Network Address Translation)?",
+        "antworten": ["Umwandlung privater IPs in öffentliche IPs", "Verschlüsselung der WAN-Verbindung", "Beschleunigung der Internetverbindung"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Warum wird PAT (Port Address Translation) eingesetzt?",
+        "antworten": ["Damit mehrere Geräte eine öffentliche IP nutzen können", "Zur Port-Weiterleitung von Webservern", "Zur Erhöhung der Bandbreite"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was bedeutet 'Asymmetrisches' DSL (ADSL)?",
+        "antworten": ["Download ist schneller als der Upload", "Upload ist schneller als der Download", "Download und Upload sind gleich schnell"],
+        "richtige_antwort": 0
+      },
+ 
+      {
+        "frage": "Was ist eine ACL (Access Control List)?",
+        "antworten": ["Eine Liste von Regeln zum Erlauben oder Verbieten von Datenverkehr", "Eine Liste der angemeldeten Benutzer", "Eine Dokumentation der Hardware"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "In welcher Reihenfolge werden Firewall-Regeln (ACLs) abgearbeitet?",
+        "antworten": ["Von oben nach unten", "Nach Priorität der IP-Adresse", "Alphabetisch"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wo sollten spezifische Regeln in einer ACL stehen?",
+        "antworten": ["Am Anfang der Liste", "Am Ende der Liste", "In der Mitte"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was ist die Hauptaufgabe einer DMZ (Demilitarisierte Zone)?",
+        "antworten": ["Zugriff auf öffentliche Dienste ohne LAN-Gefährdung", "Komplette Abschottung des gesamten Netzwerks", "Speicherung von Backups"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wo befindet sich eine DMZ typischerweise?",
+        "antworten": ["Zwischen dem LAN und dem Internet", "Innerhalb der Buchhaltung", "Auf dem Router des Geschäftsführers"],
+        "richtige_antwort": 0
+      },
+  
+      {
+        "frage": "Welchen Vorteil bietet das 2,4 GHz Band?",
+        "antworten": ["Bessere Durchdringung von Wänden", "Höhere Übertragungsrate als 5 GHz", "Weniger Störungen durch andere Geräte"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Wie viele nicht überlappende Kanäle gibt es in Deutschland bei 2,4 GHz?",
+        "antworten": ["4", "13", "19"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welche Verschlüsselung gilt heute als veraltet und unsicher?",
+        "antworten": ["WEP", "WPA2", "WPA3"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welches Verfahren nutzt WPA3 zur Authentisierung?",
+        "antworten": ["SAE (Simultaneous Authentication of Equals)", "TKIP", "MD5"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was ist ein Vorteil des 5 GHz Bands?",
+        "antworten": ["Höhere Übertragungsraten und weniger Störungen", "Größere Reichweite als 2,4 GHz", "Kostengünstigere Hardware"],
+        "richtige_antwort": 0
+      },
+  
+      {
+        "frage": "Wie viele Mitarbeiter hat die neue Niederlassung insgesamt?",
+        "antworten": ["15", "7", "20"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welche Dokumente sind für das Projekt zwingend erforderlich?",
+        "antworten": ["Pflichtenheft und Dokumentation", "Nur das Lastenheft", "Marketingplan"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Auf welchen Layern sollen die Abteilungen getrennt werden?",
+        "antworten": ["Layer 2 und Layer 3", "Nur Layer 2", "Layer 4 und 7"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welches Tool soll zur Erstellung der Infrastruktur genutzt werden?",
+        "antworten": ["Cisco Packet Tracer", "Microsoft Visio", "Wireshark"],
+        "richtige_antwort": 0
+      },
+ 
+ 
+      {
+        "frage": "Was prüft ein Ping auf die Adresse 127.0.0.1?",
+        "antworten": ["Ob das TCP/IP-Protokoll aktiv ist", "Ob das Internet erreichbar ist", "Ob der DNS-Server antwortet"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was deutet auf eine APIPA-Adresse (169.254.x.x) hin?",
+        "antworten": ["Der DHCP-Server wurde nicht erreicht", "Die Netzwerkkarte ist defekt", "Die IP wurde manuell falsch eingegeben"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Welcher Befehl zeigt alle aktiven Verbindungen an?",
+        "antworten": ["netstat -a", "ipconfig /all", "nslookup"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Mit welchem Tool kann man manuell Namen in IPs auflösen?",
+        "antworten": ["nslookup", "tracert", "net view"],
+        "richtige_antwort": 0
+      },
+      {
+        "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
+        "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
+        "richtige_antwort": 0
+      }
+
+   
+    ]
     
 
    }
