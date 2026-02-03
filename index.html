@@ -470,24 +470,25 @@ function getSession(){
 function saveSession(s){
     localStorage.setItem("progress_"+currentUser,JSON.stringify(s));
 }
-
 function zeigeFrage(){
-     .replace(/\n/g, "<br>")
-    .replace(
-        "Ab hier LZK Fragen!",
-        "<span class='lzk-hinweis'>Ab hier LZK Fragen!</span>"
-    );
+    let s = getSession();
+    let f = fragen[index];
 
-frage.innerHTML = text;
+    let text = f.frage
+        .replace(/\n/g, "<br>")
+        .replace(
+            "Ab hier LZK Fragen!",
+            "<span class='lzk-hinweis'>Ab hier LZK Fragen!</span>"
+        );
 
+    frage.innerHTML = text;
+    frageCounter.innerText = `Frage ${index + 1} / ${fragen.length}`;
 
-    frageCounter.innerText=`Frage ${index+1} / ${fragen.length}`;
-
-    let answers=f.antworten.map((t,i)=>({text:t,orig:i}));
+    let answers = f.antworten.map((t,i)=>({text:t,orig:i}));
     answers.sort(()=>Math.random()-0.5);
-    window.shuffled=answers;
+    window.shuffled = answers;
 
-    antworten.innerHTML=answers.map((a,i)=>`
+    antworten.innerHTML = answers.map((a,i)=>`
         <div class="antwort" onclick="antwort(${i})">${a.text}</div>
     `).join("");
 
@@ -496,6 +497,8 @@ frage.innerHTML = text;
     renderFragenNav();
     updateProgress();
 }
+
+
 
 function antwort(i){
     let s=getSession();
@@ -586,6 +589,7 @@ function resetProgress(){
 
 </body>
 </html>
+
 
 
 
