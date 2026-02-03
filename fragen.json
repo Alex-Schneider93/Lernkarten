@@ -3597,7 +3597,7 @@
         "richtige_antwort": 0
       },
       {
-        "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
+        "frage": "Was prüft man durch einen Ping auf das Default Gateway?\nAb hier LZK Fragen!",
         "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
         "richtige_antwort": 0
       },
