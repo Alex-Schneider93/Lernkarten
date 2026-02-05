@@ -3600,7 +3600,66 @@
         "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
         "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
         "richtige_antwort": 0
-      },
+      }, {
+    "frage": "Wie nennt man die Protocol Data Unit (PDU) auf Schicht 4 (Transport Layer), wenn TCP verwendet wird?",
+    "antworten": ["Segment", "Bit", "Frame", "Packet"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Protokoll ist ein typisches Exterior Gateway Protocol (EGP)?",
+    "antworten": ["BGP", "OSPF", "RIP", "Static Routing"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was nutzt ein Host bei SLAAC in IPv6 zur Bildung der Interface-ID?",
+    "antworten": ["Die eigene MAC-Adresse (EUI-64)", "Einen Zufallsgenerator", "Die IPv4-Adresse des Gateways", "Den Hostnamen"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer sollte standardmäßig Zugriff auf die DMZ haben?",
+    "antworten": ["Internet (auf definierte Dienste) und internes LAN", "Niemand, sie ist komplett isoliert", "Nur das Internet", "Nur Administratoren per serieller Verbindung"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher DNS-Record löst einen Hostnamen in eine IPv6-Adresse auf?",
+    "antworten": ["AAAA Record", "A Record", "MX Record", "CNAME Record"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie verhält sich ein Switch, wenn die Ziel-MAC nicht im CAM-Table steht?",
+    "antworten": ["Er flutet den Frame an alle Ports außer dem Eingangsport", "Er verwirft den Frame", "Er sendet eine ARP-Anfrage", "Er speichert den Frame"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nach welchem Kriterium wird im STP (802.1D) die Root Bridge gewählt?",
+    "antworten": ["Niedrigste Bridge-ID (Priority + MAC)", "Höchste Bandbreite", "Nähe zum Router", "Meiste aktive Ports"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert mit Frames des Native VLANs bei 802.1Q?",
+    "antworten": ["Sie werden ungetaggt übertragen", "Sie werden mit VLAN-ID 0 getaggt", "Sie werden doppelt getaggt", "Sie werden verschlüsselt"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Auf welcher OSI-Schicht arbeitet ARP primär?",
+    "antworten": ["Schicht 2 (Data Link)", "Schicht 1 (Physical)", "Schicht 3 (Network)", "Schicht 4 (Transport)"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Hauptvorteil von PAT gegenüber NAT?",
+    "antworten": ["Viele interne Hosts teilen sich eine öffentliche IP", "Verschlüsselung der Pakete", "Schnelleres Routing", "Ersetzung der MAC-Adresse"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum sinkt die Performance in Netzen mit Hubs stark?",
+    "antworten": ["Viele Kollisionen durch Half-Duplex", "Virenprüfung im Hub", "Langsame IP-Auflösung", "Nur 10 kbit/s Unterstützung"],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "In welcher Reihenfolge läuft DHCP-DORA ab?",
+    "antworten": ["Discover, Offer, Request, Acknowledge", "Detection, Order, Release, Access", "Discover, Order, Request, Access", "Direct, Offer, Request, Answer"],
+    "richtige_antwort": 0
+  },
        {
     "frage": "Welche Eigenschaften hat ein WLAN?\nAb hier LZK Fragen!",
     "antworten": [
