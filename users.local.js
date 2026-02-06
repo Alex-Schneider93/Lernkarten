@@ -14,5 +14,6 @@ const USERS = {
     "halid": "1234",
     "ismail": "3214",
     "heya": "6541",
-    "jonas": "1234"
+    "jonas": "1234",
+    "ahron": "ahron"
 };
