@@ -3235,7 +3235,8 @@
       "Spanning Tree Protocol",
       "Secure Transfer Protocol",
       "System Transport Process"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welches Problem löst STP?",
@@ -3243,7 +3244,8 @@
       "Vermeidung von Schleifen (Loops) in vermaschten Netzwerken",
       "Vergabe von IP-Adressen",
       "Verschlüsselung von Datenpaketen"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Was leistet ARP?",
@@ -3251,7 +3253,8 @@
       "Ordnet einer IP-Adresse die passende MAC-Adresse zu",
       "Vergibt automatisch IP-Adressen",
       "Verschlüsselt Netzwerkdaten"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Was leistet STP?",
@@ -3259,7 +3262,8 @@
       "Blockiert redundante Pfade zur Vermeidung von Broadcast-Stürmen",
       "Erhöht die Bandbreite eines Ports",
       "Vergibt VLAN-Nummern"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche IP-Adressen sind reservierte private Adressen?",
@@ -3267,7 +3271,8 @@
       "10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16",
       "8.8.8.8, 1.1.1.1, 9.9.9.9",
       "169.254.0.0/8, 224.0.0.0/4, 127.0.0.0/8"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Mit welchem Befehl kann ich den ARP-Cache in Windows anzeigen?",
@@ -3275,7 +3280,8 @@
       "arp -a",
       "ipconfig /all",
       "netstat -r"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welches Transport-Protokoll wird von HTTP verwendet?",
@@ -3283,7 +3289,8 @@
       "TCP",
       "UDP",
       "ICMP"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche Eigenschaft trifft auf UDP zu?",
@@ -3291,7 +3298,8 @@
       "Verbindungslos und keine Garantie für Zustellung",
       "Verbindungsorientiert mit Fehlerkorrektur",
       "Langsamer als TCP durch Bestätigungen"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche Information gehört zum Ethernet-Protokolloverhead?",
@@ -3299,7 +3307,8 @@
       "MAC-Adresse und FCS",
       "IP-Adresse",
       "Portnummer"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Warum muss ein Paket fragmentiert werden?",
@@ -3307,7 +3316,8 @@
       "Wenn es größer als die MTU ist",
       "Wenn es verschlüsselt wird",
       "Wenn es über UDP gesendet wird"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Wer setzt fragmentierte IP-Pakete wieder zusammen?",
@@ -3315,7 +3325,8 @@
       "Der Zielhost",
       "Der Router",
       "Der Switch"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche IP-Adressen werden im Internet nicht geroutet?",
@@ -3323,7 +3334,8 @@
       "Private IP-Adressen",
       "Öffentliche IP-Adressen",
       "DNS-Server-Adressen"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Was bedeutet MTU?",
@@ -3331,7 +3343,8 @@
       "Maximum Transmission Unit",
       "Minimum Transfer Utility",
       "Main Transport Unit"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche Protokolle gehören zur Transportschicht?",
@@ -3339,7 +3352,8 @@
       "TCP und UDP",
       "IP und ARP",
       "HTTP und FTP"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Mit welchem Schritt beginnt STP?",
@@ -3347,7 +3361,8 @@
       "Wahl der Root-Bridge",
       "Vergabe von IP-Adressen",
       "Aktivierung von VLANs"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Welche Portzustände kennt STP?",
@@ -3355,7 +3370,8 @@
       "Blocking, Listening, Learning, Forwarding",
       "Active, Passive, Disabled",
       "Open, Closed, Standby"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Was bedeutet 1000BaseT?",
@@ -3363,7 +3379,8 @@
       "1 Gbit/s über Twisted Pair Kupferkabel",
       "1000 Mbit über Glasfaser",
       "10 Gbit über Koaxialkabel"
-    ]
+    ],
+    "richtige_antwort": 0
   },
   {
     "frage": "Was bedeutet 10.11.12.13/24?",
@@ -3371,7 +3388,8 @@
       "IP-Adresse mit Subnetzmaske 255.255.255.0",
       "IP-Adresse mit 24 Hosts",
       "IPv6-Adresse"
-    ]
+    ],
+    "richtige_antwort": 0
   },
       
     
