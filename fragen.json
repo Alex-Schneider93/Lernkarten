@@ -3228,6 +3228,152 @@
 
         ],
     "LF09V2 Netzwerke und Dienste bereitstellen":[
+
+  {
+    "frage": "Was bedeutet die Abkürzung STP in der Netzwerktechnik?",
+    "antworten": [
+      "Spanning Tree Protocol",
+      "Secure Transfer Protocol",
+      "System Transport Process"
+    ]
+  },
+  {
+    "frage": "Welches Problem löst STP?",
+    "antworten": [
+      "Vermeidung von Schleifen (Loops) in vermaschten Netzwerken",
+      "Vergabe von IP-Adressen",
+      "Verschlüsselung von Datenpaketen"
+    ]
+  },
+  {
+    "frage": "Was leistet ARP?",
+    "antworten": [
+      "Ordnet einer IP-Adresse die passende MAC-Adresse zu",
+      "Vergibt automatisch IP-Adressen",
+      "Verschlüsselt Netzwerkdaten"
+    ]
+  },
+  {
+    "frage": "Was leistet STP?",
+    "antworten": [
+      "Blockiert redundante Pfade zur Vermeidung von Broadcast-Stürmen",
+      "Erhöht die Bandbreite eines Ports",
+      "Vergibt VLAN-Nummern"
+    ]
+  },
+  {
+    "frage": "Welche IP-Adressen sind reservierte private Adressen?",
+    "antworten": [
+      "10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16",
+      "8.8.8.8, 1.1.1.1, 9.9.9.9",
+      "169.254.0.0/8, 224.0.0.0/4, 127.0.0.0/8"
+    ]
+  },
+  {
+    "frage": "Mit welchem Befehl kann ich den ARP-Cache in Windows anzeigen?",
+    "antworten": [
+      "arp -a",
+      "ipconfig /all",
+      "netstat -r"
+    ]
+  },
+  {
+    "frage": "Welches Transport-Protokoll wird von HTTP verwendet?",
+    "antworten": [
+      "TCP",
+      "UDP",
+      "ICMP"
+    ]
+  },
+  {
+    "frage": "Welche Eigenschaft trifft auf UDP zu?",
+    "antworten": [
+      "Verbindungslos und keine Garantie für Zustellung",
+      "Verbindungsorientiert mit Fehlerkorrektur",
+      "Langsamer als TCP durch Bestätigungen"
+    ]
+  },
+  {
+    "frage": "Welche Information gehört zum Ethernet-Protokolloverhead?",
+    "antworten": [
+      "MAC-Adresse und FCS",
+      "IP-Adresse",
+      "Portnummer"
+    ]
+  },
+  {
+    "frage": "Warum muss ein Paket fragmentiert werden?",
+    "antworten": [
+      "Wenn es größer als die MTU ist",
+      "Wenn es verschlüsselt wird",
+      "Wenn es über UDP gesendet wird"
+    ]
+  },
+  {
+    "frage": "Wer setzt fragmentierte IP-Pakete wieder zusammen?",
+    "antworten": [
+      "Der Zielhost",
+      "Der Router",
+      "Der Switch"
+    ]
+  },
+  {
+    "frage": "Welche IP-Adressen werden im Internet nicht geroutet?",
+    "antworten": [
+      "Private IP-Adressen",
+      "Öffentliche IP-Adressen",
+      "DNS-Server-Adressen"
+    ]
+  },
+  {
+    "frage": "Was bedeutet MTU?",
+    "antworten": [
+      "Maximum Transmission Unit",
+      "Minimum Transfer Utility",
+      "Main Transport Unit"
+    ]
+  },
+  {
+    "frage": "Welche Protokolle gehören zur Transportschicht?",
+    "antworten": [
+      "TCP und UDP",
+      "IP und ARP",
+      "HTTP und FTP"
+    ]
+  },
+  {
+    "frage": "Mit welchem Schritt beginnt STP?",
+    "antworten": [
+      "Wahl der Root-Bridge",
+      "Vergabe von IP-Adressen",
+      "Aktivierung von VLANs"
+    ]
+  },
+  {
+    "frage": "Welche Portzustände kennt STP?",
+    "antworten": [
+      "Blocking, Listening, Learning, Forwarding",
+      "Active, Passive, Disabled",
+      "Open, Closed, Standby"
+    ]
+  },
+  {
+    "frage": "Was bedeutet 1000BaseT?",
+    "antworten": [
+      "1 Gbit/s über Twisted Pair Kupferkabel",
+      "1000 Mbit über Glasfaser",
+      "10 Gbit über Koaxialkabel"
+    ]
+  },
+  {
+    "frage": "Was bedeutet 10.11.12.13/24?",
+    "antworten": [
+      "IP-Adresse mit Subnetzmaske 255.255.255.0",
+      "IP-Adresse mit 24 Hosts",
+      "IPv6-Adresse"
+    ]
+  },
+      
     
   {
     "frage": "Welches Dokument beschreibt die Anforderungen aus Sicht des Auftraggebers (Was und Wofür)?",
