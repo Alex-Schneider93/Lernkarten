@@ -4103,13 +4103,8 @@
     ],
     "richtige_antwort": 0
   },
-  {
-    "frage": "Wer entwickelte HTML um das Jahr 1990?",
-    "antworten": [
-      "Tim Berners-Lee",
-      "Håkon Wium Lie",
-      "Brendan Eich"
-    ]
+  ]
+  
    }
     
   }
