@@ -4109,7 +4109,1711 @@
       "Tim Berners-Lee",
       "Håkon Wium Lie",
       "Brendan Eich"
-    ]
+    ],
+  "LF10aV2 Benutzerschnittstellen gestalten und entwickeln":[
+  {
+    "frage": "Was stellt die Benutzerschnittstelle laut Definition her?",
+    "antworten": [
+      "Die Verbindung zwischen Anwender und System",
+      "Eine interne Hardwareverbindung",
+      "Eine reine Softwarefunktion"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Systeme können Benutzerschnittstellen besitzen?",
+    "antworten": [
+      "Software-Systeme, Computer, Maschinen, Anlagen und Haushaltsgeräte",
+      "Nur Computerprogramme",
+      "Ausschließlich Großrechner"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet der Begriff Schnittstelle im Kontext dieser Einheit?",
+    "antworten": [
+      "Ein Verbindungspunkt zwischen Mensch und Maschine",
+      "Ein USB-Port",
+      "Ein Netzwerkkabel"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für eine Schnittstelle zwischen Software-Systemen?",
+    "antworten": [
+      "Application Programming Interface (API)",
+      "Druckeranschluss",
+      "Tastatur"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Benutzerschnittstellen grundsätzlich?",
+    "antworten": [
+      "Interaktion mit Systemen",
+      "Automatische Selbststeuerung",
+      "Stromversorgung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Womit arbeiten Benutzerschnittstellen?",
+    "antworten": [
+      "Mit Eingabe- und Ausgabegeräten",
+      "Nur mit Speichermedien",
+      "Nur mit Prozessoren"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Eingabegeräte?",
+    "antworten": [
+      "Kommunikation vom Menschen zum System",
+      "Kommunikation vom System zum Menschen",
+      "Datensicherung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Ausgabegeräte?",
+    "antworten": [
+      "Kommunikation vom System zum Menschen",
+      "Kommunikation vom Menschen zum System",
+      "Programmierung des Systems"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bleibt auch bei Touchscreens getrennt?",
+    "antworten": [
+      "Die Prozesse von Eingabe und Ausgabe",
+      "Die Hardwarekomponenten",
+      "Die Stromversorgung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nennen Sie ein Beispiel für ein Eingabegerät laut PDF.",
+    "antworten": [
+      "Computermäuse",
+      "Drucker",
+      "Lautsprecher"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nennen Sie ein Beispiel für ein Ausgabegerät laut PDF.",
+    "antworten": [
+      "Lautsprecher",
+      "Sensor",
+      "Schalter"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sind User Interfaces im Sinne des PDFs?",
+    "antworten": [
+      "Modular und häufig miteinander kombiniert",
+      "Immer isoliert voneinander",
+      "Ausschließlich softwarebasiert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet einfache Systeme ohne Ausgabe?",
+    "antworten": [
+      "Es muss nicht zwischen vielen Zuständen unterschieden werden",
+      "Sie besitzen keine Eingabe",
+      "Sie sind immer digital"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nach welchen Eigenschaften können Benutzerschnittstellen unterschieden werden?",
+    "antworten": [
+      "Nach Ein- und Ausgabemethode, angesprochenen Sinnen, technischer Spezifikation und Zweck",
+      "Nur nach der Hardware",
+      "Nur nach der Programmiersprache"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Hardware User Interface?",
+    "antworten": [
+      "Physische Objekte, die manuell bedient werden müssen",
+      "Eine Sprachsteuerung",
+      "Ein Menüsystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Batch Interface?",
+    "antworten": [
+      "Eingabe über Lochkarten und Ausgabe auf Papier",
+      "Sprachinteraktion",
+      "Touchscreen-Bedienung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der häufigste Vertreter einer Text-based User Interface?",
+    "antworten": [
+      "Command Line Interface",
+      "Virtual Reality Interface",
+      "Brain-Computer Interface"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Menu-driven User Interface?",
+    "antworten": [
+      "Präsentation über Menüs und Submenüs",
+      "Gedankensteuerung",
+      "Lochkartensteuerung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist typisch für eine Graphical User Interface?",
+    "antworten": [
+      "Grafische Darstellung mit vielseitigen Möglichkeiten",
+      "Nur Textdarstellung",
+      "Keine Eingabemöglichkeiten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Conversational User Interface?",
+    "antworten": [
+      "Interaktion in menschlicher Sprache",
+      "Ausschließlich visuelle Darstellung",
+      "Nur mechanische Steuerung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Ziel einer Virtual Reality User Interface?",
+    "antworten": [
+      "Eintauchen in eine andere Realität",
+      "Textbasierte Navigation",
+      "Papierausdrucke erzeugen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Brain-Computer User Interface?",
+    "antworten": [
+      "Direkte Verbindung zwischen menschlichem Gehirn und Computer",
+      "Menügesteuerte Oberfläche",
+      "Grafisches Betriebssystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet der Begriff 'Qualität' ursprünglich aus dem Lateinischen übersetzt?",
+    "antworten": [
+      "Beschaffenheit",
+      "Fehlerfreiheit",
+      "Hochwertigkeit"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Woraus ergibt sich laut PDF die Qualität eines Softwareprodukts?",
+    "antworten": [
+      "Aus der Frage, ob und inwiefern Anforderungen erfolgreich umgesetzt wurden",
+      "Allein aus der Anzahl der fehlerfreien Codezeilen",
+      "Aus der Bekanntheit des Entwicklerteams"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die Basis für die 'Funktionale Vollständigkeit'?",
+    "antworten": [
+      "Die Anforderungsspezifikation (Lastenheft)",
+      "Das Budget des Projekts",
+      "Die Hardware des Endbenutzers"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt die 'Funktionale Korrektheit'?",
+    "antworten": [
+      "Den Grad, zu dem ein System richtige Ergebnisse mit der erforderlichen Genauigkeit liefert",
+      "Dass das Programm auf jedem beliebigen Browser läuft",
+      "Dass der Quellcode für andere Programmierer gut lesbar ist"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft gehört zur 'Gebrauchstauglichkeit' (Usability)?",
+    "antworten": [
+      "Funktionalitäten sind klar erkennbar und auffindbar",
+      "Die Software ist durch Passwörter geschützt",
+      "Der Quellcode ist modular aufgebaut"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Kernaspekt der 'Sicherheit' (Security) laut ISO 25010?",
+    "antworten": [
+      "Schutz gegen nicht-autorisierte Zugriffe und Manipulationen",
+      "Das Verhindern von Programmabstürzen bei falscher Eingabe",
+      "Die schnelle Installation der Software"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Zuverlässigkeit' (Reliability)?",
+    "antworten": [
+      "Das System führt spezifizierte Funktionen unter festgelegten Bedingungen über eine Zeitspanne aus",
+      "Die Software kann leicht auf ein anderes Betriebssystem übertragen werden",
+      "Die Benutzeroberfläche sieht auf allen Geräten gleich aus"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'Effizienz' im Kontext der Performanz?",
+    "antworten": [
+      "Optimierter zeitlicher Ablauf und geringe Ressourcenbelastung",
+      "Möglichst viele Funktionen in einem Menü unterzubringen",
+      "Dass zwei Programmierer gleichzeitig am selben Code arbeiten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für 'Portierbarkeit'?",
+    "antworten": [
+      "Ein Webinterface läuft auf allen gängigen Browsern",
+      "Die Software tauscht Daten per CSV oder JSON aus",
+      "Der Code wird automatisch auf Syntaxfehler geprüft"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt die 'Kompatibilität'?",
+    "antworten": [
+      "Der Grad, zu dem ein System Informationen mit anderen Systemen austauschen kann",
+      "Die einfache Wartbarkeit durch Kollegen",
+      "Die intuitive Bedienung der Oberfläche"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Merkmal macht Software 'wartbar'?",
+    "antworten": [
+      "Ein gut strukturierter, übersichtlicher und modularer Quellcode",
+      "Eine besonders schnelle Datenbankanbindung",
+      "Die Einhaltung von strengen Datenschutzbestimmungen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum sind nicht-funktionale Anforderungen schwerer zu messen?",
+    "antworten": [
+      "Weil sie sich mit relativen Größen wie Geschwindigkeit oder Speicherbelastung befassen",
+      "Weil sie für den Kunden völlig unwichtig sind",
+      "Weil sie im Lastenheft niemals erwähnt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der erste Schritt im Testprozess?",
+    "antworten": [
+      "Testplanung (Teststrategie festlegen)",
+      "Testdurchführung (Fehler suchen)",
+      "Testauswertung (Protokoll schreiben)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Nachteil von White-Box-Tests?",
+    "antworten": [
+      "Fehler, die auf falschen Annahmen des Entwicklers beruhen, werden oft nicht erkannt",
+      "Man benötigt keinerlei Kenntnisse des Quellcodes",
+      "Sie können nur nach der Auslieferung beim Kunden durchgeführt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was prüft der 'Integrationstest'?",
+    "antworten": [
+      "Die Interaktion einzelner Komponenten und deren Schnittstellen",
+      "Nur eine einzelne, isolierte Funktion",
+      "Die Rechtschreibung in der Dokumentation"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann findet der 'Abnahmetest' statt?",
+    "antworten": [
+      "Erst direkt vor der Übergabe durch den Kunden selbst",
+      "Noch vor der eigentlichen Programmierung",
+      "Jedes Mal, wenn eine einzelne Zeile Code geschrieben wurde"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Hauptzweck einer statischen Codeanalyse?",
+    "antworten": [
+      "Prüfung der Syntax auf Korrektheit und Konformität durch Tools",
+      "Das Programm unter Volllast zum Absturz zu bringen",
+      "Die Zufriedenheit der Endnutzer zu messen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer übernimmt beim Pair Programming die Rolle des 'Observer'?",
+    "antworten": [
+      "Der Entwickler, der den Code während des Schreibens mitliest und prüft",
+      "Der Kunde, der die fertige Software testet",
+      "Ein automatisches Tool, das den Code in Maschinensprache übersetzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist es laut PDF unvorteilhaft, wenn Entwickler ihre eigenen Programme testen?",
+    "antworten": [
+      "Man übersieht eigene (Denk-)Fehler oder Fehlannahmen leichter",
+      "Entwickler haben rechtlich keine Erlaubnis zum Testen",
+      "Das Testen am eigenen Rechner beschädigt die Hardware"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Fazit zur Qualitätssicherung am Ende des PDFs?",
+    "antworten": [
+      "Qualität beginnt bereits bei der Anforderungsanalyse und Kommunikation",
+      "Testen ist die einzige Maßnahme, die für Qualität nötig ist",
+      "Ein guter Programmierer braucht keine Qualitätssicherung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff User Experience (UX) laut Definition?",
+    "antworten": [
+      "Ein ganzheitliches Konzept, das die Beziehung zwischen Verbraucher und Produkt untersucht",
+      "Nur die technische Geschwindigkeit einer Webseite",
+      "Die Anzahl der Farben in einem Logo"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer hat den UX-Honeycomb im Jahr 2004 entworfen?",
+    "antworten": [
+      "Peter Morville",
+      "Steve Jobs",
+      "ISO-Normungsausschuss"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele Eindrücke beschreibt der UX-Honeycomb für ein positives Erlebnis?",
+    "antworten": [
+      "7 Eindrücke",
+      "3 Eindrücke",
+      "12 Eindrücke",
+      "5 Eindrücke"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet das Kriterium 'useful' im UX-Kontext?",
+    "antworten": [
+      "Das Produkt muss einen konkreten Nutzen oder Vorteil bieten",
+      "Das Produkt muss teuer sein",
+      "Das Produkt muss bunt gestaltet sein"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Ziel verfolgt das Kriterium 'usable'?",
+    "antworten": [
+      "Einfache, effektive und effiziente Zielerreichung für den Anwender",
+      "Dass die Software möglichst viele Funktionen gleichzeitig anzeigt",
+      "Dass das System keine Passwörter benötigt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff 'desirable' im Honeycomb?",
+    "antworten": [
+      "Emotionale Aspekte wie Design, Image und Ästhetik",
+      "Die Kompatibilität mit Linux-Systemen",
+      "Die rechtliche Absicherung des Herstellers"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist das Kriterium 'findable' wichtig?",
+    "antworten": [
+      "Informationen müssen so platziert sein, dass langes Suchen unnötig ist",
+      "Damit man die Software im Laden findet",
+      "Damit Google die Seite besser bewertet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'accessible' in Bezug auf User Experience?",
+    "antworten": [
+      "Rücksichtnahme auf individuelle Ansprüche, z.B. Barrierefreiheit",
+      "Dass die Software kostenlos zum Download bereitsteht",
+      "Dass man das Programm ohne Internet nutzen kann"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie kann ein Produkt laut PDF 'credible' (glaubwürdig) wirken?",
+    "antworten": [
+      "Durch Transparenz, klare Nutzungsbedingungen und Informationssicherheit",
+      "Durch möglichst viel Werbung auf der Startseite",
+      "Indem man keine Fehler im Code macht"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'valuable' (wertvolles) Produkt?",
+    "antworten": [
+      "Es bietet handfeste Vorteile und zeugt von Professionalität und Sorgfalt",
+      "Es hat den höchsten Preis auf dem Markt",
+      "Es verbraucht sehr viel Arbeitsspeicher"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Disziplin wird im PDF als eigene Fachrichtung neben der Softwareentwicklung genannt?",
+    "antworten": [
+      "User Experience (UX)",
+      "Datenbankadministration",
+      "Netzwerktechnik"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine wichtige Maßnahme für 'findable' Inhalte?",
+    "antworten": [
+      "Eine intuitive Navigationsstruktur",
+      "Ein Handbuch mit 500 Seiten",
+      "Das Ausblenden aller Menüs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie steigert man die 'Glaubwürdigkeit' (credible) eines Herstellers?",
+    "antworten": [
+      "Indem man die Betreiber der Software vorstellt",
+      "Indem man unrealistische Erwartungen weckt",
+      "Durch das Verstecken des Impressums"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sollte man laut PDF bei 'valuable' Produkten vermeiden?",
+    "antworten": [
+      "Flüchtigkeitsfehler bei Design und Inhalt",
+      "Etablierte Standards und Konventionen",
+      "Den Fokus auf Anwendervorteile"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welchen Aspekt deckt 'accessible' ab, um niemanden auszuschließen?",
+    "antworten": [
+      "Berücksichtigung von Menschen mit Einschränkungen",
+      "Verwendung von Fachsprache für Experten",
+      "Beschränkung der Software auf High-End-PCs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Hauptziel der 'Sichtbarkeit des Systemzustands'?",
+    "antworten": [
+      "Anwender stets über aktuelle Vorgänge informieren und Feedback geben",
+      "Den Quellcode für den Nutzer sichtbar machen",
+      "Die Hardware-Temperatur dauerhaft anzeigen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Prinzip beschreibt die Übereinstimmung zwischen System und realer Welt?",
+    "antworten": [
+      "Verwendung von Begriffen und Konzepten, die dem Anwender vertraut sind",
+      "Das System muss exakt wie eine mechanische Maschine aussehen",
+      "Die Programmierung muss in der Muttersprache des Nutzers erfolgen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Nutzerkontrolle und Freiheit'?",
+    "antworten": [
+      "Möglichkeiten zum Rückgängigmachen und Wiederholen von Aktionen (Undo/Redo)",
+      "Dass der Nutzer den Preis der Software selbst bestimmen kann",
+      "Dass keine Passwörter für das System benötigt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum sind 'Konsistenz und Standards' in der UI wichtig?",
+    "antworten": [
+      "Damit Nutzer sich nicht fragen müssen, ob verschiedene Wörter das Gleiche bedeuten",
+      "Damit die Software auf jedem Monitor gleich groß angezeigt wird",
+      "Um die Dateigröße des Programms so gering wie möglich zu halten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist laut PDF effektiver als eine gute Fehlermeldung?",
+    "antworten": [
+      "Fehlervermeidung durch vorausschauendes Design",
+      "Ein dickes Benutzerhandbuch",
+      "Ein schneller Kundensupport"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet das Prinzip 'Wiedererkennung statt Erinnerung'?",
+    "antworten": [
+      "Objekte und Optionen sollten sichtbar sein, damit man sie nicht auswendig lernen muss",
+      "Das System sollte das Gesicht des Nutzers per Kamera erkennen",
+      "Das Logo der Firma sollte auf jeder Seite oben links stehen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen 'Flexibilität und Effizienz' bei der Nutzung?",
+    "antworten": [
+      "Abkürzungen (Accelerators) für erfahrene Nutzer, die Anfänger nicht stören",
+      "Dass die Software automatisch alle Aufgaben alleine erledigt",
+      "Die Installation auf beliebig vielen Geräten gleichzeitig"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Kernziel von 'Ästhetik und minimalistischem Design'?",
+    "antworten": [
+      "Informationen auf das Wesentliche beschränken und Unwichtiges entfernen",
+      "Möglichst viele Animationen und Effekte einzubauen",
+      "Die gesamte Oberfläche nur in Schwarz und Weiß zu gestalten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sollten Fehlermeldungen für eine gute UX formuliert sein?",
+    "antworten": [
+      "In verständlicher Sprache, präzise und mit einem Lösungsvorschlag",
+      "Nur als technischer Fehlercode (z.B. Error 0x0045)",
+      "Sie sollten gar nicht erscheinen, um den Nutzer nicht zu erschrecken"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck von 'Hilfe und Dokumentation'?",
+    "antworten": [
+      "Kurze, präzise Anleitung zur Lösung konkreter Aufgaben bieten",
+      "Den kompletten Programmierverlauf des Projekts zu zeigen",
+      "Die rechtliche Haftung des Entwicklers auszuschließen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist die Benutzerzufriedenheit laut Fazit auch eine wirtschaftliche Entscheidung?",
+    "antworten": [
+      "Weil die Entwicklung von Features Zeit und Geld kostet",
+      "Weil zufriedene Nutzer immer mehr Geld bezahlen",
+      "Weil UX-Designer die teuersten Mitarbeiter sind"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wessen Perspektive sollten Entwickler laut PDF regelmäßig einnehmen?",
+    "antworten": [
+      "Die Perspektive der Verbraucher und Anwender",
+      "Die Perspektive der Konkurrenzunternehmen",
+      "Die Perspektive der Hardware-Hersteller"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Beispiel für 'Sichtbarkeit des Systemzustands' wird im PDF genannt?",
+    "antworten": [
+      "Fortschrittsbalken bei Downloads oder Installationen",
+      "Die Versionsnummer im Impressum",
+      "Die Farbe des Gehäuses"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für die 'Übereinstimmung von System und realer Welt'?",
+    "antworten": [
+      "Ein Papierkorb-Symbol für das Löschen von Dateien",
+      "Ein kryptischer Fehlercode wie '0x80045'",
+      "Die Verwendung von Programmierbefehlen in der GUI"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird 'Nutzerkontrolle und Freiheit' technisch oft umgesetzt?",
+    "antworten": [
+      "Durch einen 'Abbrechen'-Button in Dialogfenstern",
+      "Durch das automatische Speichern ohne Beenden-Funktion",
+      "Durch das Sperren der Tastatur während eines Vorgangs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'externer Konsistenz'?",
+    "antworten": [
+      "Die Einhaltung von industrieweiten Standards und Konventionen",
+      "Dass die Software nur auf externen Festplatten läuft",
+      "Dass das Design jeder Unterseite komplett anders aussieht"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Maßnahme dient der 'Fehlervermeidung' bei Benutzereingaben?",
+    "antworten": [
+      "Bestätigungsdialoge vor schwerwiegenden Aktionen (z.B. Löschen)",
+      "Das Programm nach jeder falschen Eingabe sofort schließen",
+      "Die Eingabefelder so klein wie möglich machen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein typisches Beispiel für 'Wiedererkennung statt Erinnerung'?",
+    "antworten": [
+      "Menüstrukturen und Icons statt Befehlseingaben",
+      "Das Auswendiglernen von Tastenkombinationen",
+      "Eine leere Kommandozeile ohne Hilfeanzeige"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sind 'Accelerators' im Kontext von Flexibilität und Effizienz?",
+    "antworten": [
+      "Tastenkombinationen (Shortcuts) für erfahrene Nutzer",
+      "Besonders schnelle Prozessoren in der Hardware",
+      "Werbebanner, die den Nutzer zum Kauf animieren"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Merkmal für 'Ästhetik und minimalistisches Design'?",
+    "antworten": [
+      "Ein hohes 'Signal-to-Noise-Ratio' (Wichtiges hervorheben)",
+      "Möglichst viele verschiedene Schriftarten nutzen",
+      "Jeden verfügbaren Platz auf dem Bildschirm mit Text füllen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Information sollte eine gute Fehlermeldung NICHT enthalten?",
+    "antworten": [
+      "Schuldzuweisungen an den Nutzer",
+      "Eine verständliche Problembeschreibung",
+      "Einen Lösungsvorschlag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann ist 'Hilfe und Dokumentation' laut PDF besonders wichtig?",
+    "antworten": [
+      "Wenn Nutzer vor einer konkreten Aufgabe stehen und nicht weiterwissen",
+      "Nur während der Installation der Software",
+      "Nur für die Entwickler, um den Code zu verstehen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung HTML?",
+    "antworten": [
+      "Hypertext Markup Language",
+      "High Tech Modern Language",
+      "Hyperlink and Text Management System"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer entwickelte HTML um das Jahr 1990?",
+    "antworten": [
+      "Tim Berners-Lee",
+      "Håkon Wium Lie",
+      "Brendan Eich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Organisation gibt den aktuellen HTML-Standard heraus?",
+    "antworten": [
+      "World Wide Web Consortium (W3C)",
+      "Internet Engineering Task Force (IETF)",
+      "Microsoft Foundation"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Dateiendung ist für HTML-Dokumente üblich?",
+    "antworten": [
+      ".html oder .htm",
+      ".php oder .asp",
+      ".txt oder .doc"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element deklariert den Dokumententyp am Anfang der Datei?",
+    "antworten": [
+      "<!DOCTYPE html>",
+      "<html type=\"html5\">",
+      "<head content=\"html\">"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "In welchem Bereich stehen Metadaten, die nicht direkt im Browserfenster angezeigt werden?",
+    "antworten": [
+      "Im <head>-Bereich",
+      "Im <body>-Bereich",
+      "Im <footer>-Bereich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo muss der gesamte sichtbare Inhalt einer Webseite stehen?",
+    "antworten": [
+      "Im <body>-Bereich",
+      "Zwischen <head> und </head>",
+      "Hinter dem schließenden </html>-Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Elemente in HTML meist umschlossen?",
+    "antworten": [
+      "Durch ein öffnendes und ein schließendes Tag (z. B. <p>...</p>)",
+      "Nur durch einfache Anführungszeichen",
+      "Durch eckige Klammern am Ende jeder Zeile"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'leeres Element' (Self-Closing Tag) wie <br> oder <img>?",
+    "antworten": [
+      "Es hat keinen Inhalt und benötigt kein schließendes Tag",
+      "Es darf keinen Text enthalten",
+      "Es wird vom Browser ignoriert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo werden Attribute in einem HTML-Tag immer platziert?",
+    "antworten": [
+      "Im öffnenden Tag",
+      "Im schließenden Tag",
+      "Immer in einer eigenen Zeile nach dem Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut wird verwendet, um ein Element eindeutig zu identifizieren (darf nur einmal vorkommen)?",
+    "antworten": [
+      "id",
+      "class",
+      "name"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Tag wird eine ungeordnete Liste (mit Aufzählungspunkten) erstellt?",
+    "antworten": [
+      "<ul>",
+      "<ol>",
+      "<li>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag definiert einen einzelnen Listeneintrag?",
+    "antworten": [
+      "<li>",
+      "<list>",
+      "<item>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird eine Tabellenzeile in HTML definiert?",
+    "antworten": [
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag wird für eine normale Datenzelle in einer Tabelle verwendet?",
+    "antworten": [
+      "<td>",
+      "<th>",
+      "<table-data>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt das Tag <th> in einer Tabelle?",
+    "antworten": [
+      "Es definiert eine Kopfzelle, die meist fett und zentriert dargestellt wird",
+      "Es erstellt eine neue Tabelle",
+      "Es fügt einen Zeilenumbruch in der Zelle ein"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck des <caption-Tags in einer Tabelle?",
+    "antworten": [
+      "Es gibt der gesamten Tabelle eine Überschrift",
+      "Es definiert die Hintergrundfarbe der Tabelle",
+      "Es verbindet zwei Spalten miteinander"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet es, dass HTML 'plattformunabhängig' ist?",
+    "antworten": [
+      "Es kann auf jedem Betriebssystem von einem Browser interpretiert werden",
+      "Es benötigt keine Internetverbindung",
+      "Es funktioniert nur auf mobilen Geräten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag wird für die wichtigste Überschrift einer Seite verwendet?",
+    "antworten": [
+      "<h1>",
+      "<head1>",
+      "<caption>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das Attribut 'lang' im <html>-Tag genutzt?",
+    "antworten": [
+      "Zur Angabe der primären Sprache des Dokumentinhalts",
+      "Um die Länge der Webseite festzulegen",
+      "Um die Ladezeit der Seite zu messen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die wichtigste Regel beim Verschachteln von HTML-Elementen?",
+    "antworten": [
+      "Elemente müssen in der umgekehrten Reihenfolge geschlossen werden, in der sie geöffnet wurden",
+      "Es dürfen maximal zwei Elemente ineinander liegen",
+      "Block-Elemente müssen immer vor Inline-Elementen geschlossen werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sieht die korrekte Syntax für einen Kommentar in HTML aus?",
+    "antworten": [
+      "",
+      "// Kommentar",
+      "/* Kommentar */"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches globale Attribut wird verwendet, um CSS-Stile auf eine Gruppe von Elementen anzuwenden?",
+    "antworten": [
+      "class",
+      "id",
+      "style-group"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das 'title'-Attribut bei HTML-Elementen meistens genutzt?",
+    "antworten": [
+      "Es erzeugt einen Tooltip, wenn man mit der Maus über das Element fährt",
+      "Es legt die Hauptüberschrift der Seite fest",
+      "Es dient zur Suchmaschinenoptimierung des Bildnamens"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Tag wird eine geordnete Liste (mit Nummerierung) erstellt?",
+    "antworten": [
+      "<ol>",
+      "<ul>",
+      "<list-ordered>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff 'Semantik' im Zusammenhang mit HTML-Tags?",
+    "antworten": [
+      "Dass Tags eine Bedeutung vermitteln (z. B. <nav> für Navigation) statt nur Design",
+      "Dass alle Tags in Großbuchstaben geschrieben werden müssen",
+      "Die Ladegeschwindigkeit der einzelnen Elemente"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird laut PDF genutzt, um einen Zeilenumbruch ohne neuen Absatz zu erzeugen?",
+    "antworten": [
+      "<br>",
+      "<lb>",
+      "<break>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut wird in einer Tabellenzelle genutzt, um diese über mehrere Spalten zu strecken?",
+    "antworten": [
+      "colspan",
+      "rowspan",
+      "expand"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt das Attribut 'rowspan' in einer Tabelle?",
+    "antworten": [
+      "Es dehnt eine Zelle über mehrere Zeilen nach unten aus",
+      "Es fügt eine neue Zeile am Ende der Tabelle ein",
+      "Es legt die Höhe einer gesamten Zeile fest"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element umschließt die Kopfzeilen einer Tabelle?",
+    "antworten": [
+      "<thead>",
+      "<tfooter>",
+      "<hrow>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Hauptziel von Strukturelementen in HTML?",
+    "antworten": [
+      "Inhalte sinnvoll ordnen und eine übersichtliche Informationsarchitektur schaffen",
+      "Die Hintergrundfarbe der Webseite festlegen",
+      "Die Ladegeschwindigkeit der Bilder erhöhen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element dient als Container für einleitende Informationen oder Menüs?",
+    "antworten": [
+      "<header>",
+      "<footer>",
+      "<main>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele <main>-Elemente dürfen pro HTML-Dokument maximal vorhanden sein?",
+    "antworten": [
+      "Genau ein Element",
+      "Beliebig viele",
+      "Maximal zwei (eins oben, eins unten)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Inhalte gehören laut PDF typischerweise in das <footer>-Element?",
+    "antworten": [
+      "Fußnoten, Urheberrechtshinweise und Kontaktinformationen",
+      "Die Hauptüberschrift der Seite",
+      "Das primäre Navigationsmenü für die gesamte Seite"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <nav>-Element primär verwendet?",
+    "antworten": [
+      "Für Bereiche, die Navigationslinks enthalten",
+      "Um Bilder in den Text einzubetten",
+      "Um externe Werbebanner zu kennzeichnen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element umschließt einen eigenständigen, in sich geschlossenen Inhalt wie Blogbeiträge?",
+    "antworten": [
+      "<article>",
+      "<section>",
+      "<aside>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet das <aside>-Element?",
+    "antworten": [
+      "Es enthält Inhalte, die nur indirekt mit dem Hauptinhalt zu tun haben (z. B. Sidebars)",
+      "Es definiert den wichtigsten Textabschnitt einer Seite",
+      "Es wird für die rechtlichen Hinweise am Seitenende genutzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird als allgemeiner Container verwendet, wenn kein semantisches Element passt?",
+    "antworten": [
+      "<div>",
+      "<span>",
+      "<section>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Hauptzweck des <a>-Elements?",
+    "antworten": [
+      "Erstellung von Hyperlinks zur Navigation",
+      "Anzeige von animierten Grafiken",
+      "Definition von Absatzabständen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut im <a>-Tag gibt das Ziel des Links an?",
+    "antworten": [
+      "href",
+      "src",
+      "target"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <form>-Element genutzt?",
+    "antworten": [
+      "Als Container für verschiedene interaktive Eingabeelemente",
+      "Um mathematische Formeln darzustellen",
+      "Um das Design von Tabellen festzulegen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut im <form>-Tag legt fest, wohin die Daten gesendet werden?",
+    "antworten": [
+      "action",
+      "method",
+      "target"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche zwei Übertragungsmethoden werden für Formulare am häufigsten genannt?",
+    "antworten": [
+      "GET und POST",
+      "SEND und RECEIVE",
+      "PUSH und PULL"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird verwendet, um eine Beschriftung für ein Eingabefeld zu erstellen?",
+    "antworten": [
+      "<label>",
+      "<caption>",
+      "<text>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden <label> und <input> laut PDF technisch korrekt verknüpft?",
+    "antworten": [
+      "Über die Attribute 'for' (beim Label) und 'id' (beim Input)",
+      "Durch einfaches Nebeneinanderschreiben im Code",
+      "Über das Attribut 'name' bei beiden Elementen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches 'type'-Attribut beim <input> erzeugt einen Button zum Absenden des Formulars?",
+    "antworten": [
+      "submit",
+      "button",
+      "send"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Unterschied zwischen Radio-Buttons und Checkboxen?",
+    "antworten": [
+      "Radio-Buttons erlauben nur eine Wahl aus einer Gruppe, Checkboxen mehrere",
+      "Checkboxen sind immer rund, Radio-Buttons quadratisch",
+      "Es gibt technisch keinen Unterschied"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird für ein ausklappbares Auswahlmenü (Dropdown) verwendet?",
+    "antworten": [
+      "<select>",
+      "<dropdown>",
+      "<menu>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <option>-Element innerhalb eines <select>-Elements benötigt?",
+    "antworten": [
+      "Um die einzelnen wählbaren Einträge zu definieren",
+      "Um die Hintergrundfarbe des Menüs zu ändern",
+      "Um das Menü schreibgeschützt zu machen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist laut Fazit nötig, um HTML-Eingaben tatsächlich zu verarbeiten?",
+    "antworten": [
+      "Eine Programmiersprache wie PHP",
+      "Zusätzliche HTML-Tags",
+      "Ein spezieller Browser-Plug-in"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung CSS?",
+    "antworten": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Computer Syntax Sheets"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der wesentliche Vorteil der gemeinsamen Verwendung von HTML und CSS?",
+    "antworten": [
+      "Die Trennung von Inhalt und Darstellung",
+      "Die Erhöhung der Rechengeschwindigkeit des Prozessors",
+      "Dass keine Webbrowser mehr benötigt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Dateiendung haben CSS-Dateien üblicherweise?",
+    "antworten": [
+      ".css",
+      ".style",
+      ".html"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Aus welchen zwei Hauptbestandteilen besteht eine CSS-Regel?",
+    "antworten": [
+      "Selektor und Deklarationsblock",
+      "Tag und Attribut",
+      "Kopf und Körper"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden mehrere Deklarationen innerhalb eines Deklarationsblocks voneinander getrennt?",
+    "antworten": [
+      "Durch ein Semikolon (;)",
+      "Durch ein Komma (,)",
+      "Durch einen Punkt (.)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zeichen umschließt den Deklarationsblock in CSS?",
+    "antworten": [
+      "Geschweifte Klammern { }",
+      "Eckige Klammern [ ]",
+      "Runde Klammern ( )"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Methode wird empfohlen, um CSS in eine HTML-Datei einzubinden?",
+    "antworten": [
+      "Externes Stylesheet über das <link>-Element im <head>",
+      "Inline-Styles direkt im HTML-Tag",
+      "Einbetten des CSS-Codes im <body>-Bereich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt der Universalselektor (*)?",
+    "antworten": [
+      "Er spricht alle Elemente im Dokument an",
+      "Er spricht nur das erste Element an",
+      "Er löscht alle Formatierungen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird ein Klassenselektor in CSS gekennzeichnet?",
+    "antworten": [
+      "Durch einen vorangestellten Punkt (z. B. .meineKlasse)",
+      "Durch eine vorangestellte Raute (z. B. #meineKlasse)",
+      "Durch einfache Anführungszeichen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Womit beginnt ein ID-Selektor in CSS?",
+    "antworten": [
+      "Mit einer Raute (z. B. #meineId)",
+      "Mit einem Punkt (z. B. .meineId)",
+      "Mit einem kaufmännischen Und (&)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Selektor spricht alle <p>-Elemente an, die sich innerhalb eines <div> befinden?",
+    "antworten": [
+      "Nachkommenselektor (div p)",
+      "Kindselektor (div > p)",
+      "Nachbarselektor (div + p)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Unterschied zwischen einem Kindselektor (div > p) und einem Nachkommenselektor (div p)?",
+    "antworten": [
+      "Der Kindselektor spricht nur direkte Nachfahren der ersten Ebene an",
+      "Der Nachkommenselektor spricht nur das erste Kind an",
+      "Es gibt keinen funktionalen Unterschied"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Selektoren beim Gruppenselektor voneinander getrennt?",
+    "antworten": [
+      "Durch ein Komma",
+      "Durch ein Pluszeichen",
+      "Durch ein Leerzeichen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Selektor spricht ein Element an, das unmittelbar auf ein anderes folgt?",
+    "antworten": [
+      "Nachbarselektor (div + p)",
+      "Geschwisterselektor (div ~ p)",
+      "Universalselektor (*)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Vererbung' in CSS?",
+    "antworten": [
+      "Kindelemente übernehmen bestimmte Eigenschaften ihrer Elternelemente",
+      "Dass CSS-Regeln von HTML-Tags gelöscht werden",
+      "Dass man CSS-Code von anderen Webseiten kopieren kann"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert, wenn sich CSS-Regeln widersprechen (Kaskade)?",
+    "antworten": [
+      "Der Browser entscheidet nach der Spezifität und der Reihenfolge der Regeln",
+      "Das gesamte Stylesheet wird ungültig",
+      "Es wird immer die kürzeste Regel angewendet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist die Kaskadierung (Cascading) namensgebend für CSS?",
+    "antworten": [
+      "Weil Regeln nach einer bestimmten Rangfolge (Wasserfallprinzip) angewendet werden",
+      "Weil der Code wie ein Wasserfall eingerückt werden muss",
+      "Weil sie nur für flüssige Layouts funktioniert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sieht ein zusammengesetzter Selektor für alle <div> mit der Klasse 'fett' aus?",
+    "antworten": [
+      "div.fett",
+      "div .fett",
+      "div, fett"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Organisation entwickelt den CSS-Standard?",
+    "antworten": [
+      "World Wide Web Consortium (W3C)",
+      "ISO",
+      "Google"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo sollte der Link zum externen CSS-Stylesheet platziert werden?",
+    "antworten": [
+      "Im <head>-Bereich des HTML-Dokuments",
+      "Am Ende des <body>-Bereichs",
+      "Hinter dem schließenden </html>-Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele vordefinierte Farbnamen können in CSS direkt verwendet werden?",
+    "antworten": [
+      "140",
+      "256",
+      "512"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung RGB im Farbsystem?",
+    "antworten": [
+      "Red, Green, Blue",
+      "Real Glossy Background",
+      "Red, Grey, Black"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Farbsystem verwendet sechsstellige Hexadezimalwerte (z. B. #CD5C5C)?",
+    "antworten": [
+      "HEX-Farbsystem",
+      "HSL-Farbsystem",
+      "RGB-Farbsystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeuten die drei Werte im HSL-Farbsystem?",
+    "antworten": [
+      "Hue (Farbwert), Saturation (Sättigung), Lightness (Helligkeit)",
+      "High, Soft, Low",
+      "Header, Section, Layout"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welcher CSS-Eigenschaft wird die Hintergrundfarbe eines Elements festgelegt?",
+    "antworten": [
+      "background-color",
+      "color-background",
+      "bg-color"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft wird genutzt, um ein Bild als Hintergrund zu verwenden?",
+    "antworten": [
+      "background-image",
+      "image-source",
+      "bg-image"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird der Pfad zu einem Hintergrundbild innerhalb der CSS-Regel angegeben?",
+    "antworten": [
+      "url('bildpfad.jpg')",
+      "src('bildpfad.jpg')",
+      "link('bildpfad.jpg')"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt der Wert 'no-repeat' bei der Eigenschaft background-repeat?",
+    "antworten": [
+      "Das Hintergrundbild wird nur einmal angezeigt und nicht gekachelt",
+      "Das Bild wird über die gesamte Seite gestreckt",
+      "Das Bild wird ausgeblendet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft legt fest, ob ein Hintergrundbild mitscrollt oder fixiert bleibt?",
+    "antworten": [
+      "background-attachment",
+      "background-scroll",
+      "background-fix"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt die Einstellung 'background-size: cover;'?",
+    "antworten": [
+      "Das Bild wird so skaliert, dass der gesamte Bereich vollständig bedeckt ist",
+      "Das Bild wird immer in seiner Originalgröße angezeigt",
+      "Das Bild wird nur in der Mitte der Seite platziert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welcher Eigenschaft kann man die Position des Hintergrundbildes bestimmen?",
+    "antworten": [
+      "background-position",
+      "background-align",
+      "image-gravity"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt ein 'Monochromatisches Farbschema'?",
+    "antworten": [
+      "Es basiert auf nur einem Farbton in verschiedenen Nuancen und Sättigungen",
+      "Es verwendet drei völlig verschiedene Farben vom Farbkreis",
+      "Es besteht nur aus Schwarz und Weiß"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'Komplementäres Farbschema'?",
+    "antworten": [
+      "Zwei Farbtöne, die sich auf dem Farbkreis direkt gegenüberliegen",
+      "Drei Farben, die direkt nebeneinander liegen",
+      "Die Verwendung von Pastellfarben"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Vorteil eines 'Analogen Farbschemas'?",
+    "antworten": [
+      "Es wirkt harmonisch und für das Auge angenehm, da es oft in der Natur vorkommt",
+      "Es bietet den größtmöglichen Kontrast",
+      "Es ist besonders gut für Warnhinweise geeignet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Merkmal eines 'Triadischen Farbschemas'?",
+    "antworten": [
+      "Drei Farbtöne in gleichmäßigem Abstand auf dem Farbkreis",
+      "Nur Primärfarben",
+      "Die ausschließliche Verwendung von Graustufen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'RGBA' im Gegensatz zu 'RGB'?",
+    "antworten": [
+      "Es enthält einen zusätzlichen Wert für den Alpha-Kanal (Transparenz)",
+      "Es steht für automatische Farbauswahl",
+      "Es wird für animierte Farben genutzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert, wenn mehrere Elemente sich gegenseitig überdecken?",
+    "antworten": [
+      "Jedes Element behält seinen eigenen Hintergrund",
+      "Hintergründe werden automatisch gemischt",
+      "Nur das unterste Element zeigt eine Farbe"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft wird für zusammengesetzte Wörter in CSS typischerweise verwendet?",
+    "antworten": [
+      "Bindestriche (z. B. background-color)",
+      "Unterstriche (z. B. background_color)",
+      "CamelCase (z. B. backgroundColor)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird die Sättigung (Saturation) im HSL-Modell angegeben?",
+    "antworten": [
+      "In Prozent von 0% bis 100%",
+      "In Werten von 0 bis 255",
+      "In Gradzahlen von 0 bis 360"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Fazit zieht das PDF zum Einsatz von Farben im Design?",
+    "antworten": [
+      "Farben sollen mit Bedacht eingesetzt werden, da der Gesamteindruck zählt",
+      "Je mehr Farben verwendet werden, desto professioneller wirkt das Design",
+      "Farben haben keinen Einfluss auf die User Experience"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung PHP?",
+    "antworten": [
+      "PHP: Hypertext Preprocessor",
+      "Personal Home Page",
+      "Programmable Hypertext Processor"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein wesentliches Merkmal von dynamischen Webseiten im Vergleich zu statischen?",
+    "antworten": [
+      "Inhalte werden erst beim Aufruf aus einer Datenbank generiert",
+      "Der Inhalt ist fest in der HTML-Datei geschrieben",
+      "Sie benötigen weniger Rechenleistung auf dem Server"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo wird PHP-Code ausgeführt?",
+    "antworten": [
+      "Serverseitig auf dem Webserver",
+      "Clientseitig direkt im Browser des Nutzers",
+      "Auf dem lokalen Betriebssystem des Anwenders"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Symbol werden Variablen in PHP deklariert?",
+    "antworten": [
+      "$ (Dollarzeichen)",
+      "& (Kaufmännisches Und)",
+      "# (Raute)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird ein PHP-Block in einer Datei umschlossen?",
+    "antworten": [
+      "<?php ... ?>",
+      "<php> ... </php>",
+      "<% ... %>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Methode wird empfohlen, wenn Formulardaten nicht in der URL sichtbar sein sollen?",
+    "antworten": [
+      "POST",
+      "GET",
+      "REQUEST"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches PHP-Objekt wird im PDF häufig für den Datenbankzugriff (z. B. MySQL) verwendet?",
+    "antworten": [
+      "PDO (PHP Data Objects)",
+      "SQL-Connector",
+      "DB-Link"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck des Befehls 'include' oder 'require' in PHP?",
+    "antworten": [
+      "Das Einbinden von externen Dateien in das aktuelle Skript",
+      "Das Löschen von Variablen aus dem Speicher",
+      "Das Verschlüsseln von Datenbankpasswörtern"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert bei der Verwendung der GET-Methode mit den Formulardaten?",
+    "antworten": [
+      "Sie werden an die URL angehängt und sind für jeden sichtbar",
+      "Sie werden verschlüsselt im Hintergrund übertragen",
+      "Sie werden automatisch in der Datenbank gespeichert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Kommentare in PHP-Code korrekt verfasst?",
+    "antworten": [
+      "// oder /* ... */",
+      "",
+      "# Kommentar #"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Schritt ist nötig, um eine Webseite 'live' zu schalten?",
+    "antworten": [
+      "Dateien mittels FTP zum Provider hochladen",
+      "Den Quellcode in eine PDF-Datei umwandeln",
+      "Die HTML-Tags in Großbuchstaben schreiben"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'CRUD' im Kontext von Datenbanken?",
+    "antworten": [
+      "Create, Read, Update, Delete",
+      "Copy, Rename, Undo, Disconnect",
+      "Central Remote User Database"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Protokoll wird für eine sichere Terminalsitzung zum Server verwendet?",
+    "antworten": [
+      "SSH (Secure Shell)",
+      "HTTP",
+      "FTP"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein typischer Fehler bei der Arbeit mit PHP/CSS laut PDF?",
+    "antworten": [
+      "Vergessen des Semikolons (;) als Trennzeichen",
+      "Verwendung von zu vielen Leerzeichen",
+      "Schreiben von zu langem Code"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Funktionen in PHP deklariert?",
+    "antworten": [
+      "function meineFunktion() { ... }",
+      "create meineFunktion() { ... }",
+      "new function meineFunktion() { ... }"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zeichen dient in PHP zur Zeichenketten-Verknüpfung (String Concatenation)?",
+    "antworten": [
+      ". (Punkt)",
+      "+ (Plus)",
+      "& (Und-Zeichen)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Vorteil von dynamischen Webseiten?",
+    "antworten": [
+      "Änderungen am Design müssen nur an einer zentralen Stelle vorgenommen werden",
+      "Sie funktionieren ohne Webserver",
+      "Die Erstellung ist völlig ohne Programmierkenntnisse möglich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das SQL-Statement 'SELECT' verwendet?",
+    "antworten": [
+      "Zum Abfragen von Daten aus einer Datenbank",
+      "Zum Löschen einer kompletten Tabelle",
+      "Zum Ändern von Passwörtern"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Programm wird im PDF als FTP-Client oder für SSH-Sitzungen genannt?",
+    "antworten": [
+      "FileZilla oder Putty",
+      "Photoshop",
+      "Windows Media Player"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt ein ERM (Entity Relationship Model)?",
+    "antworten": [
+      "Die logische Struktur und Beziehungen der Daten in einer Datenbank",
+      "Den grafischen Aufbau der Benutzeroberfläche",
+      "Die Geschwindigkeit der Internetverbindung"
+    ],
+    "richtige_antwort": 0
+  }
+]
 
    }
     
