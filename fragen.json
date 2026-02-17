@@ -1975,821 +1975,550 @@
         }
       ],
     "LF07V2 Cyber-physische Systeme ergänzen":[
-        {
-          "frage": "Welche Eigenschaft definiert ein cyber-physisches System im Kern?",
-          "antworten": [
-            "Die enge Kopplung aus physischer Komponente und digitaler Verarbeitung mit bidirektionaler Echtzeitkommunikation.",
-            "Die Fähigkeit, ausschließlich mechanische Prozesse autonom auszuführen.",
-            "Die Nutzung digitaler Komponenten ohne physische Interaktion mit der Umwelt."
-          ],
-          "richtige_antwort": 0,
-          "thema": "CPS Grundlagen"
-        },
-        {
-          "frage": "Warum stellen CPS höhere Anforderungen an Echtzeitfähigkeit als klassische IT-Systeme?",
-          "antworten": [
-            "Weil physische Prozesse im Millisekundenbereich reagieren und digitale Fehlzeiten direkten Einfluss auf Sicherheit und Materialschäden haben.",
-            "Weil CPS ausschließlich videobasierte Anwendungen ausführen.",
-            "Weil Netzwerkpakete nur im Stundenintervall akzeptiert werden."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Echtzeit"
-        },
-        {
-          "frage": "Welche Rolle spielen Sensoren in der CPS-Architektur?",
-          "antworten": [
-            "Sie liefern kontinuierliche, kontextbezogene Messdaten als Grundlage für digitale Modelle und Steuerentscheidungen.",
-            "Sie ersetzen vollständig die Steuerungslogik eines CPS.",
-            "Sie dienen nur als optionale Ergänzung zu Aktoren."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Sensorik"
-        },
-        {
-          "frage": "Welche Bedeutung hat das Prinzip der Adaption in CPS?",
-          "antworten": [
-            "Es ermöglicht CPS, ihr Verhalten dynamisch an Umweltveränderungen und interne Statuswerte anzupassen.",
-            "Es erlaubt CPS ausschließlich manuelle Konfigurationsänderungen.",
-            "Es begrenzt CPS auf feste Steuerungsparameter."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Adaption"
-        },
-        {
-          "frage": "Welcher Unterschied besteht zwischen mechatronischen Systemen und CPS?",
-          "antworten": [
-            "CPS besitzen eine durchgängige digitale Vernetzung und Echtzeitanalyse, während mechatronische Systeme primär lokal und ohne semantische Vernetzung arbeiten.",
-            "Mechatronische Systeme verfügen über Cloud-Anbindung, CPS über rein lokale Steuerungen.",
-            "Mechatronische Systeme basieren auf offenen IoT-Protokollen, CPS nicht."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Vergleich CPS/Mechatronik"
-        },
-        {
-          "frage": "Warum ist die Integration ein zentrales Funktionsprinzip von CPS?",
-          "antworten": [
-            "Weil physische Prozesse, Steuerung und Datenanalyse in einem gemeinsamen Systemverbund funktionsabhängig interagieren.",
-            "Weil Integration lediglich die mechanische Kopplung von Teilen beschreibt.",
-            "Weil Integration ausschließlich die Verteilung von Finanzdaten bedeutet."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Integration"
-        },
-        {
-          "frage": "Warum ist das IoT eine Voraussetzung für moderne CPS?",
-          "antworten": [
-            "Weil IoT-Strukturen skalierbare Vernetzung, verteilte Kommunikation und Sensorintegration ermöglichen.",
-            "Weil IoT ausschließlich für Consumer-Produkte entwickelt wurde.",
-            "Weil IoT nur Geräte ohne Energieverbrauch unterstützt."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IoT"
-        },
-        {
-          "frage": "Welche Herausforderung ergibt sich aus der Vielzahl an IoT-Protokollen?",
-          "antworten": [
-            "Es entstehen heterogene Kommunikationslandschaften, die Gateways und Protokolltransformation erfordern.",
-            "Die Vielzahl an Protokollen verhindert grundsätzlich jede Kommunikation.",
-            "IoT-Geräte können dadurch ausschließlich über Funk kommunizieren."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IoT Protokolle"
-        },
-        {
-          "frage": "Warum ist MQTT besonders für energiearme CPS geeignet?",
-          "antworten": [
-            "Weil das Publish-Subscribe-Modell sehr geringe Bandbreite benötigt und Geräte nur senden, wenn Daten anfallen.",
-            "Weil MQTT alle Nachrichten mehrfach verschlüsselt ohne CPU-Last.",
-            "Weil MQTT ausschließlich im Offline-Modus arbeitet."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Welche QoS-Stufe garantiert bei MQTT die höchste Übertragungssicherheit?",
-          "antworten": [
-            "QoS 2 – Exactly once",
-            "QoS 1 – At least once",
-            "QoS 0 – At most once"
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
+        
+          {
+            "frage": "Was ist die zentrale Eigenschaft eines cyber-physischen Systems?",
+            "antworten": [
+              "Die Kombination aus IT, Software, Sensorik, Aktorik und physischen Komponenten",
+              "Der rein mechanische Aufbau eines Produktionssystems",
+              "Ein geschlossenes System ohne Netzwerkzugang"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum spielen Sensoren eine Schlüsselrolle in CPS?",
+            "antworten": [
+              "Sie erfassen physikalische Werte und wandeln sie in digitale Informationen um",
+              "Sie ersetzen externe Netzwerke",
+              "Sie dienen nur der Energieversorgung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was unterscheidet IIoT vom klassischen IoT?",
+            "antworten": [
+              "Der Fokus auf Industrie, robuste Kommunikation und hohe Zuverlässigkeit",
+              "Die Nutzung ausschließlich privater WLAN-Netze",
+              "Das Fehlen von Cloudunterstützung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist der Zweck offener Schnittstellen (API) in IoT-Systemen?",
+            "antworten": [
+              "Ermöglichen externe Softwareintegration und Datenzugriff",
+              "Sie dienen nur der Energieoptimierung",
+              "Sie verhindern den Zugriff auf Geräte vollständig"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Bedeutung hat der Rebound-Effekt bei CPS?",
+            "antworten": [
+              "Effizienzsteigerungen können durch verändertes Nutzerverhalten wieder aufgezehrt werden",
+              "Er beschreibt die Steigerung der Akkulaufzeit bei IoT-Geräten",
+              "Er bedeutet die Abschaltung der CPS nach einer Störung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Sicherheit ein kritischer Faktor bei IoT-Systemen?",
+            "antworten": [
+              "IoT-Geräte sind stark vernetzt und dadurch ein attraktives Angriffsziel",
+              "Die Systeme arbeiten immer isoliert",
+              "IoT-Geräte können nicht manipuliert werden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was beschreibt eine Smart Factory?",
+            "antworten": [
+              "Eine selbstorganisierende Produktion mit vernetzten CPS",
+              "Eine Produktionshalle ohne digitale Systeme",
+              "Ein Fertigungssystem ohne Datenerfassung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein CPPC?",
+            "antworten": [
+              "Ein CPS in Produktionsmaschinen oder Anlagen",
+              "Ein reines ERP-System",
+              "Ein mechanisches Fertigungssystem ohne Sensorik"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum steigt die Verbreitung von CPS stark an?",
+            "antworten": [
+              "Wegen steigender Rechenleistung und sinkender Hardwarekosten",
+              "Weil weniger Vernetzung benötigt wird",
+              "Weil Sensoren überflüssig geworden sind"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welcher Bereich ist ein typisches CPS-Anwendungsfeld?",
+            "antworten": [
+              "Automotive inklusive autonomer Systeme",
+              "Nur klassische Bürosoftware",
+              "Reine Mechanik ohne Datenverarbeitung"
+            ],
+            "richtige_antwort": 0
+          },
 
-        {
-          "frage": "Welche Herausforderung entsteht bei MQTT durch fehlende eingebaute Sicherheitsmechanismen?",
-          "antworten": [
-            "Es müssen zusätzliche Transport- und Anwendungsschichten (z. B. TLS, Benutzerrechte) implementiert werden, um sichere Kommunikation zu gewährleisten.",
-            "MQTT kann nur innerhalb verschlossener Räume betrieben werden.",
-            "MQTT erzwingt automatisch sichere Punkt-zu-Punkt-Verbindungen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT Sicherheit"
-        },
-        {
-          "frage": "Welche Aufgabe übernimmt der Broker im MQTT-System?",
-          "antworten": [
-            "Er empfängt Nachrichten von Publishern und verteilt sie an Abonnenten der jeweiligen Topics.",
-            "Er steuert ausschließlich den Energieverbrauch der Sensoren.",
-            "Er generiert automatisch digitale Zwillinge aller Geräte."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Warum gilt OPC UA als zentraler Standard für Industrie 4.0?",
-          "antworten": [
-            "Weil OPC UA sichere, skalierbare, herstellerunabhängige Kommunikation sowie semantische Modelle integriert.",
-            "Weil OPC UA nur für Consumer-Geräte entwickelt wurde.",
-            "Weil OPC UA jedes Gerät zwingt, proprietäre Schnittstellen zu nutzen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "OPC UA"
-        },
-        {
-          "frage": "Welche Stärke besitzt OPC UA gegenüber klassischen Feldbussen?",
-          "antworten": [
-            "Es kombiniert Datenmodellierung, Metadaten, Sicherheit und Transport in einer einheitlichen, serviceorientierten Architektur.",
-            "Es ermöglicht ausschließlich analoge Übertragungssignale.",
-            "Es benötigt keinerlei Konfiguration auf der Anwendungsebene."
-          ],
-          "richtige_antwort": 0,
-          "thema": "OPC UA"
-        },
-        {
-          "frage": "Warum sind semantische Datenmodelle für CPS unerlässlich?",
-          "antworten": [
-            "Weil Maschinen sonst zwar Daten austauschen, deren Bedeutung aber nicht interpretieren könnten.",
-            "Weil semantische Modelle die Hardwarekosten erhöhen sollen.",
-            "Weil semantische Modelle Echtzeitanforderungen verringern."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Semantik"
-        },
-        {
-          "frage": "Welche Herausforderung entsteht beim Zusammenführen mechatronischer und digitaler Teilmodelle?",
-          "antworten": [
-            "Es müssen heterogene Datenquellen synchronisiert, skaliert und auf identische Referenzmodelle abgebildet werden.",
-            "Die Modelle benötigen keine gemeinsame Datengrundlage.",
-            "Mechatronische Modelle können grundsätzlich nicht digitalisiert werden."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Modellierung"
-        },
-        {
-          "frage": "Welche Aufgabe hat die Struktur-Analyse im Rahmen einer FMEA?",
-          "antworten": [
-            "Sie zerlegt das System in funktionale Komponenten und legt die Grundlage für Funktions- und Fehleranalyse.",
-            "Sie berechnet die finanziellen Auswirkungen eines Fehlers.",
-            "Sie dient ausschließlich der Dokumentation des Projektzeitplans."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Wie wird die Risiko-Prioritätszahl (RPZ) berechnet?",
-          "antworten": [
-            "Durch Multiplikation von Bedeutung, Auftretenswahrscheinlichkeit und Entdeckungswahrscheinlichkeit.",
-            "Durch Addition aller gemeldeten Fehler pro Monat.",
-            "Durch Division des Zeitaufwandes durch die Materialkosten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Wann gilt laut FMEA eine Maßnahme als notwendig?",
-          "antworten": [
-            "Wenn RPZ zwischen 100 und 150 liegt oder einer der Einzelwerte (B, A, E) ≥ 8 ist.",
-            "Wenn die RPZ grundsätzlich unter 10 liegt.",
-            "Wenn keine Funktionsanalyse möglich ist."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Welche besondere Gefahr entsteht bei CPS durch erhöhte digitale Vernetzung?",
-          "antworten": [
-            "Neue Angriffsflächen für Cyber-Security-Bedrohungen und Manipulation physischer Prozesse.",
-            "Geringere Anforderungen an Zugangskontrollen.",
-            "Wegfall von sicherheitsrelevanten Prüfungen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IT Sicherheit"
-        },
-
-        {
-          "frage": "Welche Aufgabe hat ein Mobil Device Management im CPS-Umfeld?",
-          "antworten": [
-            "Geräteverwaltung, Richtlinienverteilung, Trennung privater und geschäftlicher Daten.",
-            "Steuerung der physischen Maschinenachsen.",
-            "Automatische Energierückgewinnung aus Sensoren."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MDM"
-        },
-        {
-          "frage": "Was beschreibt der VUCA-Begriff primär?",
-          "antworten": [
-            "Die volatilen, unsicheren, komplexen und mehrdeutigen Rahmenbedingungen moderner Projekte und Systeme.",
-            "Die Anforderungen einer festen, linearen Prozesskette.",
-            "Ein rein technisches Kriterium für Datenbanken."
-          ],
-          "richtige_antwort": 0,
-          "thema": "VUCA"
-        },
-        {
-          "frage": "Welche Aufgabe erfüllt Requirements Engineering bei der Erweiterung eines CPS?",
-          "antworten": [
-            "Systematische Ermittlung, Dokumentation und Verwaltung der Anforderungen an Hardware, Software und Schnittstellen.",
-            "Ausschließliche Kostenberechnung des Projekts.",
-            "Erstellung elektrotechnischer Schaltpläne ohne fachliche Analyse."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Requirements"
-        },
-        {
-          "frage": "Warum werden CPS-Prototypen erstellt?",
-          "antworten": [
-            "Um frühzeitig Funktionalität, Architektur und Nutzeranforderungen validieren zu können.",
-            "Um die endgültige Serienproduktion zu ersetzen.",
-            "Um ausschließlich Designästhetik zu bewerten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Prototyping"
-        },
-        {
-          "frage": "Welche Kernaufgabe übernimmt die Setup-Phase in der Arduino-IDE?",
-          "antworten": [
-            "Initialisierung von Variablen, Ein- und Ausgängen sowie Kommunikationskanälen beim Start.",
-            "Dauerhafte Ausführung des Hauptprogramms.",
-            "Automatische Fehlerkorrektur ohne Programmierung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Arduino"
-        },
-
-        {
-          "frage": "Welche Rolle spielt Node-RED im CPS-Kontext?",
-          "antworten": [
-            "Visuelle Modellierung von Datenflüssen und Ereignissen zur schnellen Umsetzung von IoT-Logik.",
-            "Es dient ausschließlich als Programmiersprache für SPS.",
-            "Es erzeugt automatisch physische CPS-Komponenten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Node-RED"
-        },
-        {
-          "frage": "Welche Aufgabe erfüllt ein MQTT-Broker wie Mosquitto?",
-          "antworten": [
-            "Er verwaltet Topics, verteilt Nachrichten und unterstützt Verbindungspersistenz.",
-            "Er erzeugt Echtzeit-Sicherheitskopien aller IoT-Geräte.",
-            "Er ersetzt die Netzwerkschicht durch Funkübertragung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Warum ist die Trennung privater und geschäftlicher Bereiche im CPS-Umfeld kritisch?",
-          "antworten": [
-            "Weil private Geräte sonst unkontrollierte Angriffsvektoren in industrielle Netzwerke einbringen können.",
-            "Weil dies gesetzlich immer verboten ist.",
-            "Weil sonst keine Daten mehr verarbeitet werden können."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IT Sicherheit"
-        },
-        {
-          "frage": "Welche Gefahr entsteht durch unzureichende Entdeckbarkeit in einer FMEA-Bewertung?",
-          "antworten": [
-            "Ein Fehler kann unbemerkt bleiben und im Feld gravierende Schäden verursachen.",
-            "Ein Fehler wird immer automatisch behoben.",
-            "Ein Fehler verliert dadurch an Bedeutung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Warum ist ein Inbetriebnahmeprotokoll unerlässlich?",
-          "antworten": [
-            "Es dokumentiert Funktion, Sicherheit, Parameter und Fehlerfreiheit des Systems.",
-            "Es ersetzt die technische Dokumentation des Herstellers.",
-            "Es macht weitere Tests überflüssig."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Inbetriebnahme"
-        },
-
-        {
-          "frage": "Welche Aufgabe hat die Funktionsanalyse in der FMEA?",
-          "antworten": [
-            "Sie beschreibt Soll-Funktionen aller Systemelemente und bildet die Basis für Fehlermodi.",
-            "Sie dokumentiert ausschließlich fertige Maßnahmen.",
-            "Sie berechnet Kosten und Laufzeit eines Projekts."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Warum sind offene Standards wie OPC UA für CPS-Interoperabilität essenziell?",
-          "antworten": [
-            "Weil nur dadurch heterogene Maschinen verständlich, sicher und skalierbar miteinander kommunizieren können.",
-            "Weil proprietäre Systeme grundsätzlich verboten sind.",
-            "Weil offene Standards keine Datenmodelle benötigen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "OPC UA"
-        },
-        {
-          "frage": "Welche Herausforderung stellt Energieeffizienz bei IoT-CPS dar?",
-          "antworten": [
-            "Sensoren müssen oft über lange Zeiträume autonom arbeiten und benötigen daher energiesparende Übertragungsmechanismen.",
-            "Energieeffizienz ist irrelevant, da alle Geräte permanent über Kabel versorgt werden.",
-            "CPS verbieten batteriebetriebene Einheiten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IoT Energie"
-        },
-        {
-          "frage": "Warum benötigt ein CPS eine klare Trennung von Energie-, Stoff- und Informationsflüssen?",
-          "antworten": [
-            "Nur so können physische Prozesse, Datenflüsse und Ressourcenverbrauch korrekt modelliert, analysiert und optimiert werden.",
-            "Weil diese Trennung gesetzlich vorgeschrieben ist.",
-            "Weil Informationsflüsse keine Rolle im Systemdesign spielen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Systemanalyse"
-        },
-        {
-          "frage": "Warum sind GPIO, UART, I2C und SPI für CPS relevant?",
-          "antworten": [
-            "Sie definieren typische elektrische Schnittstellen für Sensoren, Mikrocontroller und Aktoren.",
-            "Sie sind ausschließlich Softwareprotokolle ohne Hardwarebezug.",
-            "Sie ersetzen alle Netzwerkverbindungen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Schnittstellen"
-        },
-
-        {
-          "frage": "Welche Rolle spielt die Umgebungssimulation bei CPS-Optimierung?",
-          "antworten": [
-            "Sie ermöglicht das Testen von Fehlerszenarien ohne reale Anlagen zu gefährden.",
-            "Sie dient ausschließlich grafischen Visualisierungen.",
-            "Sie ersetzt jegliche Hardwaretests dauerhaft."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Simulation"
-        },
-        {
-          "frage": "Warum ist das Keep-Alive-Intervall bei MQTT relevant?",
-          "antworten": [
-            "Es verhindert unerkannte Verbindungsabbrüche und stellt Konsistenz sicher.",
-            "Es dient als Energiespeicher für Sensoren.",
-            "Es synchronisiert automatisch alle Topics."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Welchen Vorteil haben retained Messages in MQTT?",
-          "antworten": [
-            "Neue Clients erhalten sofort den letzten bekannten Wert eines Topics.",
-            "Sie reduzieren Netzwerklast in großen Systemen.",
-            "Sie ersetzen die Notwendigkeit einer Echtzeitverbindung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Welche besondere Herausforderung entsteht bei CPS durch physische Manipulationsrisiken?",
-          "antworten": [
-            "Ein Angreifer kann digitale Entscheidungen beeinflussen, indem er physische Sensorik oder Aktorik manipuliert.",
-            "Physische Manipulationen haben keine Auswirkungen auf digitale Systeme.",
-            "CPS sind grundsätzlich gegen physische Einwirkung immun."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Sicherheit"
-        },
-        {
-          "frage": "Warum ist Redundanzplanung wichtig für CPS?",
-          "antworten": [
-            "Weil Ausfälle einzelner Komponenten die Gesamtsystemfunktion gefährden können.",
-            "Weil redundante Systeme ausschließlich die Kosten senken.",
-            "Weil Redundanz Echtzeitfähigkeit überflüssig macht."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Redundanz"
-        },
-
-        {
-          "frage": "Welche Aufgabe hat die Lessons-Learned-Analyse im CPS-Projekt?",
-          "antworten": [
-            "Systematische Ableitung von Verbesserungen und Risikovermeidungsstrategien aus realen Erfahrungen.",
-            "Ausschließliche Archivierung abgeschlossener Projekte ohne Auswertung.",
-            "Erstellung von Werbematerial für das System."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Projektmanagement"
-        },
-        {
-          "frage": "Welche Gefahr entsteht in CPS durch unzureichende Datenvalidierung?",
-          "antworten": [
-            "Fehlerhafte Sensordaten können zu falschen Regelentscheidungen führen und physische Schäden auslösen.",
-            "Es entstehen ausschließlich kosmetische Anzeigeprobleme.",
-            "Validierung beeinflusst keine Steuermechanismen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Datenvalidierung"
-        },
-        {
-          "frage": "Warum erfordern CPS eine kontinuierliche Überwachung der Umgebungsparameter?",
-          "antworten": [
-            "Weil physische Zustände permanent Einfluss auf digitale Entscheidungen haben und instabile Umgebungen Sicherheitsrisiken erzeugen.",
-            "Weil Umgebungsparameter nur für Designzwecke relevant sind.",
-            "Weil CPS ausschließlich virtuelle Prozesse steuern."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Umweltüberwachung"
-        },
-        {
-          "frage": "Welche Gefahr entsteht durch zu hohe Temperatur im Serverraum eines CPS?",
-          "antworten": [
-            "Leistungseinbrüche, Hardwareausfall und Systeminstabilität.",
-            "Erhöhte Netzwerklatenz ohne Hardwareeffekte.",
-            "Fehlerhafte Interpretation aller OPC-UA-Nachrichten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Serverraum"
-        },
-        {
-          "frage": "Warum ist die Trennung von Rollen und Zugriffsleveln in CPS wichtig?",
-          "antworten": [
-            "Weil granulare Berechtigungen unbefugte Steuerungs- und Manipulationsaktionen verhindern.",
-            "Weil Rollenmodelle ausschließlich zur Dokumentation dienen.",
-            "Weil CPS sonst keine Daten mehr übertragen können."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Sicherheit"
-        },
-
-        {
-          "frage": "Welche Rolle spielt die Datenübertragungsrate bei IoT-Protokollen?",
-          "antworten": [
-            "Sie bestimmt, ob ein Protokoll für kleine Telemetriedaten oder hochfrequente Produktionsdaten geeignet ist.",
-            "Sie ist irrelevant, da alle Protokolle identische Bandbreiten haben.",
-            "Sie wird vom Sensorhersteller festgelegt und kann nicht beeinflusst werden."
-          ],
-          "richtige_antwort": 0,
-          "thema": "IoT"
-        },
-        {
-          "frage": "Warum eignen sich LPWAN-Protokolle für CPS mit geringer Datenrate?",
-          "antworten": [
-            "Sie ermöglichen große Reichweiten und extrem niedrigen Energieverbrauch.",
-            "Sie bieten höchste Bandbreiten für Kamerasysteme.",
-            "Sie erfordern zwingend Glasfaserverbindungen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "LPWAN"
-        },
-        {
-          "frage": "Warum ist die Unterscheidung zwischen Steuerung und Regelung für CPS wichtig?",
-          "antworten": [
-            "Weil Steuerung offene Wirkzusammenhänge beschreibt, während Regelung Rückkopplung über Messgrößen nutzt.",
-            "Weil beide Begriffe identisch sind.",
-            "Weil Regelkreise nur in Software existieren."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Regelungstechnik"
-        },
-        {
-          "frage": "Welche Rolle spielt die Echtzeitfähigkeit bei OPC UA?",
-          "antworten": [
-            "Sie wird über Time-Sensitive Networking (TSN) ermöglicht.",
-            "Sie ist bei OPC UA nicht vorgesehen und verboten.",
-            "Sie wird ausschließlich über WLAN gewährleistet."
-          ],
-          "richtige_antwort": 0,
-          "thema": "OPC UA"
-        },
-        {
-          "frage": "Warum ist die Analyse des IST-Zustands eines CPS vor Erweiterungen entscheidend?",
-          "antworten": [
-            "Weil nur durch vollständige Aufnahme von Komponenten, Schnittstellen und räumlichen Bedingungen geeignete Erweiterungen planbar sind.",
-            "Weil sie das Anfertigen eines Schaltplans ersetzt.",
-            "Weil sonst keine Anforderungen mehr dokumentiert werden müssen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Analyse"
-        },
-
-        {
-          "frage": "Welche Gefahr entsteht durch Wasserleckagen im Serverraum eines CPS?",
-          "antworten": [
-            "Kurzschlüsse, Datenverlust und Hardwareausfall.",
-            "Verzögerte OPC-UA-Adressierung.",
-            "Automatische Verbesserung der Kühlung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Serverraum"
-        },
-        {
-          "frage": "Warum müssen CPS-Schnittstellen eindeutig definiert sein?",
-          "antworten": [
-            "Weil nur so deterministische Datenflüsse und eindeutige Steuerbefehle gewährleistet werden.",
-            "Weil Schnittstellen ausschließlich dokumentatorische Bedeutung haben.",
-            "Weil unklare Schnittstellen physische Prozesse stabilisieren."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Schnittstellen"
-        },
-        {
-          "frage": "Welche Aufgabe erfüllt die Energiefluss-Analyse eines CPS?",
-          "antworten": [
-            "Sie identifiziert Energiebedarfe, Leistungsverluste und kritische Verbräuche zur Optimierung des Systems.",
-            "Sie stellt ausschließlich die Kabelfarben dar.",
-            "Sie ersetzt Risikobewertungen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Energie"
-        },
-        {
-          "frage": "Warum sind Stoffflüsse in CPS relevant?",
-          "antworten": [
-            "Weil bei Produktions- oder Umweltprozessen physische Materialien bewegt oder verändert werden, die digitale Entscheidungen beeinflussen.",
-            "Weil Stoffflüsse keine Auswirkung auf digitale Systeme haben.",
-            "Weil Stoffflüsse nur in chemischen Anlagen vorkommen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Systemanalyse"
-        },
-        {
-          "frage": "Welche Aufgabe hat eine Informationsflussanalyse im CPS?",
-          "antworten": [
-            "Darstellung aller Datenwege zur Identifikation von Engpässen, Prioritäten und Angriffspunkten.",
-            "Visualisierung der Raumtemperatur.",
-            "Erfassung aller Serverraumfarben."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Informationsfluss"
-        },
-
-        {
-          "frage": "Warum sind digitale Kommunikationsmodelle für CPS essenziell?",
-          "antworten": [
-            "Weil sie festlegen, wie Daten strukturiert, übertragen und interpretiert werden.",
-            "Weil Kommunikation ausschließlich optional ist.",
-            "Weil CPS ausschließlich offline arbeiten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Kommunikation"
-        },
-        {
-          "frage": "Welche strukturelle Funktion übernehmen Aktoren in CPS?",
-          "antworten": [
-            "Sie setzen digitale Steuerbefehle in physische Aktionen um.",
-            "Sie erzeugen digitale Datenmodelle.",
-            "Sie validieren Sensordaten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Aktorik"
-        },
-        {
-          "frage": "Warum sind Funkprotokolle wie ZigBee oder BLE für CPS bedeutsam?",
-          "antworten": [
-            "Sie ermöglichen dezentrale, energieeffiziente und meshfähige Kommunikation für Sensornetze.",
-            "Sie bieten höchste Bandbreiten für industrielle CNC-Maschinen.",
-            "Sie verhindern die Nutzung kabelgebundener Kommunikationsmittel."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Funk"
-        },
-        {
-          "frage": "Welche IoT-Protokolle eignen sich für große Reichweiten bei geringer Datenrate?",
-          "antworten": [
-            "LoRaWAN, NB-IoT, Sigfox",
-            "Bluetooth, NFC",
-            "HTTP, SMTP"
-          ],
-          "richtige_antwort": 0,
-          "thema": "LPWAN"
-        },
-        {
-          "frage": "Welche Aufgabe erfüllt die Qualifikation der Entdeckbarkeit in der FMEA?",
-          "antworten": [
-            "Sie bewertet, wie wahrscheinlich ein Fehler vor Erreichen des Kunden erkannt wird.",
-            "Sie bewertet nur Materialkosten.",
-            "Sie misst die Farbe von Prozessanzeigen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-
-        {
-          "frage": "Warum ist Standardisierung wichtig für CPS-Skalierbarkeit?",
-          "antworten": [
-            "Weil nur standardisierte Schnittstellen große Systeme sicher, interoperabel und erweiterbar machen.",
-            "Weil Standardisierung ausschließlich Formalität ist.",
-            "Weil Standardisierung die Vernetzung verhindert."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Standardisierung"
-        },
-        {
-          "frage": "Welche Risikoart betrifft insbesondere die Datensicherheit in CPS?",
-          "antworten": [
-            "Manipulation, Abhören, Spoofing und fehlende Zugriffskontrollen.",
-            "Verlust mechanischer Schmierstoffe.",
-            "Ungültige Kabelfarben."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Security"
-        },
-        {
-          "frage": "Warum ist die Analyse von Ausfallrisiken zentral beim CPS-Design?",
-          "antworten": [
-            "Weil Ausfälle sowohl digitale Prozesse als auch physische Produktionssysteme gefährden können.",
-            "Weil CPS bei Ausfällen automatisch reparieren.",
-            "Weil Ausfälle keine wirtschaftliche Relevanz haben."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Risiko"
-        },
-        {
-          "frage": "Welche Bedeutung hat das Last Will Testament im MQTT-Protokoll?",
-          "antworten": [
-            "Es informiert im Ausfall eines Clients automatisch andere Teilnehmer über einen definierten Status.",
-            "Es steuert die grafische Darstellung der Topics.",
-            "Es definiert Speicherorte für historische Nachrichten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-        {
-          "frage": "Welche Kernfunktion erfüllt das Publisher-Subscriber-Prinzip von MQTT?",
-          "antworten": [
-            "Entkopplung von Sendern und Empfängern durch Themenkanäle.",
-            "Erzwingung direkter Punkt-zu-Punkt-Kommunikation.",
-            "Bindung jedes Clients an genau einen Empfänger."
-          ],
-          "richtige_antwort": 0,
-          "thema": "MQTT"
-        },
-
-        {
-          "frage": "Warum sind Sicherheitskonzepte Bestandteil der CPS-Inbetriebnahme?",
-          "antworten": [
-            "Weil Systeme nur sicher sind, wenn Verschlüsselung, Zugangskontrolle und Netzwerkprüfung bereits beim Start berücksichtigt werden.",
-            "Weil Sicherheit ausschließlich nach Inbetriebnahme relevant ist.",
-            "Weil CPS ohne Sicherheit schneller arbeiten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Inbetriebnahme"
-        },
-        {
-          "frage": "Welche Aufgabe hat Time-Sensitive Networking im Kontext industrieller Kommunikation?",
-          "antworten": [
-            "Es bietet deterministische Übertragungszeiten und Echtzeitfähigkeit für zeitkritische CPS.",
-            "Es verhindert deterministische Netzwerke.",
-            "Es optimiert ausschließlich WLAN-Reichweiten."
-          ],
-          "richtige_antwort": 0,
-          "thema": "TSN"
-        },
-        {
-          "frage": "Warum sind Cloud-Anbindungen in CPS ein potentielles Sicherheitsrisiko?",
-          "antworten": [
-            "Weil Angriffe über das Internet direkten Zugriff auf physische Prozesse ermöglichen können.",
-            "Weil Cloud-Verbindungen ausschließlich lokal bleiben.",
-            "Weil Cloud-Systeme Echtzeitfähigkeit ersetzen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Cloud Security"
-        },
-        {
-          "frage": "Welche Herausforderung besteht bei der Datenübertragung über Bluetooth Low Energy?",
-          "antworten": [
-            "Begrenzte Reichweite und geringe Datenrate können zeitkritische CPS-Prozesse beeinträchtigen.",
-            "BLE verursacht extrem hohe Energiekosten.",
-            "BLE verhindert automatische Verbindungstrennung."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Bluetooth"
-        },
-        {
-          "frage": "Warum müssen CPS vollständig protokolliert werden?",
-          "antworten": [
-            "Weil Protokolle die Grundlage für Diagnose, Audit, Rückverfolgbarkeit und Optimierung darstellen.",
-            "Weil Protokolle nur aus gesetzlichen Gründen existieren.",
-            "Weil Protokolle die Prozessgeschwindigkeit erhöhen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Dokumentation"
-        },
-
-        {
-          "frage": "Welche Aufgabe hat die Bewertung der Auftretenswahrscheinlichkeit in der FMEA?",
-          "antworten": [
-            "Abschätzung, wie wahrscheinlich ein potenzieller Fehler im Betrieb auftreten wird.",
-            "Ermittlung der Reparaturkosten.",
-            "Identifikation der Farbe von Fehlersignalen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Warum ist Security as a Service ein wichtiges Konzept für CPS?",
-          "antworten": [
-            "Weil dynamische Sicherheitsdienste zentrale und skalierbare Schutzmechanismen für vernetzte Systeme bereitstellen.",
-            "Weil Sicherheit ausschließlich lokal lösbar ist.",
-            "Weil CPS keine Sicherheitsupdates benötigen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Security"
-        },
-        {
-          "frage": "Welche Bedeutung hat die Teamzusammensetzung in der FMEA?",
-          "antworten": [
-            "Ein interdisziplinäres Team sammelt verschiedene Perspektiven und verbessert die Identifikation kritischer Fehlermodi.",
-            "Ein Team ist optional und die Analyse erfolgt nur durch eine Person.",
-            "Teamgröße bestimmt die RPZ direkt."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA Team"
-        },
-        {
-          "frage": "Welche Gefahr entsteht bei CPS durch ungesicherte WLAN-Verbindungen?",
-          "antworten": [
-            "Angreifer können unbefugt Steuerbefehle injizieren oder Daten abgreifen.",
-            "WLAN-Verbindungen sind grundsätzlich abhörsicher.",
-            "WLAN verhindert jegliche Angriffe."
-          ],
-          "richtige_antwort": 0,
-          "thema": "WLAN Security"
-        },
-        {
-          "frage": "Welche Rolle spielt die Funktionshierarchie bei der CPS-Modellierung?",
-          "antworten": [
-            "Sie ordnet Funktionen strukturiert und zeigt Abhängigkeiten zwischen Systemteilen auf.",
-            "Sie dient ausschließlich der grafischen Gestaltung.",
-            "Sie ersetzt die Funktionsanalyse."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Modellierung"
-        },
-
-        {
-          "frage": "Warum ist die Bewertung der Fehlerbedeutung in der FMEA entscheidend?",
-          "antworten": [
-            "Weil sie beschreibt, wie schwer die Auswirkungen für den Kunden oder das System im Fehlerfall wären.",
-            "Weil sie ausschließlich Produktionskosten beschreibt.",
-            "Weil sie automatisch die Entdeckbarkeit ersetzt."
-          ],
-          "richtige_antwort": 0,
-          "thema": "FMEA"
-        },
-        {
-          "frage": "Welche Herausforderung entsteht bei CPS durch hohe Komplexität?",
-          "antworten": [
-            "Mehr Interdependenzen führen zu schwer vorhersehbaren Zuständen und höheren Risiken.",
-            "Komplexität reduziert die Fehlerwahrscheinlichkeit automatisch.",
-            "Komplexität verhindert Echtzeitkommunikation grundsätzlich."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Komplexität"
-        },
-        {
-          "frage": "Warum ist Validierung bei CPS-Messwerten zwingend notwendig?",
-          "antworten": [
-            "Weil verrauschte oder fehlerhafte Sensordaten falsche Regelentscheidungen verursachen können.",
-            "Weil Validierung nur Marketingzwecken dient.",
-            "Weil Sensoren niemals fehlerhafte Daten liefern."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Datenvalidierung"
-        },
-        {
-          "frage": "Welche Herausforderung besteht bei drahtloser Kommunikation im CPS-Kontext?",
-          "antworten": [
-            "Störungen, Interferenzen und variable Latenzen können kritische Prozesse beeinflussen.",
-            "Drahtlose Kommunikation ist immer vollständig deterministisch.",
-            "Drahtlose Protokolle ersetzen alle Sicherheitsmaßnahmen."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Funk"
-        },
-        {
-          "frage": "Welche Rolle spielt Skalierbarkeit für CPS-Architekturen?",
-          "antworten": [
-            "Sie ermöglicht die Erweiterung eines Systems ohne gravierende Veränderungen an der Infrastruktur.",
-            "Sie ist nur für grafische Benutzeroberflächen relevant.",
-            "Skalierbarkeit wird durch Standardisierung verhindert."
-          ],
-          "richtige_antwort": 0,
-          "thema": "Architektur"
-        }
-      ],
-     "LF08V2 Daten Systemübergreifend bereitstellen":[
+          {
+            "frage": "Was macht MQTT besonders geeignet für IoT-Geräte?",
+            "antworten": [
+              "Sehr leichtgewichtiges Publisher-Subscriber-Protokoll",
+              "Es benötigt zwingend Glasfaserverbindungen",
+              "Es ist ausschließlich für Großrechenzentren entwickelt worden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Wofür steht QoS bei MQTT?",
+            "antworten": [
+              "Quality of Service – Zuverlässigkeitsstufe der Nachrichtenübertragung",
+              "Quality of Sensor – Genauigkeit der Sensoren",
+              "Queue of Signals – Warteschlange von Elektrosignalen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum besitzt MQTT keinen integrierten Sicherheitsmechanismus?",
+            "antworten": [
+              "Weil es extrem leicht gehalten ist und externe Verschlüsselung vorgesehen ist",
+              "Weil Sicherheit im IoT nicht benötigt wird",
+              "Weil MQTT nicht über Netzwerke kommuniziert"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Wofür wird OPC UA hauptsächlich verwendet?",
+            "antworten": [
+              "Herstellerunabhängige Machine-to-Machine-Kommunikation",
+              "Reine Multimedia-Übertragung im Haushalt",
+              "Dateitransfer zwischen Smartphones"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist OPC UA für Industrie 4.0 wichtig?",
+            "antworten": [
+              "Es erfüllt zentrale Anforderungen wie Sicherheit, Skalierbarkeit und Herstellerunabhängigkeit",
+              "Es wurde speziell nur für Smart Homes entwickelt",
+              "Es verzichtet bewusst auf Sicherheitsmechanismen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche IoT-Funktechnologie ist für sehr große Reichweiten und geringen Energieverbrauch bekannt?",
+            "antworten": [
+              "LoRaWAN",
+              "Bluetooth Classic",
+              "NFC"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum gibt es keinen einheitlichen IoT-Standard?",
+            "antworten": [
+              "Weil viele Hersteller eigene Plattformen entwickelt haben",
+              "Weil das IoT keine Standards benötigt",
+              "Weil Funktechnologien nicht einsetzbar sind"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welchen Vorteil bietet das Publish-Subscribe-Modell?",
+            "antworten": [
+              "Viele Clients können dieselbe Nachricht effizient empfangen",
+              "Nachrichten können nur sequential verarbeitet werden",
+              "Es ist ausschließlich für Offline-Systeme geeignet"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Technologie wird häufig als MQTT-Broker genutzt?",
+            "antworten": [
+              "Mosquitto",
+              "Active Directory",
+              "DHCP-Server"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Rolle spielt die Datenrate in IoT-Projekten?",
+            "antworten": [
+              "Sie bestimmt, welche Protokolle technisch geeignet sind",
+              "Sie beeinflusst ausschließlich mechanische Kräfte",
+              "Sie ist nur bei kabelgebundenen Verbindungen wichtig"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist eine IST-SOLL-Analyse bei CPS-Erweiterung wichtig?",
+            "antworten": [
+              "Sie ermöglicht das Erkennen fehlender Komponenten und Anforderungen",
+              "Sie dient nur zur Kostenkalkulation",
+              "Sie verhindert die Nutzung externer Sensoren"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Gefahr ist im Serverraum besonders relevant?",
+            "antworten": [
+              "Überhitzung durch unzureichende Kühlung",
+              "Zu viele Fenster",
+              "Mangel an USB-Anschlüssen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Flüsse werden bei der CPS-Analyse betrachtet?",
+            "antworten": [
+              "Energie-, Stoff- und Informationsfluss",
+              "Nur Informationsfluss",
+              "Nur Energiefluss"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Datenflussanalyse bei CPS entscheidend?",
+            "antworten": [
+              "Sie zeigt, wie Sensoren, Controller und Aktoren zusammenarbeiten",
+              "Sie ist optional und ohne Einfluss auf die Funktion",
+              "Sie dient nur der grafischen Darstellung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was bedeutet eine hohe Luftfeuchtigkeit im Serverraum?",
+            "antworten": [
+              "Gefahr von Kondensation und Kurzschlüssen",
+              "Mehr Energieeffizienz",
+              "Verbesserte Netzwerkleistung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum sind CPS-spezifische Schnittstellen kritisch?",
+            "antworten": [
+              "Weil sie den Austausch zwischen physischer und digitaler Welt ermöglichen",
+              "Weil sie mechanische Teile überflüssig machen",
+              "Weil sie nur für Unterhaltungselektronik gedacht sind"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Rolle spielt CO₂-Messung im CPS-Beispiel der Raumluftqualität?",
+            "antworten": [
+              "Sie liefert entscheidende Sensordaten zur Raumluftsteuerung",
+              "Sie ist eine optionale Zusatzinformation",
+              "Sie ersetzt Temperaturmessung vollständig"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum müssen CPS-Datenflüsse dokumentiert werden?",
+            "antworten": [
+              "Um Abhängigkeiten, Risiken und Optimierungsmöglichkeiten sichtbar zu machen",
+              "Um die Sensoren zu deaktivieren",
+              "Um Aktoren zu ersetzen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Wozu dient die Bestandsaufnahme eines CPS?",
+            "antworten": [
+              "Zum Erfassen aller vorhandenen technischen Komponenten",
+              "Zur Vorbereitung von Schulungen",
+              "Zur Kostensenkung durch Teilereduzierung"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Gefahr wird häufig unterschätzt?",
+            "antworten": [
+              "Wasserleckagen",
+              "Bildschirmhelligkeit",
+              "Zu viele Tasten an Geräten"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist das Ziel von Requirements Engineering?",
+            "antworten": [
+              "Systematische Erfassung und Verwaltung von Anforderungen",
+              "Automatische Fehlerkorrektur",
+              "Grafische Visualisierung ohne Analyse"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was bedeutet VUCA in der Projektplanung?",
+            "antworten": [
+              "Volatility, Uncertainty, Complexity, Ambiguity",
+              "Virtual, User-Controlled Automation",
+              "Variable Unified CPS Architecture"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Stakeholderanalyse wichtig?",
+            "antworten": [
+              "Sie identifiziert alle Beteiligten und deren Anforderungen",
+              "Sie dient nur zur Preiskalkulation",
+              "Sie reduziert notwendige Kommunikationswege"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein wesentliches Ziel von DevOps?",
+            "antworten": [
+              "Schnellere Bereitstellung hochwertiger Software und Systeme",
+              "Ausschaltung aller Testprozesse",
+              "Reine Fokussierung auf Hardware"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum fördern DevOps-Feedbackschleifen die Qualität?",
+            "antworten": [
+              "Weil Fehler frühzeitig erkannt und behoben werden",
+              "Weil dadurch Code automatisch kompiliert wird",
+              "Weil Meetings reduziert werden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Phase gehört zu DevOps?",
+            "antworten": [
+              "Build",
+              "Store",
+              "Encrypt"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein zentrales Merkmal agiler CPS-Projektarbeit?",
+            "antworten": [
+              "Iterative Schritte mit kontinuierlicher Anpassung",
+              "Einmalige Planung ohne Änderungen",
+              "Feste Rollen ohne Kommunikation"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum sind Akzeptanzkriterien entscheidend?",
+            "antworten": [
+              "Sie definieren, wann eine Anforderung erfüllt ist",
+              "Sie ersetzen Tests vollständig",
+              "Sie verhindern Anpassungen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Rolle spielt das Lastenheft?",
+            "antworten": [
+              "Enthält Anforderungen aus Auftraggebersicht",
+              "Dokumentiert nur interne Prozesse",
+              "Enthält ausschließlich technische Zeichnungen"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein Vorteil von DevOps-Automation?",
+            "antworten": [
+              "Erhöhung der Effizienz durch automatisierte Builds, Tests und Deployments",
+              "Reduktion der Teamgröße",
+              "Wegfall der Dokumentation"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein Prototyp im CPS-Kontext?",
+            "antworten": [
+              "Ein vereinfachtes, funktionsfähiges Modell zur Früherkennung von Problemen",
+              "Eine vollständige Serienmaschine",
+              "Eine grafische Simulation ohne reale Hardware"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist die Inbetriebnahme elektrotechnisch kritisch?",
+            "antworten": [
+              "Weil Sicherheits- und Funktionsprüfung verpflichtend ist",
+              "Weil nur Software getestet werden muss",
+              "Weil keine Netzwerke benötigt werden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Struktur besitzt ein Arduino-Sketch?",
+            "antworten": [
+              "Deklarationen, setup(), loop()",
+              "init(), repeat()",
+              "start(), while()"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Funktion hat ein MQTT-Broker?",
+            "antworten": [
+              "Verteilt Nachrichten zwischen Publishern und Subscribern",
+              "Erzeugt elektrische Signale für Sensoren",
+              "Steuert mechanische Aktoren direkt"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welches Tool ermöglicht grafische Workflows im IoT?",
+            "antworten": [
+              "Node-RED",
+              "git merge",
+              "VirtualBox"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum müssen CPS-Daten validiert werden?",
+            "antworten": [
+              "Um Zuverlässigkeit und Korrektheit sicherzustellen",
+              "Um Sensoren automatisch zu kalibrieren",
+              "Um Aktoren zu deaktivieren"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was stellt ein Inbetriebnahmeprotokoll sicher?",
+            "antworten": [
+              "Dokumentation, dass das System sicher und funktional arbeitet",
+              "Dass alle Geräte energiesparend arbeiten",
+              "Dass keine Cloudverbindung benötigt wird"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Programmierung bei CPS essenziell?",
+            "antworten": [
+              "Steuerlogik, Datenerfassung und Übertragung hängen davon ab",
+              "Nur um LEDs zu steuern",
+              "Damit mechanische Teile ersetzt werden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum darf nur Fachpersonal sicherheitsrelevante Systeme einrichten?",
+            "antworten": [
+              "Weil Fehlkonfigurationen lebensgefährlich sein können",
+              "Weil die Systeme sonst langsamer laufen",
+              "Weil Software sonst nicht startet"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Welche Rolle spielt die Verschlüsselung bei CPS-Inbetriebnahme?",
+            "antworten": [
+              "Schützt Daten vor unbefugtem Zugriff",
+              "Reduziert Stromverbrauch",
+              "Erhöht die Temperatur"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist das Hauptziel der Optimierung eines CPS?",
+            "antworten": [
+              "Systemausfälle und Risiken zu minimieren",
+              "Die Anzahl der Sensoren zu erhöhen",
+              "Die mechanischen Teile zu erweitern"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum steigt bei CPS das Gefahrenpotenzial?",
+            "antworten": [
+              "Durch die starke Vernetzung und komplexen Abhängigkeiten",
+              "Weil weniger Sensorik eingesetzt wird",
+              "Weil Maschinen offline betrieben werden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was beschreibt die FMEA?",
+            "antworten": [
+              "Systematische Analyse möglicher Fehler und deren Auswirkungen",
+              "Automatische Fehlerkorrektur",
+              "Datenanalyse von Nutzerverhalten"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Wie setzt sich die RPZ zusammen?",
+            "antworten": [
+              "Bedeutung × Auftreten × Entdeckung",
+              "Risiko × Prozess × Zeit",
+              "Bewertung × Planung × Zeit"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Wann muss ein Risiko dringend optimiert werden?",
+            "antworten": [
+              "Bei RPZ-Werten über 100–150 oder Einzelfaktoren ≥ 8",
+              "Bei RPZ unter 5",
+              "Nur wenn der Kunde es wünscht"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was ist ein wichtiger Schritt der FMEA?",
+            "antworten": [
+              "Strukturanalyse",
+              "Wärmemessung",
+              "Marketinganalyse"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Mitarbeiter-Sensibilisierung ein Sicherheitsfaktor?",
+            "antworten": [
+              "Weil menschliches Fehlverhalten große Risiken erzeugt",
+              "Weil Maschinen ohne Schulung nicht starten",
+              "Weil Sensoren sonst keine Daten senden"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Was bedeutet „Security as a Service“?",
+            "antworten": [
+              "Auslagerung von Sicherheitsdiensten an spezialisierte Anbieter",
+              "Statische Firewalls im lokalen Netz",
+              "Ein reiner Anti-Viren-Scanner"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum steigert Rollen- und Rechtemanagement die Sicherheit?",
+            "antworten": [
+              "Weil nur befugte Personen kritische Bereiche nutzen dürfen",
+              "Weil dadurch Sensoren schneller funktionieren",
+              "Weil es Bandbreite erhöht"
+            ],
+            "richtige_antwort": 0
+          },
+          {
+            "frage": "Warum ist Reduktion von Komplexität ein Optimierungsziel?",
+            "antworten": [
+              "Weniger Komplexität → weniger Angriffsfläche & weniger Fehler",
+              "Es macht Systeme automatisch schneller",
+              "Es ersetzt die Notwendigkeit von Firewalls"
+            ],
+            "richtige_antwort": 0
+          }
+        ],
+    "LF08V2 Daten Systemübergreifend bereitstellen":[
            {
     "frage": "Welcher Python-Befehl fügt genau ein Dokument in MongoDB ein?",
     "antworten": ["insert_one()", "insert()", "save()"],
@@ -3124,112 +2853,11 @@
     "frage": "Was ist ein Interface?",
     "antworten": ["Ein Vertrag für Methoden ohne Implementierung", "Eine konkrete Klasse", "Ein Objekt"],
     "richtige_antwort": 0
-  },
-       {
-    "frage": "Was wird bei int km=52; km+=48; ausgegeben?",
-    "antworten": ["100", "52", "48"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Welche Ausgabe entsteht bei if(a==10 && b<=c) mit a=10,b=6,c=5?",
-    "antworten": ["Keine Ausgabe", "Bedingung ist wahr", "Compiler-Fehler"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Java unterscheidet Groß- und Kleinschreibung?",
-    "antworten": ["Ja", "Nein", "Nur bei Klassen"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Wodurch wird eine Java-Anweisung beendet?",
-    "antworten": ["Semikolon", "Zeilenumbruch", "Klammer"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was stellt eine UML-Verbindung mit ausgefüllter Raute dar?",
-    "antworten": ["Komposition", "Aggregation", "Vererbung"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was bedeutet 'extends' in Java?",
-    "antworten": ["Vererbung von einer Basisklasse", "Implementierung eines Interfaces", "Überladung"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Ist 'private int anzahlAchsen;' ein Objektattribut?",
-    "antworten": ["Ja", "Nein", "Nur bei static"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Ist 'private static int LkwBestandsNr' ein Klassenattribut?",
-    "antworten": ["Ja", "Nein", "Nur im Konstruktor"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was ist 'public Lkw(int leistung, int achsen)'?",
-    "antworten": ["Ein Konstruktor", "Eine Methode mit Rückgabewert", "Ein Attribut"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was bewirkt super(leistung) im Konstruktor?",
-    "antworten": ["Ruft den Konstruktor der Basisklasse auf", "Initialisiert ein Attribut", "Überschreibt eine Methode"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Welche SQL-Klausel sortiert ein Ergebnis?",
-    "antworten": ["ORDER BY", "GROUP BY", "SORT"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Mit welchem Schlüsselwort beginnt eine SQL-Abfrage?",
-    "antworten": ["SELECT", "GET", "READ"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was ist die korrekte Reihenfolge einer SQL-Abfrage?",
-    "antworten": ["SELECT FROM WHERE GROUP BY HAVING ORDER BY LIMIT", "SELECT WHERE FROM ORDER BY", "FROM SELECT WHERE"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Welche Aussage zur zweiten Normalform ist korrekt?",
-    "antworten": ["Alle Nichtschlüsselattribute hängen vollständig vom Primärschlüssel ab", "Alle Attribute sind unabhängig", "Es gibt nur eine Tabelle"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Muss eine Relation in 1NF sein, um in 2NF zu sein?",
-    "antworten": ["Ja", "Nein", "Nur bei Fremdschlüsseln"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Löscht DELETE die komplette Tabellenstruktur?",
-    "antworten": ["Nein", "Ja", "Nur mit WHERE"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Werden White-Box-Tests anhand des Quellcodes erstellt?",
-    "antworten": ["Ja", "Nein", "Nur anhand der Spezifikation"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Können Testdatengeneratoren Daten aus dem Quellcode ableiten?",
-    "antworten": ["Ja", "Nein", "Nur manuell"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Können Testdaten für NoSQL-Datenbanken erzeugt werden?",
-    "antworten": ["Ja", "Nein", "Nur für SQL"],
-    "richtige_antwort": 0
-  },
-  {
-    "frage": "Was ist eine korrekte Python-Setter-Methode?",
-    "antworten": ["def set_umsatz(self,value): self.__umsatz=value", "def set_umsatz(value): __umsatz=value", "def get_umsatz(self): return self.__umsatz"],
-    "richtige_antwort": 0
   }
 
-        ],
+  ],
     "LF09V2 Netzwerke und Dienste bereitstellen":[
-
-  {
+     {
     "frage": "Was bedeutet die Abkürzung STP in der Netzwerktechnik?",
     "antworten": [
       "Spanning Tree Protocol",
@@ -3391,7 +3019,6 @@
     ],
     "richtige_antwort": 0
   },
-      
     
   {
     "frage": "Welches Dokument beschreibt die Anforderungen aus Sicht des Auftraggebers (Was und Wofür)?",
@@ -3760,11 +3387,7 @@
         "antworten": ["nslookup", "tracert", "net view"],
         "richtige_antwort": 0
       },
-      {
-        "frage": "Was prüft man durch einen Ping auf das Default Gateway?",
-        "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
-        "richtige_antwort": 0
-      }, {
+       {
     "frage": "Wie nennt man die Protocol Data Unit (PDU) auf Schicht 4 (Transport Layer), wenn TCP verwendet wird?",
     "antworten": ["Segment", "Bit", "Frame", "Packet"],
     "richtige_antwort": 0
@@ -3824,8 +3447,14 @@
     "antworten": ["Discover, Offer, Request, Acknowledge", "Detection, Order, Release, Access", "Discover, Order, Request, Access", "Direct, Offer, Request, Answer"],
     "richtige_antwort": 0
   },
-       {
-    "frage": "Welche Eigenschaften hat ein WLAN?\nAb hier LZK Fragen!",
+      {
+        "frage": "Was prüft man durch einen Ping auf das Default Gateway??\nAb hier LZK Fragen!",
+        "antworten": ["Zugriff auf das interne Netzwerk", "Die Internetverbindung", "Die korrekte Verkabelung zum Webserver"],
+        "richtige_antwort": 0
+      },
+   
+      {
+    "frage": "Welche Eigenschaften hat ein WLAN?",
     "antworten": [
       "Es ist eine kabellose Netzwerkverbindung und kann verschlüsselt werden",
       "Es funktioniert nur innerhalb von Gebäuden",
@@ -4094,7 +3723,722 @@
     ],
     "richtige_antwort": 0
   }
-    ]
+],
+
+"LF10aV2 Benutzerschnittstellen gestalten und entwickeln":[
+  {
+    "frage": "Was stellt die Benutzerschnittstelle laut Definition her?",
+    "antworten": [
+      "Die Verbindung zwischen Anwender und System",
+      "Eine interne Hardwareverbindung",
+      "Eine reine Softwarefunktion"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Systeme können Benutzerschnittstellen besitzen?",
+    "antworten": [
+      "Software-Systeme, Computer, Maschinen, Anlagen und Haushaltsgeräte",
+      "Nur Computerprogramme",
+      "Ausschließlich Großrechner"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet der Begriff Schnittstelle im Kontext dieser Einheit?",
+    "antworten": [
+      "Ein Verbindungspunkt zwischen Mensch und Maschine",
+      "Ein USB-Port",
+      "Ein Netzwerkkabel"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für eine Schnittstelle zwischen Software-Systemen?",
+    "antworten": [
+      "Application Programming Interface (API)",
+      "Druckeranschluss",
+      "Tastatur"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Benutzerschnittstellen grundsätzlich?",
+    "antworten": [
+      "Interaktion mit Systemen",
+      "Automatische Selbststeuerung",
+      "Stromversorgung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Womit arbeiten Benutzerschnittstellen?",
+    "antworten": [
+      "Mit Eingabe- und Ausgabegeräten",
+      "Nur mit Speichermedien",
+      "Nur mit Prozessoren"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Eingabegeräte?",
+    "antworten": [
+      "Kommunikation vom Menschen zum System",
+      "Kommunikation vom System zum Menschen",
+      "Datensicherung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen Ausgabegeräte?",
+    "antworten": [
+      "Kommunikation vom System zum Menschen",
+      "Kommunikation vom Menschen zum System",
+      "Programmierung des Systems"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bleibt auch bei Touchscreens getrennt?",
+    "antworten": [
+      "Die Prozesse von Eingabe und Ausgabe",
+      "Die Hardwarekomponenten",
+      "Die Stromversorgung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nennen Sie ein Beispiel für ein Eingabegerät laut PDF.",
+    "antworten": [
+      "Computermäuse",
+      "Drucker",
+      "Lautsprecher"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nennen Sie ein Beispiel für ein Ausgabegerät laut PDF.",
+    "antworten": [
+      "Lautsprecher",
+      "Sensor",
+      "Schalter"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sind User Interfaces im Sinne des PDFs?",
+    "antworten": [
+      "Modular und häufig miteinander kombiniert",
+      "Immer isoliert voneinander",
+      "Ausschließlich softwarebasiert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet einfache Systeme ohne Ausgabe?",
+    "antworten": [
+      "Es muss nicht zwischen vielen Zuständen unterschieden werden",
+      "Sie besitzen keine Eingabe",
+      "Sie sind immer digital"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Nach welchen Eigenschaften können Benutzerschnittstellen unterschieden werden?",
+    "antworten": [
+      "Nach Ein- und Ausgabemethode, angesprochenen Sinnen, technischer Spezifikation und Zweck",
+      "Nur nach der Hardware",
+      "Nur nach der Programmiersprache"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Hardware User Interface?",
+    "antworten": [
+      "Physische Objekte, die manuell bedient werden müssen",
+      "Eine Sprachsteuerung",
+      "Ein Menüsystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Batch Interface?",
+    "antworten": [
+      "Eingabe über Lochkarten und Ausgabe auf Papier",
+      "Sprachinteraktion",
+      "Touchscreen-Bedienung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der häufigste Vertreter einer Text-based User Interface?",
+    "antworten": [
+      "Command Line Interface",
+      "Virtual Reality Interface",
+      "Brain-Computer Interface"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Menu-driven User Interface?",
+    "antworten": [
+      "Präsentation über Menüs und Submenüs",
+      "Gedankensteuerung",
+      "Lochkartensteuerung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist typisch für eine Graphical User Interface?",
+    "antworten": [
+      "Grafische Darstellung mit vielseitigen Möglichkeiten",
+      "Nur Textdarstellung",
+      "Keine Eingabemöglichkeiten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet eine Conversational User Interface?",
+    "antworten": [
+      "Interaktion in menschlicher Sprache",
+      "Ausschließlich visuelle Darstellung",
+      "Nur mechanische Steuerung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Ziel einer Virtual Reality User Interface?",
+    "antworten": [
+      "Eintauchen in eine andere Realität",
+      "Textbasierte Navigation",
+      "Papierausdrucke erzeugen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine Brain-Computer User Interface?",
+    "antworten": [
+      "Direkte Verbindung zwischen menschlichem Gehirn und Computer",
+      "Menügesteuerte Oberfläche",
+      "Grafisches Betriebssystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet der Begriff 'Qualität' ursprünglich aus dem Lateinischen übersetzt?",
+    "antworten": [
+      "Beschaffenheit",
+      "Fehlerfreiheit",
+      "Hochwertigkeit"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Woraus ergibt sich laut PDF die Qualität eines Softwareprodukts?",
+    "antworten": [
+      "Aus der Frage, ob und inwiefern Anforderungen erfolgreich umgesetzt wurden",
+      "Allein aus der Anzahl der fehlerfreien Codezeilen",
+      "Aus der Bekanntheit des Entwicklerteams"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die Basis für die 'Funktionale Vollständigkeit'?",
+    "antworten": [
+      "Die Anforderungsspezifikation (Lastenheft)",
+      "Das Budget des Projekts",
+      "Die Hardware des Endbenutzers"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt die 'Funktionale Korrektheit'?",
+    "antworten": [
+      "Den Grad, zu dem ein System richtige Ergebnisse mit der erforderlichen Genauigkeit liefert",
+      "Dass das Programm auf jedem beliebigen Browser läuft",
+      "Dass der Quellcode für andere Programmierer gut lesbar ist"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft gehört zur 'Gebrauchstauglichkeit' (Usability)?",
+    "antworten": [
+      "Funktionalitäten sind klar erkennbar und auffindbar",
+      "Die Software ist durch Passwörter geschützt",
+      "Der Quellcode ist modular aufgebaut"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Kernaspekt der 'Sicherheit' (Security) laut ISO 25010?",
+    "antworten": [
+      "Schutz gegen nicht-autorisierte Zugriffe und Manipulationen",
+      "Das Verhindern von Programmabstürzen bei falscher Eingabe",
+      "Die schnelle Installation der Software"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Zuverlässigkeit' (Reliability)?",
+    "antworten": [
+      "Das System führt spezifizierte Funktionen unter festgelegten Bedingungen über eine Zeitspanne aus",
+      "Die Software kann leicht auf ein anderes Betriebssystem übertragen werden",
+      "Die Benutzeroberfläche sieht auf allen Geräten gleich aus"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'Effizienz' im Kontext der Performanz?",
+    "antworten": [
+      "Optimierter zeitlicher Ablauf und geringe Ressourcenbelastung",
+      "Möglichst viele Funktionen in einem Menü unterzubringen",
+      "Dass zwei Programmierer gleichzeitig am selben Code arbeiten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für 'Portierbarkeit'?",
+    "antworten": [
+      "Ein Webinterface läuft auf allen gängigen Browsern",
+      "Die Software tauscht Daten per CSV oder JSON aus",
+      "Der Code wird automatisch auf Syntaxfehler geprüft"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt die 'Kompatibilität'?",
+    "antworten": [
+      "Der Grad, zu dem ein System Informationen mit anderen Systemen austauschen kann",
+      "Die einfache Wartbarkeit durch Kollegen",
+      "Die intuitive Bedienung der Oberfläche"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Merkmal macht Software 'wartbar'?",
+    "antworten": [
+      "Ein gut strukturierter, übersichtlicher und modularer Quellcode",
+      "Eine besonders schnelle Datenbankanbindung",
+      "Die Einhaltung von strengen Datenschutzbestimmungen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum sind nicht-funktionale Anforderungen schwerer zu messen?",
+    "antworten": [
+      "Weil sie sich mit relativen Größen wie Geschwindigkeit oder Speicherbelastung befassen",
+      "Weil sie für den Kunden völlig unwichtig sind",
+      "Weil sie im Lastenheft niemals erwähnt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der erste Schritt im Testprozess?",
+    "antworten": [
+      "Testplanung (Teststrategie festlegen)",
+      "Testdurchführung (Fehler suchen)",
+      "Testauswertung (Protokoll schreiben)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Nachteil von White-Box-Tests?",
+    "antworten": [
+      "Fehler, die auf falschen Annahmen des Entwicklers beruhen, werden oft nicht erkannt",
+      "Man benötigt keinerlei Kenntnisse des Quellcodes",
+      "Sie können nur nach der Auslieferung beim Kunden durchgeführt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was prüft der 'Integrationstest'?",
+    "antworten": [
+      "Die Interaktion einzelner Komponenten und deren Schnittstellen",
+      "Nur eine einzelne, isolierte Funktion",
+      "Die Rechtschreibung in der Dokumentation"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann findet der 'Abnahmetest' statt?",
+    "antworten": [
+      "Erst direkt vor der Übergabe durch den Kunden selbst",
+      "Noch vor der eigentlichen Programmierung",
+      "Jedes Mal, wenn eine einzelne Zeile Code geschrieben wurde"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Hauptzweck einer statischen Codeanalyse?",
+    "antworten": [
+      "Prüfung der Syntax auf Korrektheit und Konformität durch Tools",
+      "Das Programm unter Volllast zum Absturz zu bringen",
+      "Die Zufriedenheit der Endnutzer zu messen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer übernimmt beim Pair Programming die Rolle des 'Observer'?",
+    "antworten": [
+      "Der Entwickler, der den Code während des Schreibens mitliest und prüft",
+      "Der Kunde, der die fertige Software testet",
+      "Ein automatisches Tool, das den Code in Maschinensprache übersetzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist es laut PDF unvorteilhaft, wenn Entwickler ihre eigenen Programme testen?",
+    "antworten": [
+      "Man übersieht eigene (Denk-)Fehler oder Fehlannahmen leichter",
+      "Entwickler haben rechtlich keine Erlaubnis zum Testen",
+      "Das Testen am eigenen Rechner beschädigt die Hardware"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Fazit zur Qualitätssicherung am Ende des PDFs?",
+    "antworten": [
+      "Qualität beginnt bereits bei der Anforderungsanalyse und Kommunikation",
+      "Testen ist die einzige Maßnahme, die für Qualität nötig ist",
+      "Ein guter Programmierer braucht keine Qualitätssicherung"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff User Experience (UX) laut Definition?",
+    "antworten": [
+      "Ein ganzheitliches Konzept, das die Beziehung zwischen Verbraucher und Produkt untersucht",
+      "Nur die technische Geschwindigkeit einer Webseite",
+      "Die Anzahl der Farben in einem Logo"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wer hat den UX-Honeycomb im Jahr 2004 entworfen?",
+    "antworten": [
+      "Peter Morville",
+      "Steve Jobs",
+      "ISO-Normungsausschuss"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele Eindrücke beschreibt der UX-Honeycomb für ein positives Erlebnis?",
+    "antworten": [
+      "7 Eindrücke",
+      "3 Eindrücke",
+      "12 Eindrücke",
+      "5 Eindrücke"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet das Kriterium 'useful' im UX-Kontext?",
+    "antworten": [
+      "Das Produkt muss einen konkreten Nutzen oder Vorteil bieten",
+      "Das Produkt muss teuer sein",
+      "Das Produkt muss bunt gestaltet sein"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Ziel verfolgt das Kriterium 'usable'?",
+    "antworten": [
+      "Einfache, effektive und effiziente Zielerreichung für den Anwender",
+      "Dass die Software möglichst viele Funktionen gleichzeitig anzeigt",
+      "Dass das System keine Passwörter benötigt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff 'desirable' im Honeycomb?",
+    "antworten": [
+      "Emotionale Aspekte wie Design, Image und Ästhetik",
+      "Die Kompatibilität mit Linux-Systemen",
+      "Die rechtliche Absicherung des Herstellers"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist das Kriterium 'findable' wichtig?",
+    "antworten": [
+      "Informationen müssen so platziert sein, dass langes Suchen unnötig ist",
+      "Damit man die Software im Laden findet",
+      "Damit Google die Seite besser bewertet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'accessible' in Bezug auf User Experience?",
+    "antworten": [
+      "Rücksichtnahme auf individuelle Ansprüche, z.B. Barrierefreiheit",
+      "Dass die Software kostenlos zum Download bereitsteht",
+      "Dass man das Programm ohne Internet nutzen kann"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie kann ein Produkt laut PDF 'credible' (glaubwürdig) wirken?",
+    "antworten": [
+      "Durch Transparenz, klare Nutzungsbedingungen und Informationssicherheit",
+      "Durch möglichst viel Werbung auf der Startseite",
+      "Indem man keine Fehler im Code macht"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'valuable' (wertvolles) Produkt?",
+    "antworten": [
+      "Es bietet handfeste Vorteile und zeugt von Professionalität und Sorgfalt",
+      "Es hat den höchsten Preis auf dem Markt",
+      "Es verbraucht sehr viel Arbeitsspeicher"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Disziplin wird im PDF als eigene Fachrichtung neben der Softwareentwicklung genannt?",
+    "antworten": [
+      "User Experience (UX)",
+      "Datenbankadministration",
+      "Netzwerktechnik"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist eine wichtige Maßnahme für 'findable' Inhalte?",
+    "antworten": [
+      "Eine intuitive Navigationsstruktur",
+      "Ein Handbuch mit 500 Seiten",
+      "Das Ausblenden aller Menüs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie steigert man die 'Glaubwürdigkeit' (credible) eines Herstellers?",
+    "antworten": [
+      "Indem man die Betreiber der Software vorstellt",
+      "Indem man unrealistische Erwartungen weckt",
+      "Durch das Verstecken des Impressums"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sollte man laut PDF bei 'valuable' Produkten vermeiden?",
+    "antworten": [
+      "Flüchtigkeitsfehler bei Design und Inhalt",
+      "Etablierte Standards und Konventionen",
+      "Den Fokus auf Anwendervorteile"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welchen Aspekt deckt 'accessible' ab, um niemanden auszuschließen?",
+    "antworten": [
+      "Berücksichtigung von Menschen mit Einschränkungen",
+      "Verwendung von Fachsprache für Experten",
+      "Beschränkung der Software auf High-End-PCs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Hauptziel der 'Sichtbarkeit des Systemzustands'?",
+    "antworten": [
+      "Anwender stets über aktuelle Vorgänge informieren und Feedback geben",
+      "Den Quellcode für den Nutzer sichtbar machen",
+      "Die Hardware-Temperatur dauerhaft anzeigen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Prinzip beschreibt die Übereinstimmung zwischen System und realer Welt?",
+    "antworten": [
+      "Verwendung von Begriffen und Konzepten, die dem Anwender vertraut sind",
+      "Das System muss exakt wie eine mechanische Maschine aussehen",
+      "Die Programmierung muss in der Muttersprache des Nutzers erfolgen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Nutzerkontrolle und Freiheit'?",
+    "antworten": [
+      "Möglichkeiten zum Rückgängigmachen und Wiederholen von Aktionen (Undo/Redo)",
+      "Dass der Nutzer den Preis der Software selbst bestimmen kann",
+      "Dass keine Passwörter für das System benötigt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum sind 'Konsistenz und Standards' in der UI wichtig?",
+    "antworten": [
+      "Damit Nutzer sich nicht fragen müssen, ob verschiedene Wörter das Gleiche bedeuten",
+      "Damit die Software auf jedem Monitor gleich groß angezeigt wird",
+      "Um die Dateigröße des Programms so gering wie möglich zu halten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist laut PDF effektiver als eine gute Fehlermeldung?",
+    "antworten": [
+      "Fehlervermeidung durch vorausschauendes Design",
+      "Ein dickes Benutzerhandbuch",
+      "Ein schneller Kundensupport"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet das Prinzip 'Wiedererkennung statt Erinnerung'?",
+    "antworten": [
+      "Objekte und Optionen sollten sichtbar sein, damit man sie nicht auswendig lernen muss",
+      "Das System sollte das Gesicht des Nutzers per Kamera erkennen",
+      "Das Logo der Firma sollte auf jeder Seite oben links stehen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ermöglichen 'Flexibilität und Effizienz' bei der Nutzung?",
+    "antworten": [
+      "Abkürzungen (Accelerators) für erfahrene Nutzer, die Anfänger nicht stören",
+      "Dass die Software automatisch alle Aufgaben alleine erledigt",
+      "Die Installation auf beliebig vielen Geräten gleichzeitig"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Kernziel von 'Ästhetik und minimalistischem Design'?",
+    "antworten": [
+      "Informationen auf das Wesentliche beschränken und Unwichtiges entfernen",
+      "Möglichst viele Animationen und Effekte einzubauen",
+      "Die gesamte Oberfläche nur in Schwarz und Weiß zu gestalten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sollten Fehlermeldungen für eine gute UX formuliert sein?",
+    "antworten": [
+      "In verständlicher Sprache, präzise und mit einem Lösungsvorschlag",
+      "Nur als technischer Fehlercode (z.B. Error 0x0045)",
+      "Sie sollten gar nicht erscheinen, um den Nutzer nicht zu erschrecken"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck von 'Hilfe und Dokumentation'?",
+    "antworten": [
+      "Kurze, präzise Anleitung zur Lösung konkreter Aufgaben bieten",
+      "Den kompletten Programmierverlauf des Projekts zu zeigen",
+      "Die rechtliche Haftung des Entwicklers auszuschließen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist die Benutzerzufriedenheit laut Fazit auch eine wirtschaftliche Entscheidung?",
+    "antworten": [
+      "Weil die Entwicklung von Features Zeit und Geld kostet",
+      "Weil zufriedene Nutzer immer mehr Geld bezahlen",
+      "Weil UX-Designer die teuersten Mitarbeiter sind"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wessen Perspektive sollten Entwickler laut PDF regelmäßig einnehmen?",
+    "antworten": [
+      "Die Perspektive der Verbraucher und Anwender",
+      "Die Perspektive der Konkurrenzunternehmen",
+      "Die Perspektive der Hardware-Hersteller"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Beispiel für 'Sichtbarkeit des Systemzustands' wird im PDF genannt?",
+    "antworten": [
+      "Fortschrittsbalken bei Downloads oder Installationen",
+      "Die Versionsnummer im Impressum",
+      "Die Farbe des Gehäuses"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Beispiel für die 'Übereinstimmung von System und realer Welt'?",
+    "antworten": [
+      "Ein Papierkorb-Symbol für das Löschen von Dateien",
+      "Ein kryptischer Fehlercode wie '0x80045'",
+      "Die Verwendung von Programmierbefehlen in der GUI"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird 'Nutzerkontrolle und Freiheit' technisch oft umgesetzt?",
+    "antworten": [
+      "Durch einen 'Abbrechen'-Button in Dialogfenstern",
+      "Durch das automatische Speichern ohne Beenden-Funktion",
+      "Durch das Sperren der Tastatur während eines Vorgangs"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'externer Konsistenz'?",
+    "antworten": [
+      "Die Einhaltung von industrieweiten Standards und Konventionen",
+      "Dass die Software nur auf externen Festplatten läuft",
+      "Dass das Design jeder Unterseite komplett anders aussieht"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Maßnahme dient der 'Fehlervermeidung' bei Benutzereingaben?",
+    "antworten": [
+      "Bestätigungsdialoge vor schwerwiegenden Aktionen (z.B. Löschen)",
+      "Das Programm nach jeder falschen Eingabe sofort schließen",
+      "Die Eingabefelder so klein wie möglich machen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein typisches Beispiel für 'Wiedererkennung statt Erinnerung'?",
+    "antworten": [
+      "Menüstrukturen und Icons statt Befehlseingaben",
+      "Das Auswendiglernen von Tastenkombinationen",
+      "Eine leere Kommandozeile ohne Hilfeanzeige"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was sind 'Accelerators' im Kontext von Flexibilität und Effizienz?",
+    "antworten": [
+      "Tastenkombinationen (Shortcuts) für erfahrene Nutzer",
+      "Besonders schnelle Prozessoren in der Hardware",
+      "Werbebanner, die den Nutzer zum Kauf animieren"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Merkmal für 'Ästhetik und minimalistisches Design'?",
+    "antworten": [
+      "Ein hohes 'Signal-to-Noise-Ratio' (Wichtiges hervorheben)",
+      "Möglichst viele verschiedene Schriftarten nutzen",
+      "Jeden verfügbaren Platz auf dem Bildschirm mit Text füllen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Information sollte eine gute Fehlermeldung NICHT enthalten?",
+    "antworten": [
+      "Schuldzuweisungen an den Nutzer",
+      "Eine verständliche Problembeschreibung",
+      "Einen Lösungsvorschlag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wann ist 'Hilfe und Dokumentation' laut PDF besonders wichtig?",
+    "antworten": [
+      "Wenn Nutzer vor einer konkreten Aufgabe stehen und nicht weiterwissen",
+      "Nur während der Installation der Software",
+      "Nur für die Entwickler, um den Code zu verstehen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
     "frage": "Wofür steht die Abkürzung HTML?",
     "antworten": [
       "Hypertext Markup Language",
@@ -4102,12 +4446,990 @@
       "Hyperlink and Text Management System"
     ],
     "richtige_antwort": 0
-
-    
+  },
+  {
+    "frage": "Wer entwickelte HTML um das Jahr 1990?",
+    "antworten": [
+      "Tim Berners-Lee",
+      "Håkon Wium Lie",
+      "Brendan Eich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Organisation gibt den aktuellen HTML-Standard heraus?",
+    "antworten": [
+      "World Wide Web Consortium (W3C)",
+      "Internet Engineering Task Force (IETF)",
+      "Microsoft Foundation"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Dateiendung ist für HTML-Dokumente üblich?",
+    "antworten": [
+      ".html oder .htm",
+      ".php oder .asp",
+      ".txt oder .doc"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element deklariert den Dokumententyp am Anfang der Datei?",
+    "antworten": [
+      "<!DOCTYPE html>",
+      "<html type=\"html5\">",
+      "<head content=\"html\">"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "In welchem Bereich stehen Metadaten, die nicht direkt im Browserfenster angezeigt werden?",
+    "antworten": [
+      "Im <head>-Bereich",
+      "Im <body>-Bereich",
+      "Im <footer>-Bereich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo muss der gesamte sichtbare Inhalt einer Webseite stehen?",
+    "antworten": [
+      "Im <body>-Bereich",
+      "Zwischen <head> und </head>",
+      "Hinter dem schließenden </html>-Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Elemente in HTML meist umschlossen?",
+    "antworten": [
+      "Durch ein öffnendes und ein schließendes Tag (z. B. <p>...</p>)",
+      "Nur durch einfache Anführungszeichen",
+      "Durch eckige Klammern am Ende jeder Zeile"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'leeres Element' (Self-Closing Tag) wie <br> oder <img>?",
+    "antworten": [
+      "Es hat keinen Inhalt und benötigt kein schließendes Tag",
+      "Es darf keinen Text enthalten",
+      "Es wird vom Browser ignoriert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo werden Attribute in einem HTML-Tag immer platziert?",
+    "antworten": [
+      "Im öffnenden Tag",
+      "Im schließenden Tag",
+      "Immer in einer eigenen Zeile nach dem Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut wird verwendet, um ein Element eindeutig zu identifizieren (darf nur einmal vorkommen)?",
+    "antworten": [
+      "id",
+      "class",
+      "name"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Tag wird eine ungeordnete Liste (mit Aufzählungspunkten) erstellt?",
+    "antworten": [
+      "<ul>",
+      "<ol>",
+      "<li>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag definiert einen einzelnen Listeneintrag?",
+    "antworten": [
+      "<li>",
+      "<list>",
+      "<item>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird eine Tabellenzeile in HTML definiert?",
+    "antworten": [
+      "<tr>",
+      "<td>",
+      "<th>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag wird für eine normale Datenzelle in einer Tabelle verwendet?",
+    "antworten": [
+      "<td>",
+      "<th>",
+      "<table-data>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt das Tag <th> in einer Tabelle?",
+    "antworten": [
+      "Es definiert eine Kopfzelle, die meist fett und zentriert dargestellt wird",
+      "Es erstellt eine neue Tabelle",
+      "Es fügt einen Zeilenumbruch in der Zelle ein"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck des <caption-Tags in einer Tabelle?",
+    "antworten": [
+      "Es gibt der gesamten Tabelle eine Überschrift",
+      "Es definiert die Hintergrundfarbe der Tabelle",
+      "Es verbindet zwei Spalten miteinander"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet es, dass HTML 'plattformunabhängig' ist?",
+    "antworten": [
+      "Es kann auf jedem Betriebssystem von einem Browser interpretiert werden",
+      "Es benötigt keine Internetverbindung",
+      "Es funktioniert nur auf mobilen Geräten"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Tag wird für die wichtigste Überschrift einer Seite verwendet?",
+    "antworten": [
+      "<h1>",
+      "<head1>",
+      "<caption>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das Attribut 'lang' im <html>-Tag genutzt?",
+    "antworten": [
+      "Zur Angabe der primären Sprache des Dokumentinhalts",
+      "Um die Länge der Webseite festzulegen",
+      "Um die Ladezeit der Seite zu messen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist die wichtigste Regel beim Verschachteln von HTML-Elementen?",
+    "antworten": [
+      "Elemente müssen in der umgekehrten Reihenfolge geschlossen werden, in der sie geöffnet wurden",
+      "Es dürfen maximal zwei Elemente ineinander liegen",
+      "Block-Elemente müssen immer vor Inline-Elementen geschlossen werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sieht die korrekte Syntax für einen Kommentar in HTML aus?",
+    "antworten": [
+      "",
+      "// Kommentar",
+      "/* Kommentar */"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches globale Attribut wird verwendet, um CSS-Stile auf eine Gruppe von Elementen anzuwenden?",
+    "antworten": [
+      "class",
+      "id",
+      "style-group"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das 'title'-Attribut bei HTML-Elementen meistens genutzt?",
+    "antworten": [
+      "Es erzeugt einen Tooltip, wenn man mit der Maus über das Element fährt",
+      "Es legt die Hauptüberschrift der Seite fest",
+      "Es dient zur Suchmaschinenoptimierung des Bildnamens"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Tag wird eine geordnete Liste (mit Nummerierung) erstellt?",
+    "antworten": [
+      "<ol>",
+      "<ul>",
+      "<list-ordered>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt der Begriff 'Semantik' im Zusammenhang mit HTML-Tags?",
+    "antworten": [
+      "Dass Tags eine Bedeutung vermitteln (z. B. <nav> für Navigation) statt nur Design",
+      "Dass alle Tags in Großbuchstaben geschrieben werden müssen",
+      "Die Ladegeschwindigkeit der einzelnen Elemente"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird laut PDF genutzt, um einen Zeilenumbruch ohne neuen Absatz zu erzeugen?",
+    "antworten": [
+      "<br>",
+      "<lb>",
+      "<break>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut wird in einer Tabellenzelle genutzt, um diese über mehrere Spalten zu strecken?",
+    "antworten": [
+      "colspan",
+      "rowspan",
+      "expand"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt das Attribut 'rowspan' in einer Tabelle?",
+    "antworten": [
+      "Es dehnt eine Zelle über mehrere Zeilen nach unten aus",
+      "Es fügt eine neue Zeile am Ende der Tabelle ein",
+      "Es legt die Höhe einer gesamten Zeile fest"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element umschließt die Kopfzeilen einer Tabelle?",
+    "antworten": [
+      "<thead>",
+      "<tfooter>",
+      "<hrow>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Hauptziel von Strukturelementen in HTML?",
+    "antworten": [
+      "Inhalte sinnvoll ordnen und eine übersichtliche Informationsarchitektur schaffen",
+      "Die Hintergrundfarbe der Webseite festlegen",
+      "Die Ladegeschwindigkeit der Bilder erhöhen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element dient als Container für einleitende Informationen oder Menüs?",
+    "antworten": [
+      "<header>",
+      "<footer>",
+      "<main>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele <main>-Elemente dürfen pro HTML-Dokument maximal vorhanden sein?",
+    "antworten": [
+      "Genau ein Element",
+      "Beliebig viele",
+      "Maximal zwei (eins oben, eins unten)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Inhalte gehören laut PDF typischerweise in das <footer>-Element?",
+    "antworten": [
+      "Fußnoten, Urheberrechtshinweise und Kontaktinformationen",
+      "Die Hauptüberschrift der Seite",
+      "Das primäre Navigationsmenü für die gesamte Seite"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <nav>-Element primär verwendet?",
+    "antworten": [
+      "Für Bereiche, die Navigationslinks enthalten",
+      "Um Bilder in den Text einzubetten",
+      "Um externe Werbebanner zu kennzeichnen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element umschließt einen eigenständigen, in sich geschlossenen Inhalt wie Blogbeiträge?",
+    "antworten": [
+      "<article>",
+      "<section>",
+      "<aside>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet das <aside>-Element?",
+    "antworten": [
+      "Es enthält Inhalte, die nur indirekt mit dem Hauptinhalt zu tun haben (z. B. Sidebars)",
+      "Es definiert den wichtigsten Textabschnitt einer Seite",
+      "Es wird für die rechtlichen Hinweise am Seitenende genutzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird als allgemeiner Container verwendet, wenn kein semantisches Element passt?",
+    "antworten": [
+      "<div>",
+      "<span>",
+      "<section>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Hauptzweck des <a>-Elements?",
+    "antworten": [
+      "Erstellung von Hyperlinks zur Navigation",
+      "Anzeige von animierten Grafiken",
+      "Definition von Absatzabständen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut im <a>-Tag gibt das Ziel des Links an?",
+    "antworten": [
+      "href",
+      "src",
+      "target"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <form>-Element genutzt?",
+    "antworten": [
+      "Als Container für verschiedene interaktive Eingabeelemente",
+      "Um mathematische Formeln darzustellen",
+      "Um das Design von Tabellen festzulegen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Attribut im <form>-Tag legt fest, wohin die Daten gesendet werden?",
+    "antworten": [
+      "action",
+      "method",
+      "target"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche zwei Übertragungsmethoden werden für Formulare am häufigsten genannt?",
+    "antworten": [
+      "GET und POST",
+      "SEND und RECEIVE",
+      "PUSH und PULL"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird verwendet, um eine Beschriftung für ein Eingabefeld zu erstellen?",
+    "antworten": [
+      "<label>",
+      "<caption>",
+      "<text>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden <label> und <input> laut PDF technisch korrekt verknüpft?",
+    "antworten": [
+      "Über die Attribute 'for' (beim Label) und 'id' (beim Input)",
+      "Durch einfaches Nebeneinanderschreiben im Code",
+      "Über das Attribut 'name' bei beiden Elementen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches 'type'-Attribut beim <input> erzeugt einen Button zum Absenden des Formulars?",
+    "antworten": [
+      "submit",
+      "button",
+      "send"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Unterschied zwischen Radio-Buttons und Checkboxen?",
+    "antworten": [
+      "Radio-Buttons erlauben nur eine Wahl aus einer Gruppe, Checkboxen mehrere",
+      "Checkboxen sind immer rund, Radio-Buttons quadratisch",
+      "Es gibt technisch keinen Unterschied"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Element wird für ein ausklappbares Auswahlmenü (Dropdown) verwendet?",
+    "antworten": [
+      "<select>",
+      "<dropdown>",
+      "<menu>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das <option>-Element innerhalb eines <select>-Elements benötigt?",
+    "antworten": [
+      "Um die einzelnen wählbaren Einträge zu definieren",
+      "Um die Hintergrundfarbe des Menüs zu ändern",
+      "Um das Menü schreibgeschützt zu machen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist laut Fazit nötig, um HTML-Eingaben tatsächlich zu verarbeiten?",
+    "antworten": [
+      "Eine Programmiersprache wie PHP",
+      "Zusätzliche HTML-Tags",
+      "Ein spezieller Browser-Plug-in"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung CSS?",
+    "antworten": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Computer Syntax Sheets"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der wesentliche Vorteil der gemeinsamen Verwendung von HTML und CSS?",
+    "antworten": [
+      "Die Trennung von Inhalt und Darstellung",
+      "Die Erhöhung der Rechengeschwindigkeit des Prozessors",
+      "Dass keine Webbrowser mehr benötigt werden"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Dateiendung haben CSS-Dateien üblicherweise?",
+    "antworten": [
+      ".css",
+      ".style",
+      ".html"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Aus welchen zwei Hauptbestandteilen besteht eine CSS-Regel?",
+    "antworten": [
+      "Selektor und Deklarationsblock",
+      "Tag und Attribut",
+      "Kopf und Körper"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden mehrere Deklarationen innerhalb eines Deklarationsblocks voneinander getrennt?",
+    "antworten": [
+      "Durch ein Semikolon (;)",
+      "Durch ein Komma (,)",
+      "Durch einen Punkt (.)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zeichen umschließt den Deklarationsblock in CSS?",
+    "antworten": [
+      "Geschweifte Klammern { }",
+      "Eckige Klammern [ ]",
+      "Runde Klammern ( )"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Methode wird empfohlen, um CSS in eine HTML-Datei einzubinden?",
+    "antworten": [
+      "Externes Stylesheet über das <link>-Element im <head>",
+      "Inline-Styles direkt im HTML-Tag",
+      "Einbetten des CSS-Codes im <body>-Bereich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt der Universalselektor (*)?",
+    "antworten": [
+      "Er spricht alle Elemente im Dokument an",
+      "Er spricht nur das erste Element an",
+      "Er löscht alle Formatierungen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird ein Klassenselektor in CSS gekennzeichnet?",
+    "antworten": [
+      "Durch einen vorangestellten Punkt (z. B. .meineKlasse)",
+      "Durch eine vorangestellte Raute (z. B. #meineKlasse)",
+      "Durch einfache Anführungszeichen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Womit beginnt ein ID-Selektor in CSS?",
+    "antworten": [
+      "Mit einer Raute (z. B. #meineId)",
+      "Mit einem Punkt (z. B. .meineId)",
+      "Mit einem kaufmännischen Und (&)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Selektor spricht alle <p>-Elemente an, die sich innerhalb eines <div> befinden?",
+    "antworten": [
+      "Nachkommenselektor (div p)",
+      "Kindselektor (div > p)",
+      "Nachbarselektor (div + p)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Unterschied zwischen einem Kindselektor (div > p) und einem Nachkommenselektor (div p)?",
+    "antworten": [
+      "Der Kindselektor spricht nur direkte Nachfahren der ersten Ebene an",
+      "Der Nachkommenselektor spricht nur das erste Kind an",
+      "Es gibt keinen funktionalen Unterschied"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Selektoren beim Gruppenselektor voneinander getrennt?",
+    "antworten": [
+      "Durch ein Komma",
+      "Durch ein Pluszeichen",
+      "Durch ein Leerzeichen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Selektor spricht ein Element an, das unmittelbar auf ein anderes folgt?",
+    "antworten": [
+      "Nachbarselektor (div + p)",
+      "Geschwisterselektor (div ~ p)",
+      "Universalselektor (*)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was versteht man unter 'Vererbung' in CSS?",
+    "antworten": [
+      "Kindelemente übernehmen bestimmte Eigenschaften ihrer Elternelemente",
+      "Dass CSS-Regeln von HTML-Tags gelöscht werden",
+      "Dass man CSS-Code von anderen Webseiten kopieren kann"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert, wenn sich CSS-Regeln widersprechen (Kaskade)?",
+    "antworten": [
+      "Der Browser entscheidet nach der Spezifität und der Reihenfolge der Regeln",
+      "Das gesamte Stylesheet wird ungültig",
+      "Es wird immer die kürzeste Regel angewendet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Warum ist die Kaskadierung (Cascading) namensgebend für CSS?",
+    "antworten": [
+      "Weil Regeln nach einer bestimmten Rangfolge (Wasserfallprinzip) angewendet werden",
+      "Weil der Code wie ein Wasserfall eingerückt werden muss",
+      "Weil sie nur für flüssige Layouts funktioniert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie sieht ein zusammengesetzter Selektor für alle <div> mit der Klasse 'fett' aus?",
+    "antworten": [
+      "div.fett",
+      "div .fett",
+      "div, fett"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Organisation entwickelt den CSS-Standard?",
+    "antworten": [
+      "World Wide Web Consortium (W3C)",
+      "ISO",
+      "Google"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo sollte der Link zum externen CSS-Stylesheet platziert werden?",
+    "antworten": [
+      "Im <head>-Bereich des HTML-Dokuments",
+      "Am Ende des <body>-Bereichs",
+      "Hinter dem schließenden </html>-Tag"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie viele vordefinierte Farbnamen können in CSS direkt verwendet werden?",
+    "antworten": [
+      "140",
+      "256",
+      "512"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung RGB im Farbsystem?",
+    "antworten": [
+      "Red, Green, Blue",
+      "Real Glossy Background",
+      "Red, Grey, Black"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Farbsystem verwendet sechsstellige Hexadezimalwerte (z. B. #CD5C5C)?",
+    "antworten": [
+      "HEX-Farbsystem",
+      "HSL-Farbsystem",
+      "RGB-Farbsystem"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeuten die drei Werte im HSL-Farbsystem?",
+    "antworten": [
+      "Hue (Farbwert), Saturation (Sättigung), Lightness (Helligkeit)",
+      "High, Soft, Low",
+      "Header, Section, Layout"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welcher CSS-Eigenschaft wird die Hintergrundfarbe eines Elements festgelegt?",
+    "antworten": [
+      "background-color",
+      "color-background",
+      "bg-color"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft wird genutzt, um ein Bild als Hintergrund zu verwenden?",
+    "antworten": [
+      "background-image",
+      "image-source",
+      "bg-image"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird der Pfad zu einem Hintergrundbild innerhalb der CSS-Regel angegeben?",
+    "antworten": [
+      "url('bildpfad.jpg')",
+      "src('bildpfad.jpg')",
+      "link('bildpfad.jpg')"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt der Wert 'no-repeat' bei der Eigenschaft background-repeat?",
+    "antworten": [
+      "Das Hintergrundbild wird nur einmal angezeigt und nicht gekachelt",
+      "Das Bild wird über die gesamte Seite gestreckt",
+      "Das Bild wird ausgeblendet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft legt fest, ob ein Hintergrundbild mitscrollt oder fixiert bleibt?",
+    "antworten": [
+      "background-attachment",
+      "background-scroll",
+      "background-fix"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bewirkt die Einstellung 'background-size: cover;'?",
+    "antworten": [
+      "Das Bild wird so skaliert, dass der gesamte Bereich vollständig bedeckt ist",
+      "Das Bild wird immer in seiner Originalgröße angezeigt",
+      "Das Bild wird nur in der Mitte der Seite platziert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welcher Eigenschaft kann man die Position des Hintergrundbildes bestimmen?",
+    "antworten": [
+      "background-position",
+      "background-align",
+      "image-gravity"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt ein 'Monochromatisches Farbschema'?",
+    "antworten": [
+      "Es basiert auf nur einem Farbton in verschiedenen Nuancen und Sättigungen",
+      "Es verwendet drei völlig verschiedene Farben vom Farbkreis",
+      "Es besteht nur aus Schwarz und Weiß"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was kennzeichnet ein 'Komplementäres Farbschema'?",
+    "antworten": [
+      "Zwei Farbtöne, die sich auf dem Farbkreis direkt gegenüberliegen",
+      "Drei Farben, die direkt nebeneinander liegen",
+      "Die Verwendung von Pastellfarben"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Vorteil eines 'Analogen Farbschemas'?",
+    "antworten": [
+      "Es wirkt harmonisch und für das Auge angenehm, da es oft in der Natur vorkommt",
+      "Es bietet den größtmöglichen Kontrast",
+      "Es ist besonders gut für Warnhinweise geeignet"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist das Merkmal eines 'Triadischen Farbschemas'?",
+    "antworten": [
+      "Drei Farbtöne in gleichmäßigem Abstand auf dem Farbkreis",
+      "Nur Primärfarben",
+      "Die ausschließliche Verwendung von Graustufen"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'RGBA' im Gegensatz zu 'RGB'?",
+    "antworten": [
+      "Es enthält einen zusätzlichen Wert für den Alpha-Kanal (Transparenz)",
+      "Es steht für automatische Farbauswahl",
+      "Es wird für animierte Farben genutzt"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert, wenn mehrere Elemente sich gegenseitig überdecken?",
+    "antworten": [
+      "Jedes Element behält seinen eigenen Hintergrund",
+      "Hintergründe werden automatisch gemischt",
+      "Nur das unterste Element zeigt eine Farbe"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Eigenschaft wird für zusammengesetzte Wörter in CSS typischerweise verwendet?",
+    "antworten": [
+      "Bindestriche (z. B. background-color)",
+      "Unterstriche (z. B. background_color)",
+      "CamelCase (z. B. backgroundColor)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird die Sättigung (Saturation) im HSL-Modell angegeben?",
+    "antworten": [
+      "In Prozent von 0% bis 100%",
+      "In Werten von 0 bis 255",
+      "In Gradzahlen von 0 bis 360"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Fazit zieht das PDF zum Einsatz von Farben im Design?",
+    "antworten": [
+      "Farben sollen mit Bedacht eingesetzt werden, da der Gesamteindruck zählt",
+      "Je mehr Farben verwendet werden, desto professioneller wirkt das Design",
+      "Farben haben keinen Einfluss auf die User Experience"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür steht die Abkürzung PHP?",
+    "antworten": [
+      "PHP: Hypertext Preprocessor",
+      "Personal Home Page",
+      "Programmable Hypertext Processor"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein wesentliches Merkmal von dynamischen Webseiten im Vergleich zu statischen?",
+    "antworten": [
+      "Inhalte werden erst beim Aufruf aus einer Datenbank generiert",
+      "Der Inhalt ist fest in der HTML-Datei geschrieben",
+      "Sie benötigen weniger Rechenleistung auf dem Server"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wo wird PHP-Code ausgeführt?",
+    "antworten": [
+      "Serverseitig auf dem Webserver",
+      "Clientseitig direkt im Browser des Nutzers",
+      "Auf dem lokalen Betriebssystem des Anwenders"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Mit welchem Symbol werden Variablen in PHP deklariert?",
+    "antworten": [
+      "$ (Dollarzeichen)",
+      "& (Kaufmännisches Und)",
+      "# (Raute)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie wird ein PHP-Block in einer Datei umschlossen?",
+    "antworten": [
+      "<?php ... ?>",
+      "<php> ... </php>",
+      "<% ... %>"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welche Methode wird empfohlen, wenn Formulardaten nicht in der URL sichtbar sein sollen?",
+    "antworten": [
+      "POST",
+      "GET",
+      "REQUEST"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches PHP-Objekt wird im PDF häufig für den Datenbankzugriff (z. B. MySQL) verwendet?",
+    "antworten": [
+      "PDO (PHP Data Objects)",
+      "SQL-Connector",
+      "DB-Link"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist der Zweck des Befehls 'include' oder 'require' in PHP?",
+    "antworten": [
+      "Das Einbinden von externen Dateien in das aktuelle Skript",
+      "Das Löschen von Variablen aus dem Speicher",
+      "Das Verschlüsseln von Datenbankpasswörtern"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was passiert bei der Verwendung der GET-Methode mit den Formulardaten?",
+    "antworten": [
+      "Sie werden an die URL angehängt und sind für jeden sichtbar",
+      "Sie werden verschlüsselt im Hintergrund übertragen",
+      "Sie werden automatisch in der Datenbank gespeichert"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Kommentare in PHP-Code korrekt verfasst?",
+    "antworten": [
+      "// oder /* ... */",
+      "",
+      "# Kommentar #"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welcher Schritt ist nötig, um eine Webseite 'live' zu schalten?",
+    "antworten": [
+      "Dateien mittels FTP zum Provider hochladen",
+      "Den Quellcode in eine PDF-Datei umwandeln",
+      "Die HTML-Tags in Großbuchstaben schreiben"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was bedeutet 'CRUD' im Kontext von Datenbanken?",
+    "antworten": [
+      "Create, Read, Update, Delete",
+      "Copy, Rename, Undo, Disconnect",
+      "Central Remote User Database"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Protokoll wird für eine sichere Terminalsitzung zum Server verwendet?",
+    "antworten": [
+      "SSH (Secure Shell)",
+      "HTTP",
+      "FTP"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein typischer Fehler bei der Arbeit mit PHP/CSS laut PDF?",
+    "antworten": [
+      "Vergessen des Semikolons (;) als Trennzeichen",
+      "Verwendung von zu vielen Leerzeichen",
+      "Schreiben von zu langem Code"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wie werden Funktionen in PHP deklariert?",
+    "antworten": [
+      "function meineFunktion() { ... }",
+      "create meineFunktion() { ... }",
+      "new function meineFunktion() { ... }"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Zeichen dient in PHP zur Zeichenketten-Verknüpfung (String Concatenation)?",
+    "antworten": [
+      ". (Punkt)",
+      "+ (Plus)",
+      "& (Und-Zeichen)"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was ist ein Vorteil von dynamischen Webseiten?",
+    "antworten": [
+      "Änderungen am Design müssen nur an einer zentralen Stelle vorgenommen werden",
+      "Sie funktionieren ohne Webserver",
+      "Die Erstellung ist völlig ohne Programmierkenntnisse möglich"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Wofür wird das SQL-Statement 'SELECT' verwendet?",
+    "antworten": [
+      "Zum Abfragen von Daten aus einer Datenbank",
+      "Zum Löschen einer kompletten Tabelle",
+      "Zum Ändern von Passwörtern"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Welches Programm wird im PDF als FTP-Client oder für SSH-Sitzungen genannt?",
+    "antworten": [
+      "FileZilla oder Putty",
+      "Photoshop",
+      "Windows Media Player"
+    ],
+    "richtige_antwort": 0
+  },
+  {
+    "frage": "Was beschreibt ein ERM (Entity Relationship Model)?",
+    "antworten": [
+      "Die logische Struktur und Beziehungen der Daten in einer Datenbank",
+      "Den grafischen Aufbau der Benutzeroberfläche",
+      "Die Geschwindigkeit der Internetverbindung"
+    ],
+    "richtige_antwort": 0
   }
-  
-  
-   }
-    
-  
+]
 
+
+  }
+}
